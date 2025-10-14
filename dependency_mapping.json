@@ -1,0 +1,80 @@
+{
+  "project_id": "1211626875246589",
+  "project_name": "Module Development Template - Project 1",
+  "total_dependencies": 45,
+  "dependency_groups": {
+    "critical_path": [
+      {"task": "Kick off meeting", "blocks": ["MPD Draft"]},
+      {"task": "MPD Draft", "blocks": ["MPD Finalised"]},
+      {"task": "MPD Finalised", "blocks": ["Week 1 - Storyboarding"]},
+      {"task": "MPD review", "blocks": ["Week 1 - Storyboarding"]},
+      {"task": "Week 1 - Storyboard Final draft agreed", "blocks": ["Week 1 - Build"]},
+      {"task": "Week 2 - Storyboard Final draft agreed", "blocks": ["Week 2 - Build"]},
+      {"task": "Week 3 - Storyboard Final draft agreed", "blocks": ["Week 3 - Build"]},
+      {"task": "Week 4 - Storyboard Final draft agreed", "blocks": ["Week 4 - Build"]},
+      {"task": "Week 5 - Storyboard Final draft agreed", "blocks": ["Week 5 - Build"]},
+      {"task": "Week 6 - Storyboard Final draft agreed", "blocks": ["Week 6 - Build"]},
+      {"task": "Week 7 - Storyboard Final draft agreed", "blocks": ["Week 7 - Build"]},
+      {"task": "Week 8 - Storyboard Final draft agreed", "blocks": ["Week 8 - Build"]},
+      {"task": "Week 2 - Build", "blocks": ["Week 1 and 2 review"]},
+      {"task": "Week 8 - Build", "blocks": ["Weeks 3 to 8 review"]},
+      {"task": "Corrections", "blocks": ["Ready for launch"]},
+      {"task": "Ready for launch", "blocks": ["Go live"]}
+    ],
+    "cascading_build": [
+      {"task": "Week 1 - Build", "blocks": ["Week 2 - Storyboarding", "Week 1 and 2 review"]},
+      {"task": "Week 2 - Build", "blocks": ["Week 3 - Storyboarding"]},
+      {"task": "Week 3 - Build", "blocks": ["Week 4 - Storyboarding", "Weeks 3 to 8 review"]},
+      {"task": "Week 4 - Build", "blocks": ["Week 5 - Storyboarding", "Film shoot - first batch"]},
+      {"task": "Week 5 - Build", "blocks": ["Week 6 - Storyboarding"]},
+      {"task": "Week 6 - Build", "blocks": ["Week 7 - Storyboarding"]},
+      {"task": "Week 7 - Build", "blocks": ["Week 8 - Storyboarding"]}
+    ],
+    "within_task_week1": [
+      {"task": "Week 1 - Storyboard Initial LD Draft", "blocks": ["Week 1 - Edit"]},
+      {"task": "Week 1 - Storyboard SME Scripts Draft", "blocks": ["Week 1 - Edit"]},
+      {"task": "Week 1 - Edit", "blocks": ["Week 1 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week2": [
+      {"task": "Week 2 - Storyboard Initial LD Draft", "blocks": ["Week 2 - Edit"]},
+      {"task": "Week 2 - Storyboard SME Scripts Draft", "blocks": ["Week 2 - Edit"]},
+      {"task": "Week 2 - Edit", "blocks": ["Week 2 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week3": [
+      {"task": "Week 3 - Storyboard Initial LD Draft", "blocks": ["Week 3 - Edit"]},
+      {"task": "Week 3 - Storyboard SME Scripts Draft", "blocks": ["Week 3 - Edit"]},
+      {"task": "Week 3 - Edit", "blocks": ["Week 3 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week4": [
+      {"task": "Week 4 - Storyboard Initial LD Draft", "blocks": ["Week 4 - Edit"]},
+      {"task": "Week 4 - Storyboard SME Scripts Draft", "blocks": ["Week 4 - Edit"]},
+      {"task": "Week 4 - Edit", "blocks": ["Week 4 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week5": [
+      {"task": "Week 5 - Storyboard Initial LD Draft", "blocks": ["Week 5 - Edit"]},
+      {"task": "Week 5 - Storyboard SME Scripts Draft", "blocks": ["Week 5 - Edit"]},
+      {"task": "Week 5 - Edit", "blocks": ["Week 5 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week6": [
+      {"task": "Week 6 - Storyboard Initial LD Draft", "blocks": ["Week 6 - Edit"]},
+      {"task": "Week 6 - Storyboard SME Scripts Draft", "blocks": ["Week 6 - Edit"]},
+      {"task": "Week 6 - Edit", "blocks": ["Week 6 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week7": [
+      {"task": "Week 7 - Storyboard Initial LD Draft", "blocks": ["Week 7 - Edit"]},
+      {"task": "Week 7 - Storyboard SME Scripts Draft", "blocks": ["Week 7 - Edit"]},
+      {"task": "Week 7 - Edit", "blocks": ["Week 7 - Storyboard Final draft agreed"]}
+    ],
+    "within_task_week8": [
+      {"task": "Week 8 - Storyboard Initial LD Draft", "blocks": ["Week 8 - Edit"]},
+      {"task": "Week 8 - Storyboard SME Scripts Draft", "blocks": ["Week 8 - Edit"]},
+      {"task": "Week 8 - Edit", "blocks": ["Week 8 - Storyboard Final draft agreed"]}
+    ],
+    "finalization": [
+      {"task": "Film shoot - first batch", "blocks": []},
+      {"task": "Film shoot - second batch", "blocks": ["Proofreading"]},
+      {"task": "Proofreading", "blocks": []},
+      {"task": "Weeks 3 to 8 review", "blocks": ["Corrections"]}
+    ]
+  }
+}
