@@ -1,0 +1,27 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Effort,Priority,Status,Launch Date,Module Author,Module
+1211597233918833,2025-10-09,,2025-10-09,[READ ME] Instructions for using this template,Untitled section,,,,2026-06-15,,"This project template is set up in timeline view with sections and Asana-created custom fields to help you track your team's work.
+
+We've provided some examples in this template to get you started, but you should add tasks, change task names, modify date ranges, and change any other info to make this project your own. Follow our tips below and read our https://asana.com/resources/create-project-management-timeline-template to learn more.
+
+Send feedback about this template: https://asa.na/templatesfeedback",MBA,,,,Small,,,,,
+1211597233918834,2025-10-09,,2025-10-09,"Assign tasks to colleagues, so your team knows who is doing what and everyone is accountable for their work",,,,,2026-06-15,,,,[READ ME] Instructions for using this template,,,,,,,,
+1211597233918835,2025-10-09,,2025-10-09,"Give each task a due date or date range to see them all in Timeline View, and ensure that deadlines are met",,,,,2026-06-15,,,,[READ ME] Instructions for using this template,,,,,,,,
+1211597233918836,2025-10-09,,2025-10-09,"Use Custom Fields to track level of effort, priority, and status",,,,,2026-06-15,,,,[READ ME] Instructions for using this template,,,,,,,,
+1211597233918837,2025-10-09,,2025-10-09,[EXAMPLE TASK] Identify key stakeholders and approvers,Untitled section,,,2026-06-15,2026-06-18,,,MBA,,,,Small,,,,,
+1211597233918838,2025-10-09,,2025-10-09,[EXAMPLE MILESTONE] Define project goals,Untitled section,,,,2026-06-22,,,MBA,,,,Medium,,,,,
+1211597233918839,2025-10-09,,2025-10-09,[EXAMPLE TASK] Kick off project with cross-functional team,Untitled section,,,2026-06-22,2026-06-24,,,MBA,,,,Medium,,,,,
+1211597233918840,2025-10-09,,2025-10-09,[EXAMPLE TASK] Map out dependencies,Untitled section,,,2026-06-17,2026-06-25,,,MBA,,,,Large,,,,,
+1211597233918841,2025-10-09,,2025-10-09,[EXAMPLE TASK] Measure performance against goals,Untitled section,,,2026-06-23,2026-06-30,,,MBA,,,,Small,,,,,
+1211597233918842,2025-10-09,,2025-10-09,[EXAMPLE TASK] Communicate project results,Untitled section,,,2026-07-02,2026-07-03,,,MBA,,,,Medium,,,,,
+1211597233918843,2025-10-09,,2025-10-09,[EXAMPLE MILESTONE] Complete project,Untitled section,,,,2026-07-06,,,MBA,,,Orientation,,,Large,,,
+1211597233973007,2025-10-09,2025-10-09,2025-10-09,Orientation,Orientation,Vlad Tudorie,vlad.tudorie@learningdesignsolutions.dev,2025-03-17,2025-06-23,,,MBA,,[EXAMPLE MILESTONE] Complete project,Strategy Formulation and Implementation,Small,Medium,At Risk,2025-06-09,andrew@learningdesignsolutions.dev,
+1211597233973031,2025-10-09,,2025-10-09,Week 1 - Storyboard Final draft agreed,Strategy Formulation and Implementation,Debbie Mulkern,debbie@learningdesignsolutions.co.uk,2025-04-25,2025-05-05,,,MBA,Strategy Formulation and Implementation,,,,,Week 1 - Edit ,,,
+1211597233973029,2025-10-09,,2025-10-09,Week 1 - Edit ,Strategy Formulation and Implementation,Debbie Mulkern,debbie@learningdesignsolutions.co.uk,2025-05-05,2025-05-22,,,MBA,Strategy Formulation and Implementation,,,,Week 1 - Storyboard Final draft agreed,Week 1 - Storyboard SME Scripts Draft ,,,
+1211597233973027,2025-10-09,,2025-10-09,Week 1 - Storyboard SME Scripts Draft ,Strategy Formulation and Implementation,Debbie Mulkern,debbie@learningdesignsolutions.co.uk,2025-05-23,2025-05-31,,,MBA,Strategy Formulation and Implementation,,,,Week 1 - Edit ,Week 1 - Storyboard Initial LD Draft ,,,
+1211597233973025,2025-10-09,,2025-10-09,Week 1 - Storyboard Initial LD Draft ,Strategy Formulation and Implementation,Debbie Mulkern,debbie@learningdesignsolutions.co.uk,2025-05-31,2025-06-06,,,MBA,Strategy Formulation and Implementation,,,,Week 1 - Storyboard SME Scripts Draft ,,,,
+1211597233973040,2025-10-09,,2025-10-09,Strategy Formulation Complete,Strategy Formulation and Implementation,Debbie Mulkern,debbie@learningdesignsolutions.co.uk,,2025-06-30,,,MBA,Strategy Formulation and Implementation,,,,,,,,
+1211597233973037,2025-10-09,,2025-10-09,Strategy Formulation and Implementation,,,,Strategy Formulation and Implementation,,,2025-03-10,2025-06-10,,,MBA,,Orientation,,,,
+1211597233973050,2025-10-09,,2025-10-09,Week 1 - Storyboard Final draft agreed,,,,,,,,,Strategy Formulation and Implementation,,,,,,,,
+1211597233973051,2025-10-09,,2025-10-09,Week 1 - Edit ,,,,,,,,,Strategy Formulation and Implementation,,,,,,,,
+1211597233973052,2025-10-09,,2025-10-09,Week 1 - Storyboard SME Scripts Draft ,,,,,,,,,Strategy Formulation and Implementation,,,,,,,,
+1211597233973053,2025-10-09,,2025-10-09,Week 1 - Storyboard Initial LD Draft ,,,,,,,,,Strategy Formulation and Implementation,,,,,,,,

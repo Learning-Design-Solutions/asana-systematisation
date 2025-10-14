@@ -1,0 +1,760 @@
+Project Management Review Call - Vlad, Andrew - October 09
+VIEW RECORDING: https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze
+Meeting Purpose:
+
+Discuss and plan the implementation of Asana for project management, focusing on creating templates and structuring workflows for online education projects, while transitioning from spreadsheet-based management.
+
+Issues & Tickets:
+
+Asana Setup and Configuration
+
+Context:
+
+Andrew is transitioning from spreadsheet-based project management to Asana. The focus is on creating templates for module development and program management, particularly for online education projects. Current projects like Walbrook are already in progress using existing methods, so the emphasis is on creating templates for future projects.
+
+Status:
+
+Initial setup of Asana account completed. Advanced trial activated for portfolio features. Email domain verification completed for learningdesignsolutions.dev.
+
+Concerns, Challenges, and Blockers
+
+  - Ensuring Asana can replicate the functionality of current spreadsheet-based planning
+  - Managing the transition of workload from clients to Andrew's team when using Asana
+  - Complexity of nesting and structuring projects within Asana
+  - Potential need for admin support in the future to manage client roles within Asana
+  - Balancing the level of detail in Asana with the need for quick, high-level planning for new clients
+
+Ideas and Explanations
+
+  - Use Asana's portfolio feature to manage multiple programs for a client
+  - Structure projects with sections representing course weeks and grouping options for different phases
+  - Utilize Asana's timeline view for resource allocation and scheduling
+  - Implement a two-tier system: one for overall program management and another for detailed module development
+  - Use Asana's relative dates feature for template creation to auto-calculate task dates based on project start or end dates
+
+Decisions and Next Steps
+
+  - Vlad to create project templates for module development and program tracking
+  - Investigate Asana's time tracking capabilities as a potential Clockify replacement
+  - Schedule recurring Tuesday and Thursday meetings for progress updates
+  - Focus on creating templates that can be easily duplicated and modified for new clients
+  - Explore Asana's grouping and nesting options to find the optimal structure for projects and portfolios
+
+Current Objective:
+
+Create scalable Asana templates that can be easily adapted for new clients and projects, focusing on resource allocation and task management for online course development.
+
+Client Onboarding Process
+
+Context:
+
+Andrew needs to articulate and structure his role and the stages of client onboarding more effectively. This process is currently not implemented in Asana but is crucial for future client management.
+
+Status:
+
+Not yet implemented in Asana.
+
+Decisions and Next Steps
+
+  - Begin building projects around client onboarding process in Asana
+  - Incorporate stages of client engagement into Asana structure
+
+Asana Advanced Features Exploration
+
+Context:
+
+The team is exploring Asana's advanced features to maximize its utility for Andrew's business needs.
+
+Status:
+
+Advanced trial activated, initial exploration of features begun.
+
+Ideas and Explanations
+
+  - Utilize portfolio features for managing multiple programs
+  - Explore workload management features for resource allocation
+  - Investigate time tracking capabilities within Asana
+
+Decisions and Next Steps
+
+  - Vlad to explore and report on Asana's advanced features, particularly time tracking
+
+Other & Incidental Topics
+
+Date Format Issues
+
+Vlad experienced issues with American date format in Asana, while Andrew's account displayed UK format. May need further investigation for consistency.
+
+Asana vs. Monday.com
+
+Discussion on the differences between Asana and Monday.com, particularly regarding client vs. internal team usage. Current clients like Walbrook use Monday.com, while Andrew is exploring Asana for internal use and future clients.
+
+Clockify Integration
+
+Brief discussion on potentially using Clockify for time tracking. Decided to explore Asana's built-in time tracking features first.
+
+Decisions Made:
+
+1.  Activate Asana Advanced trial for portfolio and advanced features.
+2.  Create templates in Asana for module development and program management.
+3.  Schedule recurring Tuesday and Thursday meetings at 10 AM for progress updates.
+4.  Focus on creating easily duplicatable and modifiable templates for new clients.
+5.  Investigate Asana's time tracking capabilities as a potential Clockify replacement.
+6.  Begin building projects for client onboarding process in Asana.
+7.  Use Asana's portfolio feature to manage multiple programs for a client.
+8.  Structure projects with sections representing course weeks and grouping options for different phases.
+
+Actionables:
+
+1.  Vlad: Create project templates for module development and program tracking in Asana.
+2.  Vlad: Investigate and report on Asana's time tracking capabilities.
+3.  Vlad: Explore Asana's grouping and nesting options to find the optimal structure for projects and portfolios.
+4.  Vlad: Prepare a progress report for the next meeting on Tuesday.
+5.  Andrew: Review the Asana setup and provide feedback in the next meeting.
+6.  Andrew: Consider exploring Clockify's free trial.
+7.  Both: Attend the scheduled recurring meetings on Tuesdays and Thursdays at 10 AM.
+8.  Both: Use WhatsApp for quick clarifications between meetings if needed.
+9.  Both: Begin conceptualizing how to implement the client onboarding process in Asana.
+10. Both: Consider how to structure Asana for future clients like University of Warwick.
+Action Items
+  - Prep Asana proj templates from Andrew's spreadsheets (module dev, program tracking). Map weeks, initiation, QA phases.  - WATCH (5 secs): https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4568.9999
+  - Create Asana portfolio template for full program tracking. Ensure resource allocation visibility across modules.  - WATCH (5 secs): https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4568.9999
+  - Investigate Asana time tracking capabilities vs Clockify. Assess viability as replacement (billable/unbillable, project definition).  - WATCH (5 secs): https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4816.9999
+  - Look into Clockify free trial. Evaluate features/usability.  - WATCH (5 secs): https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4827.9999
+
+---
+
+0:00 - Andrew Doig
+  Top of the mornin' to ya.
+
+0:05 - Vlad Tudorie (Serenichron)
+  Let's see. Just let me start up my clock.
+
+0:16 - Andrew Doig
+  Which does remind me about our previous conversations. I was going to get myself a subscription to Clockify and start using that for myself.  Yes.
+
+0:27 - Vlad Tudorie (Serenichron)
+  That is a very worthwhile tool to register for. There we go. All right. So you will have received an email.  From Cloud. Flair, to verify your info at LearnAndDesignSolutions.co.uk inbox. Okay.
+
+1:09 - Andrew Doig
+  The info, okay.
+
+1:14 - Vlad Tudorie (Serenichron)
+  And then I'll also do another, which is for your personal email that will get routed to Andrew at LearningDesignSolutions.co.uk.  Yep.
+
+1:33 - Andrew Doig
+  Explain to me again what Cloudflare is.
+
+1:38 - Vlad Tudorie (Serenichron)
+  A management platform for domains. Right. But then it also expanded into a lot of web infrastructure. So now it does a lot more than that, but let's just say management for the domains.  Okay.
+
+1:56 - Andrew Doig
+  Okay. Thank you very much.
+
+1:58 - Vlad Tudorie (Serenichron)
+  Thank you. you. Thank you. You Okay, and also your Andrew at learningdesignsolutions.co.uk also has that verification to do.
+
+2:11 - Andrew Doig
+  I didn't see it. there it is. Just come through. Cool. Done with both of us. All right.
+
+2:32 - Vlad Tudorie (Serenichron)
+  So both are confirmed. We're going to do a quick test. Let me just get in and draft up an email.  right. All right. All right. And I sent an email to your at dev address. We want to confirm that it lands.  And after that, we're going to go into Asana and request, add in the emails to the Asana profile. Okay.
+
+3:24 - Andrew Doig
+  Yes. So I've got a hi, Andrew. that was Aya, land design solutions.dev. Yes. Okay. Perfect.
+
+3:32 - Vlad Tudorie (Serenichron)
+  Nice. Okay. Now, you and I are, so either you do it and I walk you through, or I do a share screen and you mirror what I'm doing.  Which would you prefer?
+
+3:44 - Andrew Doig
+  Probably I do it and you walk me through. Okay. Where do you want me to go? Absolutely.
+
+3:49 - Vlad Tudorie (Serenichron)
+  So inside of Asana, do a share screen as well. It's easier to guide you that way. Sure. Yeah.
+
+3:58 - Andrew Doig
+  Let me just. Let's just go into our screen.
+
+4:20 - Vlad Tudorie (Serenichron)
+  Perfect. Okay. And now in the top right, there's your profile icon. You want to click on it and click on profile.  Sorry, just a sec.
+
+4:37 - Andrew Doig
+  I'm going to audio record what we're doing. So top right, profile. Profile and settings, actually.
+
+4:47 - Vlad Tudorie (Serenichron)
+  Settings.
+
+4:48 - Andrew Doig
+  Okay.
+
+4:49 - Vlad Tudorie (Serenichron)
+  Go to account and add new email.
+
+4:57 - Andrew Doig
+  We'll add additional emails. you.
+
+5:00 - Vlad Tudorie (Serenichron)
+  yes right under that address okay it's going to have you re-authenticate okay and after you do that what email do you want me to add your andrew at learningdesignsolutions.dev sorry
+
+6:12 - Andrew Doig
+  Okay, yeah, you can see what it's saying to me.
+
+6:17 - Vlad Tudorie (Serenichron)
+  Okay, let's go and take a detour through the admin console. Okay, cool. Because it seems that we first need to authorize that domain inside of the org.  So you also click on your icon, you go to admin console. And you will need to go to settings.  And let's change the organization name just so we're not confused. Here we things too much and also so that we don't get rejected by the Asana support team.  Let's just either say LDS or learning design solutions. okay okay and under let's see where email domain management it's the last one on your screen you're not a super admin?
+
+7:45 - Andrew Doig
+  surely i'm a super admin only super admins can make changes uh so who the hell is a super admin if it's not me?
+
+7:54 - Vlad Tudorie (Serenichron)
+  well who is? click click the button
+
+8:04 - Andrew Doig
+  Yeah. Yeah. And that's what I'm logged in. Oh, you have no super admins.
+
+8:09 - Vlad Tudorie (Serenichron)
+  Okay. Add an admin. Oh, I see. So you're, um, but don't, so we're gonna, we're gonna need to do some changes.  On one hand, you can remove the invite that's sent to Vlad at learningdesignsolutions.co.uk. Cause that's not going to be the email that we use.  Okay.
+
+8:36 - Andrew Doig
+  We'll just cancel that entirely.
+
+8:40 - Vlad Tudorie (Serenichron)
+  Okay. Um, second thing is, so apparently they're now asking you to fill in a form. So you have to go to settings, uh, back to that screen that you, no, no, straight settings.  Yeah. So this settings. Yeah. Yes, yes, yes, yes. Yeah. And go back to that email domain management. And click on the super admin button again, and where it says start here for verification instructions, prove ownership of your email.  So there's two tiers to this. On one hand, we also want to add in the other domain, but you also want to send verification instructions.  So let's see what they send you when you click this email with verification instructions. Okay. Select one of the domains.  Need to know where you registered the domain name. You know, I would say that it might just be much easier, much easier to use a different org, except that you paid for that.  For the entry tier. That be the only annoying part. So we can do this. It's not gonna take us very long.  It depends on... So you need to send these settings to me. I'm gonna go inside of IONOS and do this.  It seems like it's an automated process. So theoretically, this should help. Because the steps that we have to do are do this verification.  It allows you and I to claim super admin, or just you. And then with the super admin role, we need to add in the other domain.  Then we have to make a request to change the primary domain. So there's a few hoops to jump through.  And I almost feel like it's going to be faster and more cost-effective to just use a different org. But let's see this first.  Sorry for some reason that it's not picking up your email on my... No, I think that's correct. No, it's just it wasn't auto-filling.
+
+11:06 - Andrew Doig
+  Got it. Okay. Okay. So where does that leave us now, Vlad? Are you sure that you forwarded that email?
+
+11:22 - Vlad Tudorie (Serenichron)
+  Because I thought I saw you discarding it.
+
+11:24 - Andrew Doig
+  No, I opened up another email to you to get your email address. So I copied that.
+
+11:30 - Vlad Tudorie (Serenichron)
+  Check. Yep. I got it.
+
+11:32 - Andrew Doig
+  then discarded the one that I'd opened up. Okay.
+
+11:35 - Vlad Tudorie (Serenichron)
+  So for mentions, I can name server management, manage DNS records, new text records, and fill in this code. Let me do that right now.  It might actually happen in almost real time because the other domain also happened very fast. when Alright Ok about Cause even understand to situality mère.  wouldn't DNS, text, and now 86,400. And what do they say? How long will it take? So you'll see a warning, adding a text record, blah, blah, blah.  Validation token, wait for changes to propagate. May take up to 80, 72 hours. Let's hope not. And then go back to your admin console in the security section.  So let's see if you do that. But now, do a full reload of your browser screen for Asana. Okay, and go to security.  And let's see what it allows you to do. Scroll all the way down. Okay, I guess project attachments, privacy.  They've really... Okay, admin access. Let's see if now they let you. Check verification, click the button. Perfect. Okay, so now...  So I am now a super admin, okay. Yes, and you have to go back to that... Settings domain area, email domain management, at the bottom there, and add an email domain, top right.  Top right, oh, yeah. LearningDesignSolutions.dev.
+
+14:25 - Andrew Doig
+  Check that's right, learning.
+
+14:32 - Vlad Tudorie (Serenichron)
+  OK, and copy that thing, just put it in the MeChat.
+
+14:39 - Andrew Doig
+  This one? Yeah. Where's chat on here?
+
+14:46 - Vlad Tudorie (Serenichron)
+  There's a bottom right icon that looks, oh, you have to click on the three, oh, yeah, in call messages.  That's the thing. OK. OK. OK. Okay, I'll go ahead and make that change right now. I really hope that this system is fully automated because it used to be that you had to ask for permissions all the time and you have to submit a form and they take forever to answer.  Okay, click okay. And do you have a check button by any chance right next to the waiting for verification?  What happens if you click the three dots?
+
+15:49 - Andrew Doig
+  If you text txt records. Okay, so we do need to try to reload the screen again.
+
+15:53 - Vlad Tudorie (Serenichron)
+  Maybe it will be...
+
+15:58 - Andrew Doig
+  No, it's still pending. Okay.
+
+16:00 - Vlad Tudorie (Serenichron)
+  So while that's pending, we can work on other things. So either you can set up your Clockify, and I can walk you through some basic setups that you would want to do in order to start configuring it.  Or we can look at some of the documentation that you sent me, and we can start envisioning how it maps inside of the organization.  But also, if you can make me an organization admin, for now at least, and then you can revoke those rights if necessary.  Not a super admin, but an admin, so that I can also interface with all of the portfolios and things.  Yeah, sure.
+
+16:48 - Andrew Doig
+  And at the moment, so I've paid for two seats in the side, but only I'm using a seat at the moment.  Is that not correct? Or do I need to assign a seat to you?
+
+16:58 - Vlad Tudorie (Serenichron)
+  You're using two seats because one of them is Used by Debbie.
+
+17:02 - Andrew Doig
+  Okay. So it's tied to her account.
+
+17:05 - Vlad Tudorie (Serenichron)
+  It's not that I want to see it. I want to see if you can make an admin or not.  So you'd go to security, back to the area around admins.
+
+17:15 - Andrew Doig
+  Lower, lower, lower, lower, lower, lower, Admin controls.
+
+17:21 - Vlad Tudorie (Serenichron)
+  Yeah, it was something like that.
+
+17:26 - Andrew Doig
+  Even lower, even.
+
+17:28 - Vlad Tudorie (Serenichron)
+  Admin access. Yeah. Okay. Add an admin. And can you change my role from guest, if you click on the three dots?  Security.
+
+17:50 - Andrew Doig
+  Or team, not team access.
+
+17:55 - Vlad Tudorie (Serenichron)
+  Or team access, it's also there. Uh, okay. Okay. Yeah. Yeah. Okay. Okay. You No. Okay. So it doesn't let you.  You probably might only be able to do it for Debbie. It's worth looking at her account. Let's see if it lets you do it for her.
+
+18:15 - Andrew Doig
+  Okay.
+
+18:20 - Vlad Tudorie (Serenichron)
+  You know, that's a little weird. Is it a matter of you needing to explicitly add a user as an admin again?  Mm-hmm. Because it sent you here. Let's do this. You can invite me directly with the Vlad. Let me write the email here.  With this email address. Let's see if it lets you.
+
+19:00 - Andrew Doig
+  Thank Okay. And it's not giving you the option to...
+
+19:13 - Vlad Tudorie (Serenichron)
+  Yeah, I see. Just click send.
+
+19:17 - Andrew Doig
+  No role, is it?
+
+19:28 - Vlad Tudorie (Serenichron)
+  Okay. So it did let you invite me with the domain. So if you do a reload of this page, it should show me, it should list me there.  Yeah, I just shown up. And you want to check whether that domain was approved so we can try to finalize the request to switch the main organizational domain.  Yeah.
+
+19:51 - Andrew Doig
+  So I'm going back to...
+
+19:53 - Vlad Tudorie (Serenichron)
+  Yes.
+
+19:54 - Andrew Doig
+  And to domain management has verified. Still waiting.
+
+19:59 - Vlad Tudorie (Serenichron)
+  Okay. Okay. Um, it's interesting that it says that it's verified, but then it says that it's waiting for verification.
+
+20:07 - Andrew Doig
+  Yeah. Yeah.
+
+20:08 - Vlad Tudorie (Serenichron)
+  Okay. Um, let's do the, uh, configuration of your profile, because if you were able to invite me, I think you can also add that your own, uh, Andrew at learning design solutions dot dev domain, uh, email to your account.  Yeah. Should let you, uh, don't invite yourself instead. Go back to the other tab that you have open and just go to your profile.  Like that's a separate area. Okay. And do profile settings, actually straight settings, uh, settings account and try to add the new email again.
+
+20:56 - Andrew Doig
+  Uh, we're, we're adding new email. Okay. Thank Thank you. Thank
+
+21:04 - Vlad Tudorie (Serenichron)
+  Do the authentication, yeah, and add a new email, and now it hopefully should let you do the invite. Fingers crossed.  Fingers crossed. Oh, really?
+
+21:32 - Andrew Doig
+  Back to where we started. So there's two options here.
+
+21:35 - Vlad Tudorie (Serenichron)
+  You can invite yourself because it let you invite me.
+
+21:41 - Andrew Doig
+  We're waiting for authentication still, though. Just wait for authentication and try again for that. For that.
+
+21:52 - Vlad Tudorie (Serenichron)
+  So that's very interesting. Yeah. What's also interesting is if I try to... To access the invite that you sent me, I get a server error.  So while we wait for authentication, we should also file a support ticket. I think it would be ideal to do that and not just wait.  So in the admin console, the other tab, let's click the get in touch to the bottom left. And click get support, top right.  And. And.
+
+22:57 - Andrew Doig
+  And. And. And. And. And. And. And. And. And. And. And. And. And. And.
+
+22:59 - Vlad Tudorie (Serenichron)
+  And. And. And. And. And. And. And let's create a case. You could also do chat, but I think it's better to create a case.  And say, issues with our organizational domain. And we're gonna say, I'm unable to add, I'm still waiting for verification of my learning design solutions.dev domain.  And the invites that I sent to my colleague is giving a server error when he tries to accept it.  what are we requesting though we um i we have put in our verification uh string for the domain okay and um i need us to replace the current learning design solutions dot co dot uk domain entirely let's say it's high urgency immediate actually immediate yeah
+
+25:03 - Andrew Doig
+  Yes, request type.
+
+25:05 - Vlad Tudorie (Serenichron)
+  No, no, no. You have to fill in a few more fields. And don't click Submit because I also sent you a photo.  So support request, case type, something about account or error logging. We'll see. Let's see. Error codes. Let's say error codes.  Subtype. Unique error phrase. And let's also go back to the tab where you try to add in the email because it gave you a text.  It returned a text. Not this one, the one to the left. Right. So when you do the adding in, it gives you the message incompatible with your organization.  Yeah. And you want to reference that. So how do I get that again?
+
+25:56 - Andrew Doig
+  We could write it.
+
+25:58 - Vlad Tudorie (Serenichron)
+  Yeah. Let's just write it into the ticket. When I try to add in my own Andrew at learningdesignsolutions.dev, I receive the message, this email address is incompatible with your organization.  Okay, and upload the file I sent you over WhatsApp and also reference the error phrase, that 67 goofy buzzards applaud relatively slowly.
+
+26:52 - Andrew Doig
+  The error phrase, 67 goofy buzzards, what's that all about? Just download the photo, like hover over the little...
+
+27:00 - Vlad Tudorie (Serenichron)
+  Arrow that shows up when you, that one, download. Save to download. And then right underneath the photo is a string of text that I wrote in.  Just select that and copy-paste that into. Yes. And paste that into your description.
+
+27:26 - Andrew Doig
+  Command-V.
+
+27:28 - Vlad Tudorie (Serenichron)
+  Yeah, I know. I know.
+
+27:29 - Andrew Doig
+  But I'm just thinking, where is it appropriate in the description?
+
+27:33 - Vlad Tudorie (Serenichron)
+  That's your problem.
+
+27:39 - Andrew Doig
+  With message.
+
+27:44 - Vlad Tudorie (Serenichron)
+  Okay. And upload the photo as well, just so that it's clear to them.
+
+27:53 - Andrew Doig
+  What would it be called? Do recents.
+
+27:56 - Vlad Tudorie (Serenichron)
+  The first thing in your library. Screen. In shot. The one at the top. Oh, it's not that one. No.  Then in downloads, it should be saved in your downloads folder.
+
+28:09 - Andrew Doig
+  That's what I was looking, was trying to... AI agent header, is that one?
+
+28:13 - Vlad Tudorie (Serenichron)
+  No.
+
+28:14 - Andrew Doig
+  Oh, that was my blog.
+
+28:16 - Vlad Tudorie (Serenichron)
+  Maybe what's up something? It's weird that... That one. Yes. Okay, let's submit this and do one more reload in the admin console.  Let's see if we have verification for that domain. Maybe it's updated.
+
+28:39 - Andrew Doig
+  Oh, we do have verification now.
+
+28:42 - Vlad Tudorie (Serenichron)
+  Okay. So now you should be able to add the email to your own account.
+
+28:53 - Andrew Doig
+  So where was it?
+
+28:56 - Vlad Tudorie (Serenichron)
+  in the profile settings, the profile area. go. So click on that and click on settings and then go to account.
+
+29:49 - Andrew Doig
+  Okay, and that should be bound to my yes. Thank you.
+
+30:11 - Vlad Tudorie (Serenichron)
+  So I'm now also in the account with the updated email, because I accepted the invite, and let's see if I can merge these together as well.
+
+30:32 - Andrew Doig
+  Yeah, because I'm now over our member limit.
+
+30:37 - Vlad Tudorie (Serenichron)
+  Yes, you need to switch the domain. So now that you've done that, you go back to that admin area, and in the admin area, it'll allow you to...
+
+30:57 - Andrew Doig
+  So is that back from the profile again? Thank you very much. Sorry? So we go back through the profile again to get admin.
+
+31:06 - Vlad Tudorie (Serenichron)
+  No, no, you have the tab already open.
+
+31:08 - Andrew Doig
+  Yes, just asking to log in again. Ah, got it, got it, got it. Okay, so email domain management? Yes.
+
+31:25 - Vlad Tudorie (Serenichron)
+  And you want to remove the .co.uk domain. Okay, you'll want to remove Debbie from the team for now. Add her back in later.  And you also need, you might need to go to your personal account area and remove the .co.uk Remove the other one.  Yeah.
+
+32:07 - Andrew Doig
+  Okay, so let's start with removing Debbie. So many bloody tasks.
+
+32:18 - Vlad Tudorie (Serenichron)
+  Members to the left. Oh, yeah.
+
+32:24 - Andrew Doig
+  Yeah. go away. Ah. Debbie O'Connor.
+
+32:47 - Vlad Tudorie (Serenichron)
+  Yeah.
+
+32:49 - Andrew Doig
+  I mean, she's not using it in any active way. I hope it's going to let you remove her now.
+
+32:55 - Vlad Tudorie (Serenichron)
+  So on the other tab where you do the removals, sorry, the domain removal. But you also have to do it for yourself as well.  So in your profile area, the regular profile, not in the admin. Yeah.
+
+33:14 - Andrew Doig
+  You have the other tab open.
+
+33:18 - Vlad Tudorie (Serenichron)
+  Yeah.
+
+33:18 - Andrew Doig
+  It's just, yeah, I've got a lot of tabs open. I always help center, go away that one.
+
+33:25 - Vlad Tudorie (Serenichron)
+  You can close this one because you have it to the end of your tabs list. Not that one. You can also close that one in here.  Yeah, the last one here. So click on your icon, go to settings and account. And we're going to want to remove the .co.uk one and keep the .dev.
+
+33:51 - Andrew Doig
+  Just remove it. Should I change the preference before I remove it? Yeah.
+
+33:54 - Vlad Tudorie (Serenichron)
+  Go to notifications first. It's also right up there. Yeah. I'll scroll down a little Hit email, all the way down, and prefer notification email, select the second one, click on account, and remove the .co.uk.  Okay. Perfect. And now you can go back to the tab that is the admin tab. Let's go next to each other.
+
+34:31 - Andrew Doig
+  Yeah.
+
+34:32 - Vlad Tudorie (Serenichron)
+  It now shows you as .dev, and I'm still not sold whether it's going to let you perform the domain removal with devian pause as opposed to being fully removed, but let's try it first.  Let's just try it just in case it works so you don't have to remove her as a user and re-invite her entirely.  Okay. I'll also go to the settings, domains, email domain management, remove the . UK domain. Click the OK button because it doesn't seem to want to let you otherwise.  And let's try that again.
+
+35:15 - Andrew Doig
+  Okay, finally.
+
+35:17 - Vlad Tudorie (Serenichron)
+  Okay, so we are now all dev'd up. Let's see if you can change me to admin now. So Asana make user admin.  Still under security, because you already have a super admin. So first super admin, view and manage admins, view and manage admins.  The. Or is it just my identity?
+
+35:53 - Andrew Doig
+  No, no, no.
+
+35:55 - Vlad Tudorie (Serenichron)
+  So that's just the billing profile that's still. Okay, there we go. Add an admin. And my .dev email is likely the only one that would be allowed.  Let's see if you can click on anything about this user. Security profile, edit profile info, maybe under profile info.  They're supposed to let you do it. Yeah. I'll click on any of those options and let's see if the option shows up there now.  There you go. Admin at the bottom. Save changes. Okay. So we're done with this fun part. Took a while.  Sorry about that.
+
+36:48 - Andrew Doig
+  It's all right. It's done.
+
+36:50 - Vlad Tudorie (Serenichron)
+  All right. Where that leaves us is I would now focus mainly on. done. It's done. Sorry, but there we go.  On looking at the example sheets that you sent over and starting to envision how we would set up these as portfolios.  Now, this is an active project, right? This is Walbrook, like the first one. I just opened up the first one.  Yeah. Okay. And you manage it using three sheets right now. On one hand, you have a master waterfall. Yep.  That pretty much lists out all of the stakeholders. The schedule, I'm assuming under the details sheet. Let me also do a share screen.  So we're always looking at the same thing. Okay. Should I stop sharing then?
+
+37:55 - Andrew Doig
+  I need to go back into the tab then. As long as you see my screen, it's all fine. Yeah, hold on.  Just going to. Okay, shall I just describe what you're looking at?
+
+38:15 - Vlad Tudorie (Serenichron)
+  Yes, I was meaning to ask you, but a description is fine as well, please.
+
+38:21 - Andrew Doig
+  So this is a master waterfall because I had separate waterfalls for each of the three programs when we set up initiating the program, because then I'm working with not just the senior stakeholder, but then the program level stakeholders.  That helps us so that they can plan the module authors or their subject matter experts, their SMEs. But for the overall project management, because there's my side, there's also various people at the Walbrook side, we pulled together the master waterfall.  Obviously, this is the one where all the dates sit together. The tab that is waterfall is, for me, a very helpful visual representation of.  What is coming up and when, but all of this is manually created, so yeah, I can see the scope of the project, the duration of it, and how much resource is going to be needed at any stage.  Okay.
+
+39:20 - Vlad Tudorie (Serenichron)
+  In terms of the authorship and learning designers assigned to the three, so these are three separate modules, right? Okay.  Three separate programs.
+
+39:31 - Andrew Doig
+  Three separate programs. line is a module that makes up the program. Yeah, and there's, this is, weirdly though, that's an older version of the document.  I'm not quite sure why, but it still illustrates what I do. Okay. The top one is MBA, the middle one is psychology, the bottom one is computer science, so the three separate degree programs that we're working on.  Okay.
+
+39:57 - Vlad Tudorie (Serenichron)
+  And in that scope, so the MBA is this one, and then. NBA is green.
+
+40:06 - Andrew Doig
+  Well, yeah, so the NBA is, yeah, it's the green. That is weird. It's not. Hmm. I wouldn't be too worried about it, especially if you say these are sort of outdated.  Yeah, that is the NBA in its own individual plan.
+
+40:28 - Vlad Tudorie (Serenichron)
+  Okay. So this is a drill down. Now, what I'm curious about is this one is a little bigger, but realistically, this isn't a concern for the Asana setup.  Like, this is just sort of the layout that you follow for your at-a-glance view, right? Yeah. So there's a few ways that we can take this.  I think the most suitable one in this context. And let me go ahead and start mapping this. A bit.  So we're going to set up the trial for advanced because it does mean that for the portfolio's functionality, we need the advanced function.  And you're going to need to please approve upgrade to ADV. And you're not going to pay for it right now.  It's just a trial. Now, there's a possibility that we can almost certainly organize everything without necessarily going straight to the advanced program.  But I think you would prefer to pay that extra 42 pounds a month because of all of the extra, not just the integrations.  The integrations aren't really that valuable for you, but the portfolio workload feature. The Portfolio and Goals features, I think these will make a lot of sense for you.  Okay. Also, Asana for Education. Do you have access to any orgs, like any education organization that you can affiliate yourself with?  No, no, I don't have a membership of anything at the moment.
+
+42:28 - Andrew Doig
+  And sometimes I get that through clients, but I don't at the moment.
+
+42:34 - Vlad Tudorie (Serenichron)
+  Okay. We're going to look into it. There are also some levels of discounting and special plans available to those kinds of people.  Do you know how long the free trial is for? The free trial, did you kick that off? Well, no, I'm just saying how long is it for?
+
+42:53 - Andrew Doig
+  You didn't get the invite?
+
+42:55 - Vlad Tudorie (Serenichron)
+  I have, I'm just looking at that now. Okay.
+
+42:59 - Andrew Doig
+  You have a request to start a pre-assigned advanced trial. From Vlad Tudorie, where is the option to approve, though?  Let me check your screen. Sorry, I stopped sharing, I think, did I? I think you did, yeah.
+
+43:21 - Vlad Tudorie (Serenichron)
+  Should have been in the body of the email, though.
+
+43:25 - Andrew Doig
+  What came through was Vlad assigned a task to you. View task. Free trial request for Asana Advanced. Yes, just click the View Test button.
+
+43:35 - Vlad Tudorie (Serenichron)
+  I did, yeah.
+
+43:37 - Andrew Doig
+  And that's taken me into Asana. Click on the Upgrade the Plan link. Oh, yeah.
+
+43:45 - Vlad Tudorie (Serenichron)
+  And you're going to have the little try for free thing there. Right. OK. In days, OK. And this also unlocks the time tracking feature that they baked in, which it didn't used to be in as-  Ana, so I don't know whether that's going to be an actual full alternative to Clockify, but if it is, you might actually really want to use that instead.  They used to not have time tracking. They used to integrate with Harvest or with Clockify or Toggle. We should explore that feature because it might make a lot more sense to just use it internally.  Okay, so now that we are here, we can do this in two ways. Either I walk you through the steps and we start to look at how we might set up a portfolio for this client, just set up the very basics.  Now, the reason that I want us to set it up is so that we can then export the project to a file to see the templates that we need to fill in to then go back to your spreadsheets, map those to the templates, import everything in one go, and kick off the project like that.  Would you prefer that I do it or that I walk you through the steps?
+
+45:07 - Andrew Doig
+  I think I'd rather, for what you're describing, I'd rather watch you going through the steps.
+
+45:12 - Vlad Tudorie (Serenichron)
+  Then I'm going to share my own screen again. Do we have any time cap that I need to be mindful of?
+
+45:20 - Andrew Doig
+  I have no immediate meetings coming straight after, so yeah, we're all right for a little while. I've got a lot to do today.
+
+45:26 - Vlad Tudorie (Serenichron)
+  Yeah, I can imagine. Okay, so I got at least 40 more minutes. Yeah. Okay, so let me start closing down tabs over here.  This one we want open, this one we want to close, this one we want to close, this we're going to move off screen, and then we come here.  Go water. Sure. Okay, we're going to start, so first, let me share. And I'm going to add you in, and then also Alex.  Okay. No notifications at the moment. I'm just going to do the invites. And once inside of the portfolio, let's first experiment with playing this like.  A project. So I'm going to say. Hey, do you have a more formal title for the MBA? In what way?
+
+47:10 - Andrew Doig
+  I mean, it's not just MBA. the full program suite. So it's Walbrook online program development, something along those lines.  Yes, but there's three programs.
+
+47:23 - Vlad Tudorie (Serenichron)
+  And I meant just for one of them. So for the first program, does it have a more formal title?  Oh, no, no. MBA is MBA.
+
+47:30 - Andrew Doig
+  mean, that's what we describe it as. Okay. I'm just going to call it MBA.
+
+47:35 - Vlad Tudorie (Serenichron)
+  We can rename it. Yeah.
+
+47:38 - Andrew Doig
+  Okay.
+
+47:39 - Vlad Tudorie (Serenichron)
+  So it does have a bunch of templates. I think that the one that might make the most sense is that we go straight for the project timeline to match the waterfall that you have dedicated in the individual project.  Yep. Okay, we're gonna use our MBA, the start date for the program you had documented here, right? The launch date, yeah.
+
+48:21 - Andrew Doig
+  That's for each module that kicks off, yeah. The very first module from the program started on the 7th of July.  And this already launched?
+
+48:33 - Vlad Tudorie (Serenichron)
+  Yeah, yeah.
+
+48:34 - Andrew Doig
+  So we have up to the fourth one, sixth of the 10th. So we just launched Marketing Insights.
+
+48:47 - Vlad Tudorie (Serenichron)
+  Okay, I'm actually going to put in the original entire kickoff date and work down to here. So end date, but why this?  No, not 2025, not 26, 25. There we go. And an end date of that is July 26th of July, right?  Yeah. July, 2026, the 6th. And I'm assuming contractors or nobody works over weekends, or do you work over weekends?
+
+49:33 - Andrew Doig
+  Learning designers work on weekends, but we plan as a standard working week. Okay.
+
+49:39 - Vlad Tudorie (Serenichron)
+  Let's do that. Okay. So we're going to want every single one of these as a section. that. But we have to copy-paste left to right.  So we're going to do like that, like that. Now, I could go on and fill in the entire project.  But I can also do something a bit different. And that's to come over here and say, okay. Orientation. this is a task that's supposed to go from, oh, come on, roughly March 2025.  No, come on. Seven of the third through. True. traitors. Whatever date that was, June, 9th of June, 2025. Yep.  Am I blind? It didn't want to save them. Let's try again.
+
+51:40 - Andrew Doig
+  Oh, this is American format. Oh, yeah. We're going to need to find some settings to replace that because it's very, very annoying.
+
+51:55 - Vlad Tudorie (Serenichron)
+  Okay. I'm assuming it's also crossed off. It's final. Right. We probably want a field that says launch date. So I would go into the customization, the options for the project.  Let's see. Customize fields, add, create new. Do we have a launch estimated? No, we're going to have use a launch date.  So launch date, date, add to the field library, notify collaborators when the value is changed. So now with that existing, we go back to our orientation task.  We say launch date was. They're June 9th. Now let's also Asana change date format. That's driving me nuts. We want to copy-paste, right?  We don't want to do stuff manually. System browser settings, something unique, how to contact. Interesting. Let's see if that's in my profile then.
+
+53:25 - Andrew Doig
+  So, I mean, something that, you know, when setting up the spreadsheet, because the spreadsheet is actually a really useful tool in actually defining the dates, because the only, the known, when I sit down to create a waterfall, the known date is the date it launches.  And then it's all about calculating numbers of weeks in advance of that. So the minimum being our project time frame for a module development is 16 weeks.  You know, first module is probably 16 weeks to that launch date. But then other modules, will be 24 weeks.  start before the duration of the project is 16 weeks from that. Initiation date, all those kind of calculations. So it's useful at this stage because we can copy dates across.  But when we're setting up Asana for new projects, I need to be able to calculate durations.
+
+54:22 - Vlad Tudorie (Serenichron)
+  Well, when you are setting up, so Asana project templates, when you are saving a project template and you're instancing the project, you have this feature here, relative dates.  So you choose kind of your end date or your start date and then define rules for the dependencies. When would they also be assigned?  Based on your target end date or target start date, so we can auto-calculate, auto-assign based on the actual calendar, the real calendars, you know, so we can handle all that calculation.
+
+55:19 - Andrew Doig
+  Okay. Okay.
+
+55:22 - Vlad Tudorie (Serenichron)
+  The thing that we want to do now, so I want to export this project as a CSV. I'm actually going to want to do it as a Google Sheet because it's just going to make it a little bit easier.  But it gave it to me as a CSV anyway. Okay. So this is what our template looks like. We have a bunch of example tasks in there.  We also have, ah, but we're missing some stuff. I just realized we should have had a person assigned as well.  So let's say we had that assigned to me, and then we also want to have some things like dependencies.  And here we're just going to use an example milestone as a dependency. We're going to also select some of these fields so that we have them rendered on the template.  Now, there are also, so fields, module, author, right? We also want to make sure we account for that representation.  So we're going to say fields, add, create new, module, author. And here, it depends on if you're going to add those people into the project.  If you invite your authors into your org, which would be the objective, I'd say. Okay. Then you select the people card, and you're able to add the person.  So in this case, orientation, we would say that the author is Andrew, right? And then you can literally have people give you that buy-in.
+
+57:32 - Andrew Doig
+  So let's forget about orientation, think about strategy formulation and implementation, right? So that's this sheet, the master waterfall, is the resources used by me and the management and then admin to make sure that we have a project planned to get that course developed.  Now, that is oversight, and that is... So the resource is in place.
+
+58:03 - Vlad Tudorie (Serenichron)
+  Yes.
+
+58:04 - Andrew Doig
+  For strategy formulation and implementation. There is a separate module development plan. And that's a plan of all of the tasks that have to happen across that 16 week duration in order for the course to be developed effectively.  Okay. And that's where the learning designer or the module author, probably the librarian, anyone that's doing proofreading, video production, all of these roles need to be added in so that they can see.  And we can add dependent, we can add people, we can add, you know, resources to all of those tasks so that they know when the task is coming up and their deadlines and they can check and see that.  So that's, and then, you know, I mean, that's what we're doing with spreadsheets at the moment. Those spreadsheets are a template.  They get rolled across every time I kick off a new module. Mm-hmm. Yeah. This one is a major one where I'm rolling out new ones of these every month, making sure that the people that need to know have those in front of them, and we are able to track the task completion against that.  Excellent.
+
+59:29 - Vlad Tudorie (Serenichron)
+  So in this, let's say we're doing the strategy formulation. So we're going to the strategy formulation section. I'm just going to randomly pick some stuff from here.  And basically create a bunch of tasks inside the strategy formulation. Mm-hmm. Now, I don't know that you'll necessarily need to continue to maintain, as you do in the spreadsheet, things like...  Tracking by week, like this, maybe you will, maybe you won't. This will kind of be figured out in time.  Let's say that we assign a learning designer, right? So assigning Debbie as a learning designer. And in the scope of this project, the strategy formulation begins roughly in March, and it ends in June.  So this also would have finished by now. Yeah, yeah, yeah. But we would also actually need to have a master task.  So to track it as a whole, and then everything else would become subtasks of it. So I would do something along the lines of these become convert to subtasks of the strategy.  Thank you. Formulation, right? And then the strategy formulation, which would have begun in March and would end in June, and which is dependent, right, on the orientation, and which carries a milestone.  Let's see if we can add strategy formulation complete, convert to milestone. And this can have a due date as well.  So end of June. When we then look on the timeline, where am I? Too far ahead. Here we go.  you. Thank Here is where we should be. Now, because the due dates are not perfectly overlapping, the end date on the orientation is not aligned.  But why? Oh, man, this America thing is really busting me up. I'm going to need to figure that out.  I'm curious, when you look at these tasks, do you have the same issue?
+
+1:02:43 - Andrew Doig
+  How do I get to the view that you're saying?
+
+1:02:49 - Vlad Tudorie (Serenichron)
+  You click on MBA and on Timeline.
+
+1:03:01 - Andrew Doig
+  ahead No There's okay, week you're down Thank Timeline, and if we go back to, oh, we're way off in 26.  OK, yeah, we've got an orientation. Let's see. It's got a March start date, and it's running through to June.  Yeah, that's there.
+
+1:03:22 - Vlad Tudorie (Serenichron)
+  But the question is, when you click on calendar dates, does it also have them formatted as American, or does it have them formatted as British?
+
+1:03:33 - Andrew Doig
+  How would I bring that up, an example?
+
+1:03:37 - Vlad Tudorie (Serenichron)
+  Clicking any of them gives you the due date section, and when you click on that, you can see the actual format.
+
+1:03:51 - Andrew Doig
+  1506.26, and I've got UK.
+
+1:03:53 - Vlad Tudorie (Serenichron)
+  OK, so it's just a problem with my own computer. Yeah. OK. Next. Excellent. All right. Now, there's two potential dimensions.  So in this case, and I think in this case, it will depend more on the level of resolution that you want to have when looking.  There's two options. You can organize it as one, like in this graphic here. So you would track it against just the main deliverable, the main module.  Yep. Or instead of doing it like that, you would not have these be subtasks. We would convert them to plain tasks and make sure that they are part of the project and section.  So we would put them in the MBA under the strategy formulation section. And then we would see them like, any day now, like this.  So you can expand them. Oh, they're unscheduled. That's the problem. That's why they weren't showing up. So we would put them in March, let's say May.  Somewhere around there as a start date, and then give them some time to mature, you know? So when you're looking at the module, the strategy formulation module, let's expand that just a little bit.  The task. So inside the module, you can see them on the weeklies, right? On the weeks that you're looking at, you can also decrease the resolution.  So you're looking at months, increase the resolution. You can be looking at individual days, depending on your preference. And then from there, connecting our dependencies, realigning tasks based on, you know, where they should be in the schedule.  And this one points to this one. This one is also given a few days to cook. And then you can track the person that's assigned, right?  The interval, when it's supposed to be happening, the relationship with the other tasks. You have it all on your timeline.  When you go to... Um... ... ... Sorry, that's not the screen that I was going for. This is for automation.  We do this later. When you go to the portfolio itself, I don't want to, I want to see it as a list.  Okay. So we go to the Walbrook portfolio. You have your progress here. And then you also control for the portfolio as a whole, sorry, for the project.  So for the program, because it is actually a program. So our kickoff, no, we just care about our final due date, final launch date, which is this one.  That's one. And it had kicked off. Then, in the scope of it being balanced against other programs, you may or may not care about giving it a priority.  And there's a lot more that can be done there, right, as far as.
+
+1:08:22 - Andrew Doig
+  So end goal needs here because obviously with Walbrook, it doesn't make sense to replicate what we've got in Walbrook, because Walbrook is, you know, eight months into the end project, and we have a systematic way of working.  Walbrook took my spreadsheets, well, that one, and turned it into a Monday.com plan because that's their preferred project management suite.  On these, what is super helpful for me is that we can look at how we templatize these timeframes so that it can easily be duplicated.  Say, for example, the University of Warwick, who I'm going to be speaking to. Shortly. Starting in March next year, we are setting up a new set of developments, very similar structure.  So if we can templatize these schedules, these workflows, durations, dependencies, opportunities to put in roles of learning designer, module author, and anyone else that would be involved, that's where it becomes super useful.  There's absolutely no benefit to me in duplicating work that I've already got in progress, because it just looks like a  ton of work for stuff that I'm already doing, and nobody's complaining about it.  Yeah, no problem.
+
+1:09:41 - Vlad Tudorie (Serenichron)
+  So this is just going to be our template that will reflect the structure. These seem to be kind of the same thing, right?  CB project plan versus template project plan?
+
+1:09:54 - Andrew Doig
+  Yeah, I think I probably gave you an example of one that's connected to a project, but the template is just what that originates from.  So, Okay, so we're just going to go off of the template? In fact, CB, maybe the only thing that's different about it is I've accommodated a two-week Christmas break.  So, yeah, go off the template. Template is our source of truth.
+
+1:10:14 - Vlad Tudorie (Serenichron)
+  Okay.
+
+1:10:16 - Andrew Doig
+  The waterfall, again, that exemplifies a way in which I would... So a university will come to me and they'll say, this program is made up of 10 modules plus a project to complete.  So we need... And this is, you know, we work out the dates that they're going to go live. I need to be able to say, you know, as quickly as I can.  Okay, so here's how we're going to arrange the development. Here's where all the resource requirements fall. So the development waterfall is what lets me plan that.  And again, that's already predictable for Walbrook. But Warwick or whoever else, if I could be using a sanitarium and turn around plans of that nature quite quickly, the bit I don't know is...  Is the next big client, if I say, right, we've got all of our project plans in Asana, you know, can I start getting your people to import it?  So I'm taking ownership of resource allocation. This is where I need admin support at some point in the future, because suddenly all the roles that sit with the client, I'm going to have to bring them into my system rather than currently for monday.com.  All of the roles that sit with me, they get added into monday.com. So it's just a resource. And I'm not saying either is better than the other.  It just means that there's workload that gets transferred to me that's currently sitting with the client. Yes.
+
+1:11:46 - Vlad Tudorie (Serenichron)
+  Okay. So one of the, I would say, things that we want to figure out in this template, this does not directly connect.  to the contents of a program, from what I see. It does.
+
+1:12:08 - Andrew Doig
+  So which one is it that you said you had an example of? was corporate finance, maybe? Was it CF?  The CB one? CB, consumer behavior. So if go back to the waterfall in the details sheet, so one of the modules there is consumer behavior, somewhere along there.  Gotcha.
+
+1:12:33 - Vlad Tudorie (Serenichron)
+  Okay, so what do you need to track? 22.
+
+1:12:37 - Andrew Doig
+  So consumer behavior, this is the project, right? That's how we plan when it's occurring. And then the subproject is that other sheet where all the tasks that allow us to complete consumer behavior are broken down.
+
+1:12:53 - Vlad Tudorie (Serenichron)
+  Got it. Got it. So, okay. I'll want to play around with it a little bit because We're trying on that.
+
+1:13:06 - Andrew Doig
+  The first one is the building blocks that make up the full program development. I need to be able to see, I need to tell a client particularly, full program development, you need to have a module author available from the 6th of October until the 17th of January.  That's, need to, because a lot of this is contracting, you know, part-time freelance staff that are coming in to do this authoring for them.  they have contracts for specific duration. So that's what my waterfall is all about, resource allocation. When does it start?  When does it end? And then once that's engaged, that identified module author and my learning designer get that plan and that shows them.  So it's all just building blocks that need to be slotted across a calendar to show where all the effort is going to set.
+
+1:13:54 - Vlad Tudorie (Serenichron)
+  Yeah. So because you needed to provide a little bit of an abstraction in order of how it shows up.  Here, it makes sense that you have these blocks where you use the rows to identify kind of the transition between one week and the next, and you group them up by week.
+
+1:14:13 - Andrew Doig
+  The week, let me just check nomenclature, the week is the week of the course. So week one means in that block, we are writing the content and then building the content for week one of the module as it is online.  These are, the online modules have an eight-week duration, students study each one for eight weeks. So the weeks are not about weeks of our project, the weeks are about the weeks of the end deliverable.  Got it.
+
+1:14:43 - Vlad Tudorie (Serenichron)
+  So in that context, it may, may, it's not determined fully, but it may make sense that we structure the sections inside a project as the weeks for the deliverable.  And then the project becomes... You know, orientation, strategy formulation, environmental focus, and then the portfolio level is one program, even if you have multiple portfolios for a client.  Yeah. That may make sense. I'm going to need to double check inside projects how I may be able to do grouping together because it would be good.  For example, we can also group together projects by connected goals or by other things. So we may still be able to have less nesting because having a lot of nesting also doesn't help you a lot.  Right. If you are inside a portfolio like Walbrook for the client as a whole, and you can track the entire workload across all the projects from one master window, then that's probably more helpful than tracking multiple portfolios separately.  Yeah. And it seems like reporting to your Client is also, especially, managing resources, this is also going to be very relevant to produce these reports for your clients.
+  ACTION ITEM: Prep Asana proj templates from Andrew's spreadsheets (module dev, program tracking). Map weeks, initiation, QA phases.
+ - WATCH: https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4568.9999
+  ACTION ITEM: Create Asana portfolio template for full program tracking. Ensure resource allocation visibility across modules.
+ - WATCH: https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4568.9999  So I'm going to need to do some mix and matching together there. The objective is for me to prepare a project template for a given module development, and then probably also a portfolio template or another project template for tracking a program as a whole.  Okay. I'll use this as my sort of crew to map. Because you're tracking deliverables, I'll think of how to represent these.  These don't necessarily need to be sections because projects, we can also set these up as being things like grouping options.  We can group.
+
+1:16:59 - Andrew Doig
+  And also some of the module plan. And the consumer behavior plan, yes, we've got weeks, but we also have initiation, which is kickoff meeting, module planning.  So there's early phases, and then there's a quality assurance phase at the end. So, yes, the weeks are the stages of the plan, but there's also bits that come before that and bits that come after.  Got it.
+
+1:17:26 - Vlad Tudorie (Serenichron)
+  So here is where we might do something like module and assign these to week one, week two, et cetera, and then group by that, right?  Module author. Okay. I've taken my notes. We should probably make sure that we schedule our next call where I present progress.  Yeah, sure.
+
+1:17:57 - Andrew Doig
+  Because, you know, currently there's two things ongoing. This is super helpful, because if we've got templates that I can roll out, then onboarding new clients comes easier, and then the ongoing management, provided they buy into using Asana.  But the other part is the whole, what is my role? What do I do? What are the stages? So at some point, we need to start building projects around client onboarding, again, all of those things that were in the document I provided.  That's super important to me, is to be able to articulate that effectively.
+
+1:18:35 - Vlad Tudorie (Serenichron)
+  Certainly. Okay.
+
+1:18:38 - Andrew Doig
+  Okay, so next week, I mean, again, depends how much time you want to take. I can do most days at 10.  Yeah, Tuesday I've got a hard stop at 11, but otherwise, yeah, I can do any day. Any of the days at 10 are currently open for me.  I would say let's schedule for...
+
+1:19:01 - Vlad Tudorie (Serenichron)
+  I for... let's schedule for... ... Tuesday. Yeah, and then we can always have Thursday meet as well.
+
+1:19:07 - Andrew Doig
+  Yes.
+
+1:19:10 - Vlad Tudorie (Serenichron)
+  In fact, if that's fine with you, I would just do it recurring from now on. We lock in Tuesdays and Thursdays.  If something comes up, we reschedule or do something else, but just block these so that we have these.
+
+1:19:24 - Andrew Doig
+  Let's aim at an hour for each because Tuesday, I've got a hard stop at 11 anyway. But, you know, like today, if there's flexibility, we can stay on for longer.  Precisely. Okay.
+
+1:19:39 - Vlad Tudorie (Serenichron)
+  So this, we are going to assume for now should end sometime in end of November. No. Okay. Repeats weekly, Tuesdays, Thursdays.  Done. I have the invite for you. Cool. And a Google Meet link. Okay, all right, nice one, that works.
+
+1:20:08 - Andrew Doig
+  Excellent.
+
+1:20:10 - Vlad Tudorie (Serenichron)
+  All right, Andrew, I'll get going on starting to make these maps and then prepare templates. sure.
+
+1:20:16 - Andrew Doig
+  If there's anything unclear about it, mean, I think that last clarification was quite useful, but so if there's anything you're unclear on, just WhatsApp me, and we can always take a very quick call if there's anything you want to chat through it.
+  ACTION ITEM: Investigate Asana time tracking capabilities vs Clockify. Assess viability as replacement (billable/unbillable, project definition).
+ - WATCH: https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4816.9999
+
+1:20:27 - Vlad Tudorie (Serenichron)
+  Certainly, and I'll also take a note to look at the time tracking capabilities inside of Asana to see if it's feasible to use directly as a replacement for Clockify.
+  ACTION ITEM: Look into Clockify free trial. Evaluate features/usability.
+ - WATCH: https://fathom.video/share/bsRzLqp-dK1pkP37KLJ-98z3y5YyRnze?timestamp=4827.9999
+
+1:20:38 - Andrew Doig
+  Okay, yeah, I mean, I might have a look at, presumably there's a free start trial for Clockify, might have a look at it.
+
+1:20:43 - Vlad Tudorie (Serenichron)
+  Yes, it has a free version. Yeah, I'll start there. It may not be viable as a full replacement just because of all of the other functionalities that have to do with defining projects, assigning billable and versus unbillable expenses and all of that good stuff.  Okay, okay, cool.
+
+1:21:00 - Andrew Doig
+  Thanks. Be well.

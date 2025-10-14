@@ -1,0 +1,23 @@
+# Serena MCP metadata
+.serena/
+
+# XML invoices and financial documents
+*.xml
+eFactura-*.xml
+
+# Archive and work-in-progress files
+archive/
+WIP_*.md
+
+# Temporary and system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

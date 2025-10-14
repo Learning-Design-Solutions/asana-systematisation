@@ -1,0 +1,110 @@
+
+# Workflow 2: Client Onboarding / Initiation (Structured Draft) {#workflow-2:-client-onboarding-/-initiation-(structured-draft)}
+
+### 1\. Trigger Point {#1.-trigger-point}
+
+* The true “onboarding moment” is usually the **kick-off call with the operational team**, rather than just the signed contract.  
+* Sometimes initiation conversations with stakeholders begin **before** the contract is fully signed.
+
+---
+
+### 2\. Kick-off Process {#2.-kick-off-process}
+
+* Proactively engage with key people who will influence the project:  
+  * 1–2 **core collaborators/knowledge owners**  
+  * Wider group: digital education teams, learning technologists, academics (programme leads, deans), admin staff, marketing, student support.  
+* Prefer **in-person kick-off meetings** at the client site if possible.  
+* Kick-off attendees usually include:  
+  * **Project sponsor** (main contact, identifies stakeholders)  
+  * Head of digital education  
+  * Operational leaders from faculties/schools  
+  * Librarians  
+* **Current approach:** Relies mostly on personal knowledge rather than a formal process.  
+* **Gap identified:** Need for systematic questionnaires → playbooks → SOPs for consistency and scalability.
+
+---
+
+### 3\. Documentation {#3.-documentation}
+
+* Typically **client provides key programme information** at this stage.  
+* LDS documentation tends to start later in **programme planning** (plans, schedules, spreadsheets).  
+* At onboarding: no standardised deliverables currently.  
+* **Gap identified:** Should produce a clear statement of purpose/goals/deliverables as part of onboarding.  
+* Storage: generally use **client’s systems**, not LDS’s.
+
+---
+
+### 4\. Roles & Responsibilities {#4.-roles-&-responsibilities}
+
+* Sometimes uses a **RACI model** (Responsible, Accountable, Consulted, Informed) — but not consistent.  
+* Roles usually clarified in early conversations:  
+  * LDS: learning design \+ build (LDs, technologists)  
+  * Client: SMEs, sometimes video production.  
+* Approach is conversational and situational rather than systematic.  
+* Onboarding responsibilities are currently defined through conversations with client stakeholders.  
+* LDS has not yet standardised this into a repeatable RACI model or checklist.  
+* Future SOPs could include:  
+  * Standard onboarding questionnaire.  
+  * RACI template to clarify responsibilities.  
+  * Playbook reference to ensure alignment with programme management (Workflow 3).  
+* **Gap identified:** Need a more structured method of explicitly agreeing responsibilities early.
+
+---
+
+### 5\. Communication Setup {#5.-communication-setup}
+
+* Early conversations establish communication channels and file-sharing systems.  
+* Access for subcontractors can be problematic (scaling access on/off).  
+* Regular check-ins are scheduled with key stakeholder (weekly or bi-weekly).  
+* Information is then cascaded by Andrew rather than via large group meetings.
+
+---
+
+### 6\. Resource Planning {#6.-resource-planning}
+
+* Based on the **nature of the project**:  
+  * Amount of online content vs activity design.  
+  * Level and quality of media production required.  
+* Decisions generally established during contracting phase.  
+* Resource needs are drawn from experience, not a metrics-based model.  
+* SMEs always provided by the university; LDS has never supplied SMEs.  
+* **Gap identified:** Could benefit from resource planning templates or metrics to estimate effort.
+
+---
+
+### 7\. Alignment with Client Team {#7.-alignment-with-client-team}
+
+* Early **teaching and learning strategy meeting** with key stakeholders (academics, technologists, librarians, etc.) is important.  
+* Explores: *What does good online learning look like for your institution?*  
+* Leads to agreements on capacity and responsibilities.  
+* Uses RACI models when possible to formalise this.  
+* For SMEs: collaborative onboarding process, module by module.  
+* Growing recognition that **training and support** for SMEs is essential, not optional.
+
+---
+
+### 8\. Pain Points {#8.-pain-points-1}
+
+* Much of onboarding is currently **in Andrew’s head** rather than formalised.  
+* Lack of systematic steps, procedures, or templates.  
+* Initial onboarding at institutional level doesn’t always cascade effectively to **module/project level onboarding**.  
+* Risks: gaps in clarity, delays when roles or responsibilities aren’t clearly defined.
+
+### 9\. Aspirations for Asana in Workflow 2: {#9.-aspirations-for-asana-in-workflow-2:}
+
+* Standardised onboarding checklist for each new client/project.  
+* Task assignments for collecting roles, responsibilities, and contact details.  
+* Shared space for storing playbooks/questionnaire responses.
+
+# Workflow 3: Programme Management (Global Oversight – Final Draft) {#workflow-3:-programme-management-(global-oversight-–-final-draft)}
+
+### 1\. Scope & Definition {#1.-scope-&-definition}
+
+* Programme management \= **general oversight of the whole end-to-end development process** across multiple modules/projects.  
+* Key success factor: Andrew’s ability to manage different resources and activities in parallel, ensuring courses are delivered successfully.  
+* This sits above individual module development cycles and includes:  
+  * Global scheduling and calendars  
+  * Resource allocation (LDS subcontractors \+ client SMEs)  
+  * Oversight of quality and timelines  
+  * Issue/risk management
+

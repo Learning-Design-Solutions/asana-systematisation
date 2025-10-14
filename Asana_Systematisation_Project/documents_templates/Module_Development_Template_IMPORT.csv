@@ -1,0 +1,351 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time (hours),Module Code,Client Name,Programme Name,Launch Date,Go Live Date,Module Author,Learning Designer,Learning Technologist,Senior LD Reviewer,Module Status,Content Type,Week Number,Phase,LDS Resource,Client Resource,Offshore Location,QA Status,Blocker Status,Media Requirements,Review Batch
+,,,,[TEMPLATE] Module Development Template - Instructions,Instructions,,,,,,"This is the Module Development Template for online course creation.
+
+TIMELINE: 17-18 weeks from kickoff to Ready for Launch, plus 10-week buffer to Go Live (26 weeks total)
+
+SETUP INSTRUCTIONS:
+1. Duplicate this project for each new module
+2. Enter the Launch Date (when module should be ready for students)
+3. Update Module Code, Client Name, Programme Name custom fields
+4. Assign team members (Learning Designer, Learning Technologist, SME)
+5. All dates will automatically calculate from the Launch Date
+6. Review and adjust any flexible timing based on client needs
+
+KEY DATES ARE CALCULATED AS:
+- Kickoff: Launch Date - 112 days
+- Development: 8 weeks of storyboarding + building
+- Finalization: 4 weeks of reviews and corrections
+- Go Live: Launch Date + 66 days (flexible based on client)
+
+RESOURCE NOTES:
+- Learning Designer: Leads storyboarding and works with SME
+- Learning Technologist: Builds content in Moodle
+- SME/Module Author: Provides subject matter expertise
+- Academic Reviewer: Quality assurance reviews
+- Senior LD: Oversight and QA support
+
+DEPENDENCIES:
+- Each week must complete storyboard before build starts
+- Builds cascade (Week N build while Week N+1 storyboarding)
+- Reviews are batched (Weeks 1-2 together, Weeks 3-8 together)
+
+TIME TRACKING:
+- Track time on all tasks using Asana's native time tracking
+- Estimated time provided as baseline
+- Adjust estimates based on module complexity",Module Development Template,,,,,,,,,,,,,Planning,,,,,,UK,Not Started,None,None,N/A
+,,,,,Initiation & Planning,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Kick off meeting,Initiation & Planning,,,2025-09-15,2025-09-19,,"Initial project kickoff meetings with client team to align on scope, timeline, and deliverables.
+
+DELIVERABLES:
+- Project scope confirmed
+- Team introductions complete
+- Timeline reviewed and agreed
+- Communication channels established
+- Next steps clarified
+
+ATTENDEES: Learning Designer + SME + Programme Leader (optional)",Module Development Template,,,MPD Draft,,,,,,,2026-01-05,2026-03-11,,,,Planning,,,,Not Started,None,None,N/A
+,,,,Initiation meeting held,Initiation & Planning,Learning Designer,ld@example.com,2025-09-15,2025-09-19,,"Internal team meeting to review project requirements and prepare for client kickoff.
+
+AGENDA:
+- Review client brief
+- Assign roles
+- Prepare kickoff agenda
+- Identify potential risks
+- Set up project workspace",Module Development Template,Kick off meeting,,,,8,,,,,2026-01-05,2026-03-11,,,,Planning,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Kick off meeting held,Initiation & Planning,Learning Designer,ld@example.com,2025-09-15,2025-09-19,,"Client-facing kickoff meeting to officially launch the module development project.
+
+AGENDA:
+- Introductions
+- Project scope review
+- Timeline walkthrough
+- Roles and responsibilities
+- Communication protocol
+- Q&A
+
+DELIVERABLE: Signed-off kickoff meeting notes",Module Development Template,Kick off meeting,,,,8,,,,,2026-01-05,2026-03-11,,,,Planning,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Module Planning Document,Initiation & Planning,,,2025-09-22,2025-10-03,,"Develop comprehensive Module Planning Document (MPD) that defines learning outcomes, assessment strategy, week-by-week content outline, and resource requirements.
+
+This is the foundational document for the entire module development process.",Module Development Template,,Kick off meeting,Week 1 - Storyboarding,,,,,,,2026-01-05,2026-03-11,,,,Planning,,,,Not Started,None,None,N/A
+,,,,MPD Draft,Initiation & Planning,Learning Designer,ld@example.com,2025-09-22,2025-09-26,,"Create initial draft of Module Planning Document.
+
+CONTENT:
+- Module overview and rationale
+- Learning outcomes (aligned with programme outcomes)
+- Assessment strategy (types, weights, timing)
+- Week-by-week content outline
+- Resource requirements (readings, videos, activities)
+- Delivery approach (blended/online)
+
+COLLABORATION: Work closely with SME to ensure academic rigor and accuracy.",Module Development Template,Module Planning Document,,,,40,,,,,2026-01-05,2026-03-11,,,,Planning,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,MPD Finalised,Initiation & Planning,Learning Designer,ld@example.com,2025-09-29,2025-10-03,,"Finalize Module Planning Document based on SME feedback and internal review.
+
+UPDATES:
+- Incorporate SME content expertise
+- Refine learning activities
+- Confirm assessment alignment
+- Validate week-by-week structure
+- Prepare for academic review
+
+DELIVERABLE: Final MPD ready for Academic Reviewer",Module Development Template,Module Planning Document,MPD Draft,Week 1 - Storyboarding,,40,,,,,2026-01-05,2026-03-11,,,,Planning,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Assessment briefs drafted and passed to Programme Leader,Initiation & Planning,Learning Designer,ld@example.com,2025-09-29,2025-10-03,,"Draft detailed assessment briefs for all module assessments.
+
+CONTENT FOR EACH ASSESSMENT:
+- Learning outcomes addressed
+- Assessment task description
+- Marking criteria/rubric
+- Word count/time limit
+- Submission requirements
+- Academic integrity guidelines
+
+REVIEW: Programme Leader reviews for programme-level alignment and consistency.",Module Development Template,Module Planning Document,MPD Draft,,,24,,,,,2026-01-05,2026-03-11,,,,Planning,Learning Designer,"SME, Programme Leader",UK,Not Started,None,None,N/A
+,,,,Reading list revised (if required),Initiation & Planning,Learning Designer,ld@example.com,2025-09-29,2025-10-03,,"Review and update module reading list with Librarian support.
+
+ACTIVITIES:
+- Identify core and recommended readings
+- Check library access/availability
+- Ensure currency of sources (prefer last 5 years)
+- Balance academic rigor with accessibility
+- Format per institutional guidelines
+
+COLLABORATION: Librarian checks access and suggests alternatives where needed.",Module Development Template,Module Planning Document,MPD Draft,,,16,,,,,2026-01-05,2026-03-11,,,,Planning,Learning Designer,"SME, Librarian",UK,Not Started,None,None,N/A
+,,,,MPD review,Initiation & Planning,Academic Reviewer,reviewer@example.com,2025-10-06,2025-10-11,,"Academic quality assurance review of finalized Module Planning Document.
+
+REVIEW CRITERIA:
+- Learning outcomes appropriate for level
+- Assessment strategy valid and reliable
+- Content coverage sufficient and accurate
+- Academic standards maintained
+- Programme alignment confirmed
+
+DELIVERABLE: Review feedback document with approval or required changes",Module Development Template,,MPD Finalised,Week 1 - Storyboarding,,16,,,,,2026-01-05,2026-03-11,,,,Planning,,Academic Reviewer,UK,Not Started,None,None,N/A
+,,,,,Week 1,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 1 - Storyboarding,Week 1,,,2025-10-06,2025-10-17,,"Develop detailed storyboard for Week 1 content. Week 1 gets extended time (10 days vs 5 days for other weeks) to establish patterns and allow LD-SME relationship building.
+
+DELIVERABLES:
+- Complete week structure with navigation
+- All learning activities specified
+- Assessment integration defined
+- Media/resource requirements listed
+- SME scripts for any narrated content
+- Build notes for Learning Technologist",Module Development Template,,"MPD review, MPD Finalised",Week 1 - Build,,,,,,,2026-01-05,2026-03-11,,,,1,Development,,,,Not Started,None,None,N/A
+,,,,Week 1 - Storyboard Initial LD Draft,Week 1,Learning Designer,ld@example.com,2025-10-06,2025-10-10,,"Learning Designer creates initial storyboard structure for Week 1.
+
+CONTENT:
+- Page/screen layout and navigation
+- Learning activity design (forums, quizzes, reflections)
+- Multimedia placeholders with specifications
+- Interaction patterns and engagement strategies
+- Assessment touchpoints
+- Accessibility considerations
+
+This establishes the pedagogical structure that SME will populate with content.",Module Development Template,Week 1 - Storyboarding,,,Week 1 - Edit,40,,,,,2026-01-05,2026-03-11,,,,1,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 1 - Storyboard SME Scripts Draft,Week 1,SME,sme@example.com,2025-10-06,2025-10-10,,"SME develops subject matter content and scripts for Week 1.
+
+CONTENT:
+- Topic explanations and theory
+- Real-world examples and case studies
+- Discussion prompts and questions
+- Scripts for video/audio narration
+- Additional resources and references
+- Subject matter accuracy review
+
+Works in parallel with LD's structural design.",Module Development Template,Week 1 - Storyboarding,,,Week 1 - Edit,40,,,,,2026-01-05,2026-03-11,,,,1,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 1 - Edit,Week 1,Learning Designer,ld@example.com,2025-10-13,2025-10-15,,"Integrate LD structure with SME content and refine the storyboard.
+
+ACTIVITIES:
+- Merge pedagogical design with content
+- Adjust activities based on content depth
+- Refine scripts for clarity and engagement
+- Resolve any content-structure conflicts
+- Confirm all elements align with learning outcomes
+- Prepare for final review
+
+COLLABORATION: LD and SME work closely together to optimize learning experience.",Module Development Template,Week 1 - Storyboarding,"Week 1 - Storyboard Initial LD Draft, Week 1 - Storyboard SME Scripts Draft",Week 1 - Storyboard Final draft agreed,,24,,,,,2026-01-05,2026-03-11,,,,1,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 1 - Storyboard Final draft agreed,Week 1,Learning Designer,ld@example.com,2025-10-16,2025-10-17,,"Final sign-off on Week 1 storyboard before handoff to Learning Technologist.
+
+CHECKLIST:
+- All content complete and accurate
+- Learning activities fully specified
+- Media requirements clearly documented
+- Assessment integration confirmed
+- Navigation and structure finalized
+- Build notes prepared for LT
+
+DELIVERABLE: Approved storyboard ready for Moodle build",Module Development Template,Week 1 - Storyboarding,Week 1 - Edit,Week 1 - Build,,8,,,,,2026-01-05,2026-03-11,,,,1,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 1 - Build,Week 1,Learning Technologist,lt@example.com,2025-10-20,2025-10-25,,"Build Week 1 content in Moodle LMS based on approved storyboard.
+
+TASKS:
+- Create all pages with correct navigation
+- Configure activities (forums, quizzes, assignments)
+- Embed media (videos, images, audio)
+- Upload resources (PDFs, documents)
+- Set up conditional access if needed
+- Apply branding and styling
+- Run basic accessibility checks (alt text, headings)
+
+DELIVERABLE: Week 1 built and ready for LD/SME review before going live",Module Development Template,,Week 1 - Storyboard Final draft agreed,Week 1 and 2 review,,40,,,,,2026-01-05,2026-03-11,,,,1,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Week 2,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 2 - Storyboarding,Week 2,,,2025-10-20,2025-10-24,,"Develop detailed storyboard for Week 2 content following the pattern established in Week 1.
+
+Weeks 2-8 follow standard 5-day storyboarding timeline (vs Week 1's extended 10 days).",Module Development Template,,Week 1 - Build,Week 2 - Build,,,,,,,2026-01-05,2026-03-11,,,,2,Development,,,,Not Started,None,None,N/A
+,,,,Week 2 - Storyboard Initial LD Draft,Week 2,Learning Designer,ld@example.com,2025-10-20,2025-10-21,,"Learning Designer creates initial storyboard structure for Week 2 following Week 1 pattern.",Module Development Template,Week 2 - Storyboarding,,,Week 2 - Edit,16,,,,,2026-01-05,2026-03-11,,,,2,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 2 - Storyboard SME Scripts Draft,Week 2,SME,sme@example.com,2025-10-20,2025-10-21,,"SME develops subject matter content and scripts for Week 2 (parallel with LD draft).",Module Development Template,Week 2 - Storyboarding,,,Week 2 - Edit,16,,,,,2026-01-05,2026-03-11,,,,2,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 2 - Edit,Week 2,Learning Designer,ld@example.com,2025-10-22,2025-10-23,,"Integrate LD structure with SME content for Week 2 and refine.",Module Development Template,Week 2 - Storyboarding,"Week 2 - Storyboard Initial LD Draft, Week 2 - Storyboard SME Scripts Draft",Week 2 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,2,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 2 - Storyboard Final draft agreed,Week 2,Learning Designer,ld@example.com,2025-10-24,2025-10-24,,"Final sign-off on Week 2 storyboard before handoff to LT.",Module Development Template,Week 2 - Storyboarding,Week 2 - Edit,Week 2 - Build,,8,,,,,2026-01-05,2026-03-11,,,,2,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 2 - Build,Week 2,Learning Technologist,lt@example.com,2025-10-27,2025-11-01,,"Build Week 2 content in Moodle LMS based on approved storyboard.",Module Development Template,,Week 2 - Storyboard Final draft agreed,Week 1 and 2 review,,40,,,,,2026-01-05,2026-03-11,,,,2,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,Week 1 and 2 review,Week 1,Academic Reviewer,reviewer@example.com,2025-11-03,2025-11-08,,"Academic quality assurance review of Weeks 1-2 content together (batched review).
+
+REVIEW CRITERIA:
+- Academic rigor and accuracy
+- Appropriate level for target learners
+- Assessment alignment with outcomes
+- Reading list currency
+- Compliance with academic standards
+
+DELIVERABLE: Review feedback document with approval or required changes
+
+NOTE: Appears in Week 1 section but waits for Week 2 build to complete.",Module Development Template,,"Week 1 - Build, Week 2 - Build",,,20,,,,,2026-01-05,2026-03-11,,,,1,Development,,Academic Reviewer,UK,Not Started,None,None,Weeks 1-2
+,,,,,Week 3,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 3 - Storyboarding,Week 3,,,2025-10-27,2025-10-31,,"Develop detailed storyboard for Week 3 content.",Module Development Template,,Week 2 - Build,Week 3 - Build,,,,,,,2026-01-05,2026-03-11,,,,3,Development,,,,Not Started,None,None,N/A
+,,,,Week 3 - Storyboard Initial LD Draft,Week 3,Learning Designer,ld@example.com,2025-10-27,2025-10-28,,"Learning Designer creates initial storyboard structure for Week 3.",Module Development Template,Week 3 - Storyboarding,,,Week 3 - Edit,16,,,,,2026-01-05,2026-03-11,,,,3,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 3 - Storyboard SME Scripts Draft,Week 3,SME,sme@example.com,2025-10-27,2025-10-28,,"SME develops content and scripts for Week 3.",Module Development Template,Week 3 - Storyboarding,,,Week 3 - Edit,16,,,,,2026-01-05,2026-03-11,,,,3,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 3 - Edit,Week 3,Learning Designer,ld@example.com,2025-10-29,2025-10-30,,"Integrate and refine Week 3 storyboard.",Module Development Template,Week 3 - Storyboarding,"Week 3 - Storyboard Initial LD Draft, Week 3 - Storyboard SME Scripts Draft",Week 3 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,3,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 3 - Storyboard Final draft agreed,Week 3,Learning Designer,ld@example.com,2025-10-31,2025-10-31,,"Final sign-off on Week 3 storyboard.",Module Development Template,Week 3 - Storyboarding,Week 3 - Edit,Week 3 - Build,,8,,,,,2026-01-05,2026-03-11,,,,3,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 3 - Build,Week 3,Learning Technologist,lt@example.com,2025-11-03,2025-11-08,,"Build Week 3 content in Moodle LMS.",Module Development Template,,Week 3 - Storyboard Final draft agreed,Weeks 3 to 8 review,,40,,,,,2026-01-05,2026-03-11,,,,3,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Week 4,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 4 - Storyboarding,Week 4,,,2025-11-03,2025-11-07,,"Develop detailed storyboard for Week 4 content.",Module Development Template,,Week 3 - Build,Week 4 - Build,,,,,,,2026-01-05,2026-03-11,,,,4,Development,,,,Not Started,None,None,N/A
+,,,,Week 4 - Storyboard Initial LD Draft,Week 4,Learning Designer,ld@example.com,2025-11-03,2025-11-04,,"Learning Designer creates initial storyboard structure for Week 4.",Module Development Template,Week 4 - Storyboarding,,,Week 4 - Edit,16,,,,,2026-01-05,2026-03-11,,,,4,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 4 - Storyboard SME Scripts Draft,Week 4,SME,sme@example.com,2025-11-03,2025-11-04,,"SME develops content and scripts for Week 4.",Module Development Template,Week 4 - Storyboarding,,,Week 4 - Edit,16,,,,,2026-01-05,2026-03-11,,,,4,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 4 - Edit,Week 4,Learning Designer,ld@example.com,2025-11-05,2025-11-06,,"Integrate and refine Week 4 storyboard.",Module Development Template,Week 4 - Storyboarding,"Week 4 - Storyboard Initial LD Draft, Week 4 - Storyboard SME Scripts Draft",Week 4 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,4,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 4 - Storyboard Final draft agreed,Week 4,Learning Designer,ld@example.com,2025-11-07,2025-11-07,,"Final sign-off on Week 4 storyboard.",Module Development Template,Week 4 - Storyboarding,Week 4 - Edit,Week 4 - Build,,8,,,,,2026-01-05,2026-03-11,,,,4,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 4 - Build,Week 4,Learning Technologist,lt@example.com,2025-11-10,2025-11-15,,"Build Week 4 content in Moodle LMS.",Module Development Template,,Week 4 - Storyboard Final draft agreed,"Weeks 3 to 8 review, Film shoot - first batch",,40,,,,,2026-01-05,2026-03-11,,,,4,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Week 5,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 5 - Storyboarding,Week 5,,,2025-11-10,2025-11-14,,"Develop detailed storyboard for Week 5 content.",Module Development Template,,Week 4 - Build,Week 5 - Build,,,,,,,2026-01-05,2026-03-11,,,,5,Development,,,,Not Started,None,None,N/A
+,,,,Week 5 - Storyboard Initial LD Draft,Week 5,Learning Designer,ld@example.com,2025-11-10,2025-11-11,,"Learning Designer creates initial storyboard structure for Week 5.",Module Development Template,Week 5 - Storyboarding,,,Week 5 - Edit,16,,,,,2026-01-05,2026-03-11,,,,5,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 5 - Storyboard SME Scripts Draft,Week 5,SME,sme@example.com,2025-11-10,2025-11-11,,"SME develops content and scripts for Week 5.",Module Development Template,Week 5 - Storyboarding,,,Week 5 - Edit,16,,,,,2026-01-05,2026-03-11,,,,5,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 5 - Edit,Week 5,Learning Designer,ld@example.com,2025-11-12,2025-11-13,,"Integrate and refine Week 5 storyboard.",Module Development Template,Week 5 - Storyboarding,"Week 5 - Storyboard Initial LD Draft, Week 5 - Storyboard SME Scripts Draft",Week 5 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,5,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 5 - Storyboard Final draft agreed,Week 5,Learning Designer,ld@example.com,2025-11-14,2025-11-14,,"Final sign-off on Week 5 storyboard.",Module Development Template,Week 5 - Storyboarding,Week 5 - Edit,Week 5 - Build,,8,,,,,2026-01-05,2026-03-11,,,,5,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 5 - Build,Week 5,Learning Technologist,lt@example.com,2025-11-17,2025-11-22,,"Build Week 5 content in Moodle LMS.",Module Development Template,,Week 5 - Storyboard Final draft agreed,Weeks 3 to 8 review,,40,,,,,2026-01-05,2026-03-11,,,,5,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Week 6,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 6 - Storyboarding,Week 6,,,2025-11-17,2025-11-21,,"Develop detailed storyboard for Week 6 content.",Module Development Template,,Week 5 - Build,Week 6 - Build,,,,,,,2026-01-05,2026-03-11,,,,6,Development,,,,Not Started,None,None,N/A
+,,,,Week 6 - Storyboard Initial LD Draft,Week 6,Learning Designer,ld@example.com,2025-11-17,2025-11-18,,"Learning Designer creates initial storyboard structure for Week 6.",Module Development Template,Week 6 - Storyboarding,,,Week 6 - Edit,16,,,,,2026-01-05,2026-03-11,,,,6,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 6 - Storyboard SME Scripts Draft,Week 6,SME,sme@example.com,2025-11-17,2025-11-18,,"SME develops content and scripts for Week 6.",Module Development Template,Week 6 - Storyboarding,,,Week 6 - Edit,16,,,,,2026-01-05,2026-03-11,,,,6,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 6 - Edit,Week 6,Learning Designer,ld@example.com,2025-11-19,2025-11-20,,"Integrate and refine Week 6 storyboard.",Module Development Template,Week 6 - Storyboarding,"Week 6 - Storyboard Initial LD Draft, Week 6 - Storyboard SME Scripts Draft",Week 6 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,6,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 6 - Storyboard Final draft agreed,Week 6,Learning Designer,ld@example.com,2025-11-21,2025-11-21,,"Final sign-off on Week 6 storyboard.",Module Development Template,Week 6 - Storyboarding,Week 6 - Edit,Week 6 - Build,,8,,,,,2026-01-05,2026-03-11,,,,6,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 6 - Build,Week 6,Learning Technologist,lt@example.com,2025-11-24,2025-11-29,,"Build Week 6 content in Moodle LMS.",Module Development Template,,Week 6 - Storyboard Final draft agreed,Weeks 3 to 8 review,,40,,,,,2026-01-05,2026-03-11,,,,6,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Week 7,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 7 - Storyboarding,Week 7,,,2025-11-24,2025-11-28,,"Develop detailed storyboard for Week 7 content.",Module Development Template,,Week 6 - Build,Week 7 - Build,,,,,,,2026-01-05,2026-03-11,,,,7,Development,,,,Not Started,None,None,N/A
+,,,,Week 7 - Storyboard Initial LD Draft,Week 7,Learning Designer,ld@example.com,2025-11-24,2025-11-25,,"Learning Designer creates initial storyboard structure for Week 7.",Module Development Template,Week 7 - Storyboarding,,,Week 7 - Edit,16,,,,,2026-01-05,2026-03-11,,,,7,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 7 - Storyboard SME Scripts Draft,Week 7,SME,sme@example.com,2025-11-24,2025-11-25,,"SME develops content and scripts for Week 7.",Module Development Template,Week 7 - Storyboarding,,,Week 7 - Edit,16,,,,,2026-01-05,2026-03-11,,,,7,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 7 - Edit,Week 7,Learning Designer,ld@example.com,2025-11-26,2025-11-27,,"Integrate and refine Week 7 storyboard.",Module Development Template,Week 7 - Storyboarding,"Week 7 - Storyboard Initial LD Draft, Week 7 - Storyboard SME Scripts Draft",Week 7 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,7,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 7 - Storyboard Final draft agreed,Week 7,Learning Designer,ld@example.com,2025-11-28,2025-11-28,,"Final sign-off on Week 7 storyboard.",Module Development Template,Week 7 - Storyboarding,Week 7 - Edit,Week 7 - Build,,8,,,,,2026-01-05,2026-03-11,,,,7,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 7 - Build,Week 7,Learning Technologist,lt@example.com,2025-12-01,2025-12-06,,"Build Week 7 content in Moodle LMS.",Module Development Template,,Week 7 - Storyboard Final draft agreed,Weeks 3 to 8 review,,40,,,,,2026-01-05,2026-03-11,,,,7,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Week 8,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Week 8 - Storyboarding,Week 8,,,2025-12-01,2025-12-05,,"Develop detailed storyboard for Week 8 content (final week).",Module Development Template,,Week 7 - Build,Week 8 - Build,,,,,,,2026-01-05,2026-03-11,,,,8,Development,,,,Not Started,None,None,N/A
+,,,,Week 8 - Storyboard Initial LD Draft,Week 8,Learning Designer,ld@example.com,2025-12-01,2025-12-02,,"Learning Designer creates initial storyboard structure for Week 8.",Module Development Template,Week 8 - Storyboarding,,,Week 8 - Edit,16,,,,,2026-01-05,2026-03-11,,,,8,Development,Learning Designer,,UK,Not Started,None,None,N/A
+,,,,Week 8 - Storyboard SME Scripts Draft,Week 8,SME,sme@example.com,2025-12-01,2025-12-02,,"SME develops content and scripts for Week 8.",Module Development Template,Week 8 - Storyboarding,,,Week 8 - Edit,16,,,,,2026-01-05,2026-03-11,,,,8,Development,,SME,UK,Not Started,None,None,N/A
+,,,,Week 8 - Edit,Week 8,Learning Designer,ld@example.com,2025-12-03,2025-12-04,,"Integrate and refine Week 8 storyboard.",Module Development Template,Week 8 - Storyboarding,"Week 8 - Storyboard Initial LD Draft, Week 8 - Storyboard SME Scripts Draft",Week 8 - Storyboard Final draft agreed,,16,,,,,2026-01-05,2026-03-11,,,,8,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 8 - Storyboard Final draft agreed,Week 8,Learning Designer,ld@example.com,2025-12-05,2025-12-05,,"Final sign-off on Week 8 storyboard.",Module Development Template,Week 8 - Storyboarding,Week 8 - Edit,Week 8 - Build,,8,,,,,2026-01-05,2026-03-11,,,,8,Development,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Week 8 - Build,Week 8,Learning Technologist,lt@example.com,2025-12-08,2025-12-13,,"Build Week 8 content in Moodle LMS (final week build).",Module Development Template,,Week 8 - Storyboard Final draft agreed,"Weeks 3 to 8 review, Film shoot - second batch",,40,,,,,2026-01-05,2026-03-11,,,,8,Build,,Learning Technologist,UK,Not Started,None,Standard,N/A
+,,,,,Finalization,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Film shoot - first batch,Finalization,Digital Learning Team,media@example.com,2025-11-10,2025-11-15,,"Film first batch of video content for module (Weeks 1-4 content).
+
+PLANNING:
+- Confirm SME filming availability
+- Book studio/location
+- Prepare scripts from storyboards (Weeks 1-4)
+- Arrange equipment and crew
+
+DELIVERABLES:
+- Raw footage for Weeks 1-4
+- Edited videos ready for embedding
+- Captions/transcripts
+- Video files in required formats
+
+COORDINATION: Work with LT to embed videos as completed.
+
+NOTE: Timing is flexible based on module media requirements. Some modules may not require film shoots.",Module Development Template,,Week 4 - Build,,,48,,,,,2026-01-05,2026-03-11,,,,5,Build,,Digital Learning Team,UK,Not Started,None,Film Shoot Required,N/A
+,,,,Film shoot - second batch,Finalization,Digital Learning Team,media@example.com,2025-12-08,2025-12-13,,"Film second batch of video content for module (Weeks 5-8 content).
+
+PLANNING:
+- Confirm SME filming availability
+- Book studio/location
+- Prepare scripts from storyboards (Weeks 5-8)
+- Arrange equipment and crew
+
+DELIVERABLES:
+- Raw footage for Weeks 5-8
+- Edited videos ready for embedding
+- Captions/transcripts
+- Video files in required formats
+
+COORDINATION: Work with LT to embed videos as completed.",Module Development Template,,Week 8 - Build,Proofreading,,40,,,,,2026-01-05,2026-03-11,,,,8,Build,,Digital Learning Team,UK,Not Started,None,Film Shoot Required,N/A
+,,,,Proofreading,Finalization,Editorial Team,editor@example.com,2025-12-15,2025-12-19,,"Professional proofreading and copy editing of all module content.
+
+REVIEW AREAS:
+- Grammar, spelling, punctuation
+- Consistency in terminology
+- Clarity of language
+- Readability and flow
+- Format consistency
+- Accessibility of language
+
+DELIVERABLE: Proofread content with correction list for LT to implement.
+
+NOTE: This is language/editorial review, not academic content review.",Module Development Template,,Film shoot - second batch,,,40,,,,,2026-01-05,2026-03-11,,,,,Finalization,,Editorial Team,UK,Not Started,None,None,N/A
+,,,,Weeks 3 to 8 review,Finalization,Academic Reviewer,reviewer@example.com,2025-12-22,2025-12-26,,"Academic quality assurance review of Weeks 3-8 content together (batched review).
+
+REVIEW CRITERIA:
+- Academic rigor and accuracy
+- Consistency with Weeks 1-2
+- Progression of difficulty across weeks
+- Assessment load balance
+- Module coherence and flow
+- Academic standards compliance
+
+DELIVERABLE: Review feedback document with approval or required changes.
+
+⚠️ WARNING: This review period falls on Christmas week (Dec 22-26). Confirm Academic Reviewer availability and adjust dates if needed based on holiday schedules.",Module Development Template,,"Week 3 - Build, Week 4 - Build, Week 5 - Build, Week 6 - Build, Week 7 - Build, Week 8 - Build",Corrections,,24,,,,,2026-01-05,2026-03-11,,,,,Finalization,,Academic Reviewer,UK,Not Started,None,None,Weeks 3-8
+,,,,Corrections,Finalization,Learning Designer,ld@example.com,2025-12-29,2026-01-02,,"Address all feedback from Weeks 3-8 review and proofreading.
+
+ACTIVITIES:
+- Review all feedback from Academic Reviewer
+- Implement required content changes (LD/SME)
+- Implement editorial corrections (LT)
+- Verify all changes complete
+- Final QA pass
+
+COLLABORATION: May require LD, LT, and SME depending on nature of corrections (content vs technical vs editorial).
+
+DELIVERABLE: All corrections implemented and verified.",Module Development Template,,"Weeks 3 to 8 review, Proofreading",Ready for launch,,40,,,,,2026-01-05,2026-03-11,,,,,Finalization,Learning Designer,SME,UK,Not Started,None,None,N/A
+,,,,Ready for launch,Finalization,Senior LD Reviewer,sld@example.com,2026-01-05,2026-01-05,,"Module is complete, QA'd, and ready for launch to students.
+
+FINAL CHECKLIST:
+- All 8 weeks built and reviewed
+- All corrections implemented
+- Academic reviews approved
+- Proofreading complete
+- Accessibility checks passed
+- Assessment setup confirmed
+- Module tested end-to-end
+
+STATUS: Module ready but not yet live to students (awaits Go Live date).
+
+NOTE: 10-week buffer between Ready for Launch and Go Live is flexible based on client needs (academic calendar alignment, final approval time, etc.).",Module Development Template,,Corrections,Go live,,8,,,,,2026-01-05,2026-03-11,,,,,Finalization,,,UK,Not Started,None,None,N/A
+,,,,,Launch,,,,,,,Module Development Template,,,,,,,,,,,,,,,,,,,,,
+,,,,Go live,Launch,Learning Technologist,lt@example.com,2026-03-11,2026-03-11,,"Module goes live to students.
+
+ACTIVITIES:
+- Make module visible to students
+- Confirm access permissions correct
+- Send launch communication to students
+- Monitor for any technical issues
+- Be available for first-day support
+
+NOTE: Go Live date is flexible and typically aligns with:
+- Academic term start date
+- Programme cohort start
+- Client's academic calendar
+- Other programme modules
+
+The 66-day buffer from Ready for Launch allows flexibility for client scheduling needs.",Module Development Template,,Ready for launch,,,8,,,,,2026-01-05,2026-03-11,,,,,Launch,,Learning Technologist,UK,Not Started,None,None,N/A

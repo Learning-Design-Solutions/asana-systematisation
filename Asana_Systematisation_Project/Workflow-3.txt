@@ -1,0 +1,122 @@
+[Workflow 3: Programme Management (Global Oversight – Final Draft)	10](#workflow-3:-programme-management-\(global-oversight-–-final-draft\))
+
+[1\. Scope & Definition	10](#1.-scope-&-definition)
+
+[2\. Programme Planning	10](#2.-programme-planning)
+
+[3\. Resource Allocation	10](#3.-resource-allocation)
+
+[4\. Coordination with Client	10](#4.-coordination-with-client)
+
+[5\. Oversight & Monitoring	11](#5.-oversight-&-monitoring)
+
+[6\. Quality Assurance	11](#6.-quality-assurance)
+
+[7\. Issue Management	11](#7.-issue-management)
+
+[8\. Tools & Documentation	11](#8.-tools-&-documentation)
+
+[9\. Pain Points	11](#9.-pain-points)
+
+[10\. Aspirations for Asana in Workflow 3:	12](#heading)
+
+# Workflow 3: Programme Management (Global Oversight – Final Draft) {#workflow-3:-programme-management-(global-oversight-–-final-draft)}
+
+### 1\. Scope & Definition {#1.-scope-&-definition}
+
+* Programme management \= **general oversight of the whole end-to-end development process** across multiple modules/projects.  
+* Key success factor: Andrew’s ability to manage different resources and activities in parallel, ensuring courses are delivered successfully.  
+* This sits above individual module development cycles and includes:  
+  * Global scheduling and calendars  
+  * Resource allocation (LDS subcontractors \+ client SMEs)  
+  * Oversight of quality and timelines  
+  * Issue/risk management
+
+---
+
+### 2\. Programme Planning {#2.-programme-planning}
+
+* Use a **development waterfall** approach.  
+* Start from each course’s **first delivery date** → map backwards by minimum 4 months (or agreed development duration).  
+* Build a master calendar in a **large spreadsheet**.  
+* Each module has milestones and dependencies mapped in detail (e.g. storyboards, builds, reviews, QA).
+
+---
+
+### 3\. Resource Allocation {#3.-resource-allocation}
+
+* Decision based on **budget and profitability**:  
+  * Onshore vs offshore allocation depends on client’s fee tolerance and LDS profit margin.  
+  * Often a hybrid model (some modules UK LDs, some offshore).  
+* Balancing workloads: not currently capacity-modelled, but guided by costings and availability.
+
+---
+
+### 4\. Coordination with Client {#4.-coordination-with-client}
+
+* **Andrew owns programme management.**  
+* Client does not usually provide programme-level oversight — LDS drives it.  
+* Coordination of calendars, dependencies, and SME availability is handled at onboarding and maintained throughout.
+
+---
+
+### 5\. Oversight & Monitoring {#5.-oversight-&-monitoring}
+
+* **Weekly reporting from LDs** into the master spreadsheet (status updates per module).  
+* Andrew and Senior LD (Nicole) collaborate to review reports and flag issues.  
+* SMEs’ responsiveness and input monitored through these updates.  
+* Issues raised by LDs are escalated quickly for resolution.  
+* Weekly updates from LDs are reviewed by Andrew and the SLD.  
+* Oversight role is shifting towards the SLD to free Andrew for programme-level planning and business development.
+
+---
+
+### 6\. Quality Assurance {#6.-quality-assurance}
+
+* QA stages are agreed with the client at the outset.  
+* Standard approach: **three academic quality checks** (client responsibility).  
+* LDS focus: **learning design quality** of storyboards, plans, and built content.  
+* QA carried out by Andrew or Nicole (SLD).  
+* QA is increasingly supported by the SLD, reducing Andrew’s direct oversight.  
+* LDS is considering adopting the QA checklist approach trialled by LearningMate (see Workflow 4).  
+* Cross-linking QA standards between programme management and module development would improve consistency.  
+* **Gap identified:** Lack of formal QA checklists → need to develop.
+
+---
+
+### 7\. Issue Management {#7.-issue-management}
+
+* LDs flag issues (e.g. SME non-participation) quickly; clients also escalate issues directly.  
+* SME dropouts managed through collaborative discussions with client; sometimes need to add LDS or client-side extra resource.  
+* Buffering helps absorb unpredictable changes, but “just-in-time” developments are more fragile.  
+* Approach: always **collegial and collaborative escalation** with client stakeholders.
+
+---
+
+### 8\. Tools & Documentation {#8.-tools-&-documentation}
+
+* Primary tools: **spreadsheets**, shared drives (SharePoint, Teams, Google Drive if client prefers).  
+* Programme plans stored in client systems, not LDS-owned space.  
+* **Templates:** limited — no consistent, standardised programme plan templates yet.  
+* **Future aspiration:** programme documentation mapped into a single shared LDS repository (not only client drives) to preserve institutional knowledge and support delegation.
+
+### 9\. Pain Points {#9.-pain-points}
+
+* Managing “all the plates spinning” across 20+ concurrent modules.  
+* Risk increases with scale and multiple overlapping projects.  
+* **Biggest risk factor: SME availability and reliability.**  
+* Current system \= manual, time-intensive, heavily reliant on Andrew’s oversight.  
+* Desire for Asana:  
+  * Portfolio-level view of all modules  
+  * Resource tracking across UK/offshore teams  
+  * Milestone monitoring and alerts  
+  * Automated reminders and reporting
+
+---
+
+### 10\. Aspirations for Asana in Workflow 3:
+
+* Dashboard showing all modules and milestones in one programme view.  
+* Integrated QA checklists for module sign-offs.  
+* Issue log to track escalations and resolutions.  
+* **Future aspiration:** structure programme documentation into an **Asana hierarchy** (Portfolio → Programme → Project → Tasks) for visibility, reporting, and scalability.
