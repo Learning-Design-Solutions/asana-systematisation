@@ -1,6 +1,3 @@
-# Serena MCP metadata
-.serena/
-
 # XML invoices and financial documents
 *.xml
 eFactura-*.xml
