@@ -59,10 +59,10 @@ TOTAL CYCLE: 178 days (≈26 weeks)
 | Finalization | 20 days | 20 | 4 weeks | Ready for Launch |
 | **Launch Buffer** | **66 days** | **66** | **~10 weeks** | **Go Live** |
 
-**Critical Note**: The 10-week buffer between "Ready for Launch" and "Go Live" needs clarification from Andrew - is this:
-- Standard for all modules?
-- Academic year alignment requirement?
-- Client-specific customization?
+**Critical Note**: The 10-week buffer between "Ready for Launch" and "Go Live" is **not a standard** - it depends on when the program development for that specific module starts. This buffer accommodates:
+- Academic calendar alignment requirements
+- Client-specific launch windows
+- Variable lead times based on programme scheduling
 
 ### 1.3 Week 1 Special Structure
 
@@ -76,11 +76,12 @@ Week 1 receives extended time allocation compared to weeks 2-8:
 | Final Draft Agreed | 2 days | 1 day | +1 day |
 | **Total Storyboarding** | **10 days** | **5 days** | **+5 days** |
 
-**Rationale** (to confirm with Andrew):
-- First week establishes patterns and processes
-- SME needs more time to understand storyboard format
-- LD and SME building working relationship
+**Rationale** (confirmed with Andrew):
+- First week establishes patterns and processes for the entire module
+- SME needs more time to understand storyboard format and expectations
+- LD and SME building working relationship and communication patterns
 - More back-and-forth expected in initial week
+- **Flexibility Note**: If the client truly wants to trim time, Andrew may be willing to reduce Week 1 to one week (5 days) instead of the standard 10 days, though this increases risk of rework
 
 ---
 
@@ -316,7 +317,7 @@ Each week section follows a similar pattern, with **Week 1 being special** (10 d
 1. **Go live** (Launch date: 03/11/2026)
    - No specific resource assigned
    - 66-day gap from "Ready for launch" (01/05/2026)
-   - **Critical Question**: Why 10-week buffer? Academic calendar alignment?
+   - **Responsibility Clarification** (from Andrew): Launch is not Andrew's task. Andrew's job is to get everything ready for launch (the "Ready for Launch" milestone). The actual "Go Live" is controlled by the client's academic calendar and programme scheduling.
 
 ---
 
@@ -453,6 +454,8 @@ Review criteria:
 - Compliance with academic standards
 
 Output: Review feedback document with required changes
+
+⚠️ CONSISTENCY NOTE (from Andrew): Academic Reviewer performance "has been super inconsistent with current client, tends to be lighter touch than proofreading". Manage expectations accordingly and may need to allocate additional internal QA resources.
 ```
 
 #### Batched Review: Weeks 3-8
@@ -477,7 +480,9 @@ Review criteria:
 
 Output: Review feedback document with required changes
 
-⚠️ NOTE: This review falls on Christmas week (12/22-12/26). Confirm with Academic Reviewer availability or adjust timeline.
+⚠️ CONSISTENCY NOTE (from Andrew): Academic Reviewer performance "has been super inconsistent with current client, tends to be lighter touch than proofreading". Manage expectations accordingly and may need to allocate additional internal QA resources.
+
+⚠️ SCHEDULING NOTE: This review falls on Christmas week (12/22-12/26). Confirm with Academic Reviewer availability or adjust timeline.
 ```
 
 ### 5.6 Film Shoot Tasks
@@ -500,18 +505,41 @@ Output: Review feedback document with required changes
 ```
 Film first batch of video content for module.
 
-Planning requirements:
-- Confirm SME availability for filming dates
-- Book studio/location
-- Prepare scripts and prompts (from Weeks 1-4 storyboards)
-- Arrange equipment and crew
+**Film Shoot Options** (confirmed with Andrew):
 
-Deliverables:
+**1st Option - Physical Presence in London**:
+If the Academic is physically present in London (Andrew can come into campus), they will film in the studio at SOAS or Walbrook's campus.
+- Highest production quality
+- Professional studio environment
+- Direct support from Digital Learning Team
+
+**2nd Option - Remote Loom Recording**:
+If Academic can't come into campus, they will record themselves using Loom or similar screen recording software.
+- Academic records from their own location
+- More flexible scheduling
+- Lower production overhead
+- Still maintains personal presence
+
+**3rd Option - AI Avatars**:
+Use AI-generated avatars for video content.
+- No Academic filming required
+- Consistent visual presentation
+- Fastest turnaround time
+
+**Scheduling Flexibility**: These windows are nominal and recommended to the client - actual timing may vary based on SME availability and project needs.
+
+**Planning requirements**:
+- Confirm SME availability and preferred filming option
+- Book studio/location (if Option 1)
+- Prepare scripts and prompts (from Weeks 1-4 storyboards)
+- Arrange equipment and crew (if Option 1)
+
+**Deliverables**:
 - Raw footage for Weeks 1-4 content
 - Edited videos ready for embedding
 - Captions/transcripts prepared
 
-Coordination: Work with LT to embed videos as they're completed
+**Coordination**: Work with LT to embed videos as they're completed
 ```
 
 #### Film Shoot - Second Batch
@@ -528,18 +556,41 @@ Coordination: Work with LT to embed videos as they're completed
 ```
 Film second batch of video content for module.
 
-Planning requirements:
-- Confirm SME availability for filming dates
-- Book studio/location
-- Prepare scripts and prompts (from Weeks 5-8 storyboards)
-- Arrange equipment and crew
+**Film Shoot Options** (confirmed with Andrew):
 
-Deliverables:
+**1st Option - Physical Presence in London**:
+If the Academic is physically present in London (Andrew can come into campus), they will film in the studio at SOAS or Walbrook's campus.
+- Highest production quality
+- Professional studio environment
+- Direct support from Digital Learning Team
+
+**2nd Option - Remote Loom Recording**:
+If Academic can't come into campus, they will record themselves using Loom or similar screen recording software.
+- Academic records from their own location
+- More flexible scheduling
+- Lower production overhead
+- Still maintains personal presence
+
+**3rd Option - AI Avatars**:
+Use AI-generated avatars for video content.
+- No Academic filming required
+- Consistent visual presentation
+- Fastest turnaround time
+
+**Scheduling Flexibility**: These windows are nominal and recommended to the client - actual timing may vary based on SME availability and project needs.
+
+**Planning requirements**:
+- Confirm SME availability and preferred filming option
+- Book studio/location (if Option 1)
+- Prepare scripts and prompts (from Weeks 5-8 storyboards)
+- Arrange equipment and crew (if Option 1)
+
+**Deliverables**:
 - Raw footage for Weeks 5-8 content
 - Edited videos ready for embedding
 - Captions/transcripts prepared
 
-Coordination: Work with LT to embed videos as they're completed
+**Coordination**: Work with LT to embed videos as they're completed
 ```
 
 **Question for Andrew**: Are film shoots standard for all modules, or only certain content types? Should this be controlled by "Media Requirements" custom field?
@@ -657,8 +708,8 @@ For each week N (2-8):
   - Film shoot - second batch
   - Weeks 3 to 8 review
 
-"Week 4 - Build" → Must complete before:
-  - Film shoot - first batch (suggested, but runs in parallel with Week 5)
+"Week 4 - Storyboard Final draft agreed" → Must complete before:
+  - Film shoot - first batch (depends on Storyboard completion, not Build completion)
 ```
 
 #### Finalization Dependencies
@@ -1267,11 +1318,11 @@ Before finalizing template implementation, clarify the following with Andrew:
 
 ### 11.1 Timeline Questions
 
-1. **10-Week Launch Buffer**: Why is there a 66-day gap between "Ready for Launch" and "Go Live"?
-   - Is this standard for all modules?
-   - Related to academic year calendar?
-   - Buffer for client final review?
-   - Should this be configurable per module?
+1. ~~**10-Week Launch Buffer**: Why is there a 66-day gap between "Ready for Launch" and "Go Live"?~~ **[ANSWERED - See Section 1.2]**
+   - ~~Is this standard for all modules?~~
+   - ~~Related to academic year calendar?~~
+   - ~~Buffer for client final review?~~
+   - ~~Should this be configurable per module?~~
 
 2. **Christmas Week Reviews**: The Weeks 3-8 review falls on 12/22-12/26 (Christmas week) in the example timeline.
    - Is this typical scheduling or an artifact of the example dates?
@@ -1284,10 +1335,11 @@ Before finalizing template implementation, clarify the following with Andrew:
 
 ### 11.2 Week 1 Structure Questions
 
-4. **Week 1 Extended Duration**: Week 1 gets 10 days for storyboarding (vs 5 days for weeks 2-8).
-   - Is this pattern universal for all modules?
-   - What's the rationale? (relationship building, pattern setting, etc.)
-   - Should this ever be adjusted for certain module types?
+4. ~~**Week 1 Extended Duration**: Week 1 gets 10 days for storyboarding (vs 5 days for weeks 2-8).~~ **[ANSWERED - See Section 1.3]**
+   - ~~Is this pattern universal for all modules?~~
+   - ~~What's the rationale? (relationship building, pattern setting, etc.)~~
+   - ~~Should this ever be adjusted for certain module types?~~
+   - ~~**Answer**: Extended Week 1 establishes patterns for entire module, allows SME to learn format, builds LD-SME relationship. Andrew may reduce to 5 days if client requires, but this increases rework risk.~~
 
 5. **Storyboard Drafts Timing**: In Week 1, LD and SME drafts are 5 days each (parallel). In Weeks 2-8, they're 2 days each (parallel).
    - Are these realistic durations?
@@ -1312,16 +1364,18 @@ Before finalizing template implementation, clarify the following with Andrew:
 
 ### 11.4 Film Shoot Questions
 
-9. **Film Shoot Applicability**: Are film shoots standard for all modules?
-   - Or only certain content types (e.g., skills-based, lab demonstrations)?
-   - Should "Film shoot" tasks be controlled by "Media Requirements" custom field?
-   - What determines first batch vs second batch content split?
+9. ~~**Film Shoot Applicability**: Are film shoots standard for all modules?~~ **[ANSWERED - See Section 5.6]**
+   - ~~Or only certain content types (e.g., skills-based, lab demonstrations)?~~
+   - ~~Should "Film shoot" tasks be controlled by "Media Requirements" custom field?~~
+   - ~~What determines first batch vs second batch content split?~~
+   - ~~**Answer**: Three filming options available (Physical in London studio, Remote Loom recording, AI Avatars). Choice depends on SME location and project needs.~~
 
-10. **Film Shoot Scheduling**: First batch (6 days) runs during Week 5 development, second batch (5 days) at start of finalization.
-    - Is this timing based on SME availability?
-    - Content readiness?
-    - Studio booking constraints?
-    - Should this be more flexible per module?
+10. ~~**Film Shoot Scheduling**: First batch (6 days) runs during Week 5 development, second batch (5 days) at start of finalization.~~ **[ANSWERED - See Section 5.6]**
+    - ~~Is this timing based on SME availability?~~
+    - ~~Content readiness?~~
+    - ~~Studio booking constraints?~~
+    - ~~Should this be more flexible per module?~~
+    - ~~**Answer**: Windows are nominal and recommended to client. Actual timing varies based on SME availability and project needs - scheduling is flexible.~~
 
 ### 11.5 Resource Allocation Questions
 
