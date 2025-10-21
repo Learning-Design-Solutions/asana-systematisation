@@ -1,0 +1,257 @@
+{
+  "launch_date_anchor": "2026-01-05",
+  "note": "All dates calculated as: Start Date = Launch Date - Days Before Launch, Due Date = Start Date + Duration - 1",
+  "task_dates": {
+    "Kick off meeting": {
+      "days_before_launch": 112,
+      "duration_days": 5
+    },
+    "MPD Draft": {
+      "days_before_launch": 107,
+      "duration_days": 5
+    },
+    "MPD Finalised": {
+      "days_before_launch": 102,
+      "duration_days": 5
+    },
+    "MPD review": {
+      "days_before_launch": 100,
+      "duration_days": 5
+    },
+    "Week 1 - Storyboarding": {
+      "days_before_launch": 91,
+      "duration_days": 10
+    },
+    "Week 1 - Storyboard Initial LD Draft": {
+      "days_before_launch": 91,
+      "duration_days": 5,
+      "note": "Subtask of Week 1 - Storyboarding"
+    },
+    "Week 1 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 86,
+      "duration_days": 3,
+      "note": "Starts after LD Draft"
+    },
+    "Week 1 - Edit": {
+      "days_before_launch": 83,
+      "duration_days": 2,
+      "note": "Starts after SME Draft"
+    },
+    "Week 1 - Storyboard Final draft agreed": {
+      "days_before_launch": 81,
+      "duration_days": 0,
+      "note": "Milestone - approval checkpoint"
+    },
+    "Week 1 - Build": {
+      "days_before_launch": 76,
+      "duration_days": 5
+    },
+    "Week 2 - Storyboarding": {
+      "days_before_launch": 71,
+      "duration_days": 5
+    },
+    "Week 2 - Storyboard Initial LD Draft": {
+      "days_before_launch": 71,
+      "duration_days": 2
+    },
+    "Week 2 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 69,
+      "duration_days": 2
+    },
+    "Week 2 - Edit": {
+      "days_before_launch": 67,
+      "duration_days": 1
+    },
+    "Week 2 - Storyboard Final draft agreed": {
+      "days_before_launch": 66,
+      "duration_days": 0
+    },
+    "Week 2 - Build": {
+      "days_before_launch": 61,
+      "duration_days": 5
+    },
+    "Week 1 and 2 review": {
+      "days_before_launch": 63,
+      "duration_days": 5,
+      "note": "Overlaps with Week 2 build intentionally"
+    },
+    "Week 3 - Storyboarding": {
+      "days_before_launch": 64,
+      "duration_days": 5
+    },
+    "Week 3 - Storyboard Initial LD Draft": {
+      "days_before_launch": 64,
+      "duration_days": 2
+    },
+    "Week 3 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 62,
+      "duration_days": 2
+    },
+    "Week 3 - Edit": {
+      "days_before_launch": 60,
+      "duration_days": 1
+    },
+    "Week 3 - Storyboard Final draft agreed": {
+      "days_before_launch": 59,
+      "duration_days": 0
+    },
+    "Week 3 - Build": {
+      "days_before_launch": 58,
+      "duration_days": 5
+    },
+    "Week 4 - Storyboarding": {
+      "days_before_launch": 58,
+      "duration_days": 5
+    },
+    "Week 4 - Storyboard Initial LD Draft": {
+      "days_before_launch": 58,
+      "duration_days": 2
+    },
+    "Week 4 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 56,
+      "duration_days": 2
+    },
+    "Week 4 - Edit": {
+      "days_before_launch": 54,
+      "duration_days": 1
+    },
+    "Week 4 - Storyboard Final draft agreed": {
+      "days_before_launch": 53,
+      "duration_days": 0
+    },
+    "Week 4 - Build": {
+      "days_before_launch": 51,
+      "duration_days": 5
+    },
+    "Film shoot - first batch": {
+      "days_before_launch": 56,
+      "duration_days": 6
+    },
+    "Week 5 - Storyboarding": {
+      "days_before_launch": 51,
+      "duration_days": 5
+    },
+    "Week 5 - Storyboard Initial LD Draft": {
+      "days_before_launch": 51,
+      "duration_days": 2
+    },
+    "Week 5 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 49,
+      "duration_days": 2
+    },
+    "Week 5 - Edit": {
+      "days_before_launch": 47,
+      "duration_days": 1
+    },
+    "Week 5 - Storyboard Final draft agreed": {
+      "days_before_launch": 46,
+      "duration_days": 0
+    },
+    "Week 5 - Build": {
+      "days_before_launch": 44,
+      "duration_days": 5
+    },
+    "Week 6 - Storyboarding": {
+      "days_before_launch": 44,
+      "duration_days": 5
+    },
+    "Week 6 - Storyboard Initial LD Draft": {
+      "days_before_launch": 44,
+      "duration_days": 2
+    },
+    "Week 6 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 42,
+      "duration_days": 2
+    },
+    "Week 6 - Edit": {
+      "days_before_launch": 40,
+      "duration_days": 1
+    },
+    "Week 6 - Storyboard Final draft agreed": {
+      "days_before_launch": 39,
+      "duration_days": 0
+    },
+    "Week 6 - Build": {
+      "days_before_launch": 37,
+      "duration_days": 5
+    },
+    "Week 7 - Storyboarding": {
+      "days_before_launch": 37,
+      "duration_days": 5
+    },
+    "Week 7 - Storyboard Initial LD Draft": {
+      "days_before_launch": 37,
+      "duration_days": 2
+    },
+    "Week 7 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 35,
+      "duration_days": 2
+    },
+    "Week 7 - Edit": {
+      "days_before_launch": 33,
+      "duration_days": 1
+    },
+    "Week 7 - Storyboard Final draft agreed": {
+      "days_before_launch": 32,
+      "duration_days": 0
+    },
+    "Week 7 - Build": {
+      "days_before_launch": 30,
+      "duration_days": 5
+    },
+    "Week 8 - Storyboarding": {
+      "days_before_launch": 30,
+      "duration_days": 5
+    },
+    "Week 8 - Storyboard Initial LD Draft": {
+      "days_before_launch": 30,
+      "duration_days": 2
+    },
+    "Week 8 - Storyboard SME Scripts Draft": {
+      "days_before_launch": 28,
+      "duration_days": 2
+    },
+    "Week 8 - Edit": {
+      "days_before_launch": 26,
+      "duration_days": 1
+    },
+    "Week 8 - Storyboard Final draft agreed": {
+      "days_before_launch": 25,
+      "duration_days": 0
+    },
+    "Week 8 - Build": {
+      "days_before_launch": 23,
+      "duration_days": 5
+    },
+    "Film shoot - second batch": {
+      "days_before_launch": 28,
+      "duration_days": 5
+    },
+    "Proofreading": {
+      "days_before_launch": 21,
+      "duration_days": 5
+    },
+    "Weeks 3 to 8 review": {
+      "days_before_launch": 14,
+      "duration_days": 5
+    },
+    "Corrections": {
+      "days_before_launch": 7,
+      "duration_days": 5
+    },
+    "Ready for launch": {
+      "days_before_launch": 0,
+      "duration_days": 1
+    },
+    "Go live": {
+      "days_before_launch": -66,
+      "duration_days": 0,
+      "note": "Occurs 66 days AFTER launch date"
+    },
+    "Module Planning Document": {
+      "days_before_launch": 112,
+      "duration_days": 5,
+      "note": "Parent task for MPD subtasks"
+    }
+  }
+}

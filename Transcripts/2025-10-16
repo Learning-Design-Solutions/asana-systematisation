@@ -1,0 +1,217 @@
+Project Management Review Call - Vlad, Alex, Andrew - October 16
+VIEW RECORDING: https://fathom.video/share/dMp3_Nhox4tN5yte988wCFso3y_DnCWL
+Meeting Purpose:
+
+Review project management processes, discuss automation potential for Learning Design Solutions UK's course development workflow, and demonstrate the structure and components of online courses.
+
+Issues & Tickets:
+
+Course Development Workflow
+
+Context:
+
+Andrew demonstrated the structure and components of online courses developed for clients, using examples from Walbrook University's MBA program in Brightspace LMS. The discussion covered the entire process from initial planning to final delivery, including content creation, quality assurance, and platform considerations.
+
+Status:
+
+Current workflow involves manual spreadsheet-based planning and tracking. Project management varies by client, with some using tools like Monday.com. Quality assurance processes depend on client needs and resources.
+
+Concerns, Challenges, and Blockers
+
+  - Manual updating of project timelines in client-managed tools (e.g. Monday.com) is inefficient and doesn't automatically cascade changes
+  - Quality assurance processes vary significantly between clients, lacking standardization
+  - Balancing client-specific requirements with the need for consistency across projects
+  - Managing delays and their impact on resource allocation, especially in large-scale projects
+
+Ideas and Explanations
+
+  - Transition from spreadsheet-based planning to Asana for improved workflow management
+  - Implement RACI matrix during client onboarding to clearly define roles and responsibilities
+  - Utilize AI for generating tailored case studies and content
+  - Standardize course structure while allowing for subject-specific variations in activities
+  - Offer tiered pricing based on levels of content enhancement and interactivity
+  - Use Articulate Rise for creating more interactive content when required by clients
+
+Decisions and Next Steps
+
+  - Vlad to set up module development template in Asana, including start/end date features
+  - Plan to test Asana implementation with Nicole's upcoming module in December
+  - Consider rules-based automation for managing project delays and cascading impacts
+  - Andrew to provide early-stage documentation from the Walbrook project to Vlad for reference
+  - Explore ways to automate the updating of module templates based on planning specifications
+
+Current Objective:
+
+Develop a standardized, partially automated workflow in Asana to replace manual spreadsheet processes while maintaining flexibility for client-specific requirements and improving overall project management efficiency.
+
+Course Structure and Content
+
+Context:
+
+Andrew detailed the typical structure of a course, including weekly breakdowns, various content types, and assessment methods.
+
+Status:
+
+Courses are typically structured into weeks, with a mix of content types and activities. Content is initially authored in Word documents before being transferred to the LMS.
+
+Ideas and Explanations
+
+  - Use micro-lectures (max 6 minutes) instead of long recordings to maintain student engagement
+  - Incorporate a mix of content types: video lectures, readings, interactive elements, quizzes, and reflections
+  - Utilize AI-generated content for certain elements, such as Synthesia for video presentations
+  - Engage students through discussions, case studies, and peer-to-peer activities
+
+Quality Assurance Process
+
+Context:
+
+Quality assurance involves academic quality, learning design, and copy editing/proofreading.
+
+Status:
+
+Processes vary by client. Some clients handle certain aspects internally, while others rely on Andrew's team for comprehensive QA.
+
+Ideas and Explanations
+
+  - Implement multiple review points throughout the course development process
+  - Use external proofreaders when clients don't have internal resources
+  - Consider adopting formal quality matrices like Quality Matters, but be aware of associated costs and requirements
+
+LMS Platforms
+
+Context:
+
+Andrew discussed various Learning Management Systems (LMS) used by clients.
+
+Status:
+
+Clients typically have established LMS contracts. Andrew's role is platform-agnostic but can advise on LMS selection if needed.
+
+Ideas and Explanations
+
+  - Brightspace and Canvas noted as good-looking, user-friendly platforms
+  - Moodle as an open-source option, requiring engaged learning technologies team
+  - Possibility of setting up separate LMS instances for online programs to differentiate from on-campus offerings
+
+Decisions Made:
+
+1.  Proceed with creating an Asana-based workflow for project management
+2.  Test the new Asana workflow with Nicole's upcoming module in December
+3.  Maintain the current project management approach for the Walbrook project using Monday.com
+4.  Explore automation possibilities for updating module templates based on planning specifications
+5.  Consider implementing a RACI matrix during the client onboarding phase
+6.  Continue using AI for content generation, including case studies and video presentations
+
+Actionables:
+
+1.  Vlad to finalize the module development template in Asana, including start/end date features
+2.  Vlad to develop a process for instantiating different modules and updating them based on planning specifications
+3.  Andrew to provide early-stage documentation from the Walbrook project to Vlad
+4.  Andrew to prepare a price scale for different levels of content enhancement for the Norland College proposal
+5.  Andrew to seek permission to demonstrate ICAS content to potential clients
+6.  Andrew and Vlad to plan a live demo of the Asana workflow, walking through each capability and feature
+7.  Andrew to consider how to represent project delays and their cascading effects in the new Asana workflow
+8.  Vlad to note the need for tracking original plans against actual progress in the Asana setup
+9.  Andrew to brief Nicole on potentially using Asana for her upcoming module in December
+10. Andrew and Vlad to prepare for a detailed review of the Asana workflow in their upcoming Tuesday meeting
+
+---
+
+0:00 - Vlad Tudorie (Serenichron)
+  Top of the mornin' tell ya.
+
+0:05 - Andrew Doig (Learning Design Solutions UK)
+  I'm sure no Irishman ever says that. But in movies they do. Vlad, thought, if nothing else, why don't I show you one of the courses, show you what the courses look like, what the end product looks like, so you've got a sense of it.  I could talk to her about what the variables are when we work with different clients as well. And I just saw your WhatsApp, I was a couple of minutes late getting to my desk.  So yeah, I'm happy if just, if there's any questions that are unclear or anything that's still outstanding, we can discuss that as well.  But otherwise, you know, maybe that's our goal for today. Does that make sense?
+
+0:49 - Vlad Tudorie (Serenichron)
+  Certainly.
+
+0:51 - Andrew Doig (Learning Design Solutions UK)
+  Okay, let's just go with window. Hello? Ah… Thank you. I don't know if you're familiar at all with virtual learning environments or LMS, like in the US they call them learning management systems, UK they're virtual learning environments.
+
+1:12 - Vlad Tudorie (Serenichron)
+  I use, so in our own work we service multiple clients that leverage LMSs, we don't call them virtual management systems, but I believe it's the same concept.  No, same concept.
+
+1:24 - Andrew Doig (Learning Design Solutions UK)
+  So in the UK, for some reason we've always called them VLEs, virtual learning environments. The main ones are Blackboard, Moodle, Canvas.  These are the ones that universities use predominantly. This one is Brightspace, which is owned by a company called Desire2Learn, a big American company, which is growing in impact in the region.  last two clients I've had have been using Brightspace and I quite like it. Obviously it's all behind a paywall and the students have single sign-on that gets them through to their library systems and support networks and all that sort of stuff.  Thank you very much. So, you know, dashboard where students would find their courses listed, I've got an awful lot of them because I'm managing development of all of them.  But this is the environment that, sorry, this is the module, the first module that we developed on the project at Walbrook.  For this one, I acted as a learning designer, which I sometimes do for the very first one, because we're kind of setting expectations.  I'm suspecting also Nicole wasn't available at the very start. Otherwise, I probably would have got her to do the first one.  But this is all good. This kind of helped me get the standard expectations altogether. Pretty standard for university courses is that, as we've been talking about, they're organised in weeks.  In the UK, we talk about credit points, cap points. UK. that 15 credits. This is 15 credits, which our master's program is made up of 180 credits.  So this is 15 out of 180. It's delivered across eight weeks. And nominally, nominally, 15 credits should be equivalent to 150 hours of learner efforts.  The students, to be successful in this course, there's an expectation that they put in 150 hours across those eight weeks.  That is 18.75 hours a week. We design for that in a very loose way. It's very hard to determine exactly how long a student's going to spend on any amount of any material.  You know, reading, for example, you can say how long it takes to read words on a page. But if you're reading something complicated, you're going to reread it and, you know, write notes.  And if you're doing a good job, you go ask it. it's all very nominal. All of our courses have introductory elements getting started.  I'm not going to navigate through these, but the pages. About welcoming you and meeting the teaching team, and then an introduction to the assessment, explaining the assessment.  So that's kind of the introductory elements. The key development is around the weeks of content. So we've got week one, week two, week three, week four, week five, week seven, week eight.  These are all of equal value in the sense that they're normally 18.75 hours of effort. However, in week three, week five, and week eight, there is some sort of graded assessment that the students have to complete.  Now, that is not a fixed standard across clients. Clients, there's a lot of things that clients determine for themselves.  Universities, typically, if they're trying to replicate an on-ground model, they would just have one final submission at the end of the module.  That's pretty poor practice in online because you don't have classroom interactions with your students. So it's very hard to gauge their progress.  So Unless there's a formal submission, so that's why they have like a week three submission, because it means that the students have to do something.  You see their material, they get feedback on it, they understand how well they're performing and get feedback. And then a week is structured around.  And this is so one of the things about my company, my approach. We're very keen to make sure that we're not just presenting learning content.  It's just not, it's not just lots of lectures. And again, if you let a university teacher use an online LMS, they tend to just stick loads of lectures and readings up.  Right. They don't really think about learning activity. Ours is structured around a combination of content and activity. I'll go into some of these pages and show you in a second.  So we have. Introductory. Then we have what we call acquisition, like learning contents. We've got micro lectures and. Reading and actually an expert insight which I'll show you and then some activities.  So peer-to-peer activity, we've got a discussion, case study, presenting a case study around the learning content that the students analyze and prepare an answer for that might get submitted to a discussion board for comparison or we provide a model answer.  There's a quiz to test their knowledge from this week and a reflection. Now, that particular flow, that learner journey through the materials is bespoke to this particular subject.  So in our planning phase, myself and the module leader, module author, Vikram, we have the early phases, we meet, we discuss, I get from him what his core approaches are to this material, what's the challenges for the students, what do they have to achieve, and we build a plan and then we design a strategy that helps them to achieve the learning outcomes that are established.  I want to interrupt.
+
+7:00 - Vlad Tudorie (Serenichron)
+  So in the scope of making the entire process clockwork, not just the instantiating projects in Asana, but also these kinds of workflows.  So if you align certain conventions around when you go into the planning phase, also if you have kind of a standardized model for the planning phase activities and for what is being carried out and who you're speaking with and so on, then we will be able to design a workflow where when you carry out your conversations, similar, and maybe you're already doing a little bit of this, but for example, in every single call that I have with a client, you included,  When there is an automation that takes the recordings and extracts the notes, the actionables, the details, everything, every single detail, right?  And then those get stored and they can also be automatically pushed through so that after the conversation takes place, we will update the appropriate task in Asana with all of the conclusions.  And then with the next steps that flow from that, which it seems to me, and it's actually one of the things that I wanted to ask you about, is the planning phase then should inform to some level of detail how many modules are going to be developed and what each module tackles and what content is assigned to each module, right?  Now, when we create the template, I right now am preparing as... ... ... ... As precise and as useful a template for the module that based on the spreadsheet that you gave me.  Yeah. That template includes none of those details. So we also have to think through once we instantiate a module template, how do we personalize it based on the plan?  Because going through task by, of course, I think it will still be very useful to have a final review task by task just to make sure that everything is in alignment.  I do think that we're going to be able to have a workflow where every single one of these stages is at least in some way automated and assisted by fallback mechanisms.  But even so, I'm assuming that if you can automate parts of the updating of the template based on the plan's decisions that you will want to do.  Yeah.
+
+10:01 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, I mean, so, but there's certain elements that are pretty much given or are fixed at the outset. You know, when I start with this client, they, they, usually they already have an idea of their module size, module duration.  They already have, because there's, at universities, there's certain fixed documentation and they have to have a program validated. So the program will be validated.  We know how many modules that are in the program. They have written a specification for each of those modules that defines learning outcomes.  So it's from those specifications, we then start to do the planning. And the planning is what is going to go into each of those building blocks or what is going to go into each of those weeks.  And the prior planning, higher level planning is, okay, this is your program plan. This is the list of modules that you're going to, where you want to develop.  want develop? How How do do So we map them across a development schedule. Yes.
+
+11:05 - Vlad Tudorie (Serenichron)
+  So at kind of towards the end of that process, once you've worked through that exercise conceptually, at what point during these conversations do you begin to build spreadsheets?
+
+11:23 - Andrew Doig (Learning Design Solutions UK)
+  So for program planning, as soon as the client tells me, well, at the outset, we'll know already the nature of the program.  Almost always masters, which means 180 credits, the number of modules and the credit size for each of those modules.  And as soon as they can give me the titles and if they've got a preferred sequence, shouldn't matter because usually there's no dependencies between modules.  But they give me the module titles and sequence and the date that they launch their first module. I then build a spreadsheet that gives a development schedule.  Also, I tend to one of the ones I share. you is map out what's your delivery schedule in your first presentation, you know, when is the first module, each of the modules going to run in their first presentation.  So at that program planning phase, once we've got past our strategic discussions, I quite quickly move into spreadsheeting mode.
+
+12:16 - Vlad Tudorie (Serenichron)
+  Okay, because in an automated based workflow, the ideal scenario is that where you would normally move into spreadsheeting mode.  Now you need to have a workflow and process where instead you start to instantiate the program in Asana. Yes.  So that you don't double the work, you know, into spreadsheets, then route it into Asana. Yeah, yeah. So I will want to have that in kind of in my head.  And you also, know, when you either we simulate something like that by taking over a prior project. sure to that.  And once we have our templates up, working with you through the actual process of doing it in Asana instead of spreadsheets, or ideally, we have these ready for you to actually apply to a live project.  Yeah, yeah.
+
+13:21 - Andrew Doig (Learning Design Solutions UK)
+  I mean, what I can do is look out some of my early stage documentations from this project and show you where I got the information that allowed me to start doing the planning and generating spreadsheets.  going shut the doors. Yeah, so very early in my email chain from Walbrook, I'll have, for example, the the outline of what's in the the MBA program, and you'll see what I use to.  Thank you. Thank And then I'll just walk you through a week. A week is for this particular module, the, by the way, just this look and feel of the pages, the Walbrook banner, the color sets, these call out boxes, things like that.  For Walbrook, they already had quite nice templates for their LMS pages. And I've just been speaking to another potential client in the UK yesterday, and they're working in Moodle.  And one of the things I said we could, we could cost out for them is creating templates. You know, I'm going to run a workshop.  I'm going to ask permission to demo these pages so that they see what really good pages look like. So there's a phase that that might happen as well.  But anyway, so the, the everything we see. On this page, and all of the pages in this course, were originally authored in Word documents, and authoring is a combination of the module author, who is the subject matter expert, the learning designer, and the AI, and now we're generating a lot of content with the AI.  That they develop on Word documents, they pass the Word documents to the technologists, who's a build team, and the build team then adds everything into the LMS with, you know, Adobe stock images and color schemes and things like that.  I told you a bit about video yesterday, with Vikram, he was the first module author, we were working out practices, so it was the first time I'd asked Walbrook to do a video shoot, and they did a really  job of it the first time around.  So for Vikram, what we have is he has, I won't play the sound, he recorded the weekly introductions. In their studio, which is just they use a green screen and he talks through a script that he's pre-written.  They do have a teleprompter. But what you'll see is if you go into micro lectures for this course, this is an example where the micro lectures are just PowerPoint presentations with the usually the lecture embedded.  But this is a Synthesia AI doing the presentation. Now, whether it's Synthesia AI, then the build team are taking the scripts and creating the avatar.  Normally, that would be the lecturer in that buttonhole talking to the student while the slides and the slides are created by my team as well.  So the storyboards have a script and a suggestion of what we're doing. And then my team make the slides.  And then it's just a click through for the students. You know, they've got two-month lectures. you is there's, there's, there's, reading FeNUS, does center comes from them.  Library is why we have to be engaged with a librarian. There's a single sign-on. I don't know if it will work for me.  Let me just click on it and see what happens. Yeah, okay, cool. Single sign-on through to the digital library.  That's why we need to engage with a librarian early in the process to make sure we've got access to materials we want.  Expert insights. Now this is still content written by the lecturer, which we enhance a little. It's not. We're not doing anything too complicated.  It's just, you know, make slight interactives on the page, doing some infographics with pop-ups and just making the page a little bit more interactive than flat text.  And that, for this client, it's pretty low level. So it's not taking a huge amount of time. It doesn't add a lot of expense.  One of the variables that we have, we can do a lot more of this. ICAS, ICAS, my previous client, they were, they're a guy.  Contents there, pages were extremely content heavy. We used Articulate Rise to create much more interactive click-through pages and very large amounts of it.  So that increases the technologist time, at least double, if not more. So there's an incurred cost there. And actually, again, with a client, the Norland College in Bath that I was talking to this week, I'm going to, over the next week, provide them a price scale that is basically the basics, which is kind of what we're doing here.  And then you can add on, you know, different levels of video production. You can add on different levels of enhanced material.  I will demonstrate again, hopefully I will get permission from ICAST to demonstrate a small amount of their content so they'll see what the enhanced material looks like.  I'll demonstrate these pages so that they see what they're not quite as enhanced. But the reason this isn't as enhanced is because we've got an activity focus.  You know, ICAST was all about Knowledge, knowledge, knowledge, knowledge, quiz, knowledge, knowledge, knowledge, quiz, even though it's master's level, it's bloody irritating.  But for us, we go on to discussions, so we get students to interact with each other on a discussion board, you know, post by Wednesday, reply by Thursday, an extended case study with, you know, and again, AI, brilliant at creating case studies that are tailored to environments.  Model answer, mean, we do say to students, please, please, please have a go at this before you look at your model answer, but you can click and get model answer.  Most include a quiz, but not all, and a reflection, you know, just getting the students to metacognite, how much have I learned this week?  And that's pretty much the amount of work that goes into a week, apart from occasionally week three, and actually let's look at week five.  The only difference in week five, they have an assessment this week, so they have to submit a video presentation, they've got a deep.  Detailed assessment brief with marking criteria and instructions on how to do that submission and they'll submit by the end of the week and then they'll get feedback on this, I think, a week, a week or at least two weeks, maybe two weeks following that.  And the variables. Let me think of. You'll see if we go into another course that it's the structure, there's a lot of consistency.  Again, a big part of bringing a company like ours is you get consistency where it should be. The look and feel will be the same.  Certain components like the flow of the week is the same. Students know how to work through this. We've got an introduction with a lecture video.  So introduction video from the lecturer. You've got an overview, which is just building blocks. is what's in your week.  Micro lecture. But this one, you see, you've got micro lecture readings, micro lecture and an activity. Tipit. Tipit. They, you know, the nature of the activities will be different because this is a different subject, it should be, because the nature of what you have to do to demonstrate those outcomes is different, and I would imagine here we have, yeah, this is the green screen on campus with the lecturer presenting the slides.  These are never more than six, shouldn't be more than six minutes, they're micro lectures. Again, there's research that shows that more than six minutes students stop watching.  So there's a very strong case for university lecturers who want to record themselves talking for 30 minutes or more, and we say, no, you're not going to do that, that doesn't work, and you can do micro lectures and ask questions instead.  Okay. This is super helpful.
+
+21:50 - Vlad Tudorie (Serenichron)
+  Do you mind my asking, so is that also Moodle, or is that a different system?
+
+21:57 - Andrew Doig (Learning Design Solutions UK)
+  That platform is Brightspace. That A company Desire2Learn. Moodle is an open source platform. lot of universities use it because they can manage it, but you've got to have a very engaged learning technologies team to get the most out of it.  Interestingly, the college I was talking to this week who train nannies, but they do degree level courses for nannies for child care.  They have a Moodle platform, but I wonder why, because they must have someone managing it for them. But I haven't seen the platform yet, so that'll come out.  But no, that was Brightspace. ICAS, Chartered Account in Scotland, they were also using Brightspace. Canvas is a very common one.  I like Canvas. Canvas and Brightspace are good-looking platforms. But that is always, you know, I have to be completely agnostic when it comes to the platform because the clients will have longstanding, large-scale, expensive contracts with an LMS.  This provider, I'm not involved in that choice.
+
+23:04 - Vlad Tudorie (Serenichron)
+  Yeah, that's what I wanted to ask about as well, because I was curious to what extent you bring in LMS development versus simply using the client's platform.
+
+23:17 - Andrew Doig (Learning Design Solutions UK)
+  If I go into a client and their platform is terrible, I'll tell them that and I'll tell them that there are much better alternatives.  I don't have a working relationship with any of the LMS providers. You know, if someone said to me, well, I don't know what platform to go for, either, there's two things we could do.  One is I would approach one of the platform providers and say, look, I can give you an introduction. Can you give me a finder's fee?  Or I would say to the client, I could take you through an LMS evaluation and we can get different providers to present to you.  But you're paying me my day rate for every day that I'm working on that evaluation. But usually they've got an established platform and they're very happy to stick with that.  My previous companies both had like higher ed partners. They had a strategic partnership with Canvas and generally we would be setting up separate Canvas instance for their online programs and it created a differentiation between on-campus and on-ground.  And with Wiley, it was a Moodle. Again, they could offer Moodle if they wanted a separate instance, but I'm too small-scale to get involved in that.  I don't want to get involved in that, I'm honest.
+
+24:39 - Vlad Tudorie (Serenichron)
+  Okay. Can you also provide any insight into the quality assurance process?
+
+24:48 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, so quality assurance processes are, there's two sides to that. One is the academic quality. Sorry, three sides to that.  Academic quality, the learning design. And the copy editing, proofreading. Academic quality is dependent on the client identifying a second academic on each module who can look at the outputs at various points.  And you see in my project schedule, we've got a review of the plan, the module planning document, week one and two review.  So we've got early stage review, so we know that we're not going too awry. And then a final stage review, which looks at the rest of the weeks of content.  If it's bigger, I'd probably put in another one. And so, for example, the Norland College, they've got 30 credit courses over 12 weeks.  I think I'd definitely put in another review point so that we're not blocking out too much review at the end stage.  So that's, but that's dependent on them providing them. Like with Walbrook, it's been, it's basically. Basically the program leaders who are carrying out all of the reviews, and they get very backlogged, so there's not an efficient method happening there.  ICAS, different level, they were reviewing everything, they were reviewing every individual storyboard, they were reviewing it in document, then they were reviewing it in build, and they were reviewing the final course, mean, were, and a chartering body, they're very, very hot on quality management because they've got to meet all the credentials of got the chartered association, and Learning Design Assurance is basically me and Nicole looking through what people do and making sure that it's the quality that we want it to be.  That's why Nicole's role is super important, Anita to look at early stage module, course content, and then later stage as well.  I'm not using any particular quality matrix, there are ones out there, like Quality Matters is a big US one that a lot of people use.  Using it in a previous client. I make reference to some of their criteria, but I'm not using any formal because then you have to register with them and you have to get the client registered.  There's lots of hoops to jump through. Proofreading depends on the client. Walbrook have a very good editorial team and they are proofing all of the courses in Brightspace and actually carrying out edits where they can on the built course.  But they will also then collect a spreadsheet with corrections that needs one of my team to have a look at because it's a learning design correction or we need to ask the module author.  ICAS didn't have their own proofreaders, so the part of my offering was that I identified and in proofreaders that carried out the work.  And again, I could stick a percentage on that work as well. Okay, so there's standard, you already mentioned that.
+
+28:00 - Vlad Tudorie (Serenichron)
+  And... But I didn't get to systematize that yet, the standardization of the different teams, the proofreader team, the academic team, the learning designer team, the learning technologist team.
+
+28:14 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, so in my onboarding phase for the client, the program planning, although I have to say I didn't do it with Walbrook, but I can go through a RACI.  So I forget what RACI stands for. Roles. Anyway, it's a role. I'm going to have to look that up now.  Responsible, accountable, consulted and informed. So looking at all of the tasks across the project and identifying who's responsible for all of them.  And that's where we map out. Do you have resources for proofreading? No, Don't, okay, do you want me to bring them in?  Because we're going to have to proofread all of the courses. And then that's, in the early stage, we'll identify where all the responsibilities sit.
+
+29:11 - Vlad Tudorie (Serenichron)
+  Got it. Do you think you can, I can also put that in the template, but that will be for a higher level.  So right now.
+
+29:25 - Andrew Doig (Learning Design Solutions UK)
+  So the spreadsheets we're looking at, no, they're not involved in that. That's the, all of the workflows that I did a narrative description of, it's in there.  It's in there on the onboarding phase. Okay.
+
+29:41 - Vlad Tudorie (Serenichron)
+  And that's, at the moment, for the spreadsheet, specifically for the module development template, I'm pretty close to setting it up with its correspondence in Asana.  I still have to enable all of the start date, end date features and. Then we will want to see, because in order for you to also see them, we should assign certain people to the templates prior to storing them and having them ready to be instantiated.  Because we will want to do a live demo and walking through each capability, each feature, how that maps out, how you interact with it, and so on.  we're not going to talk about automated rules anytime soon, I think. I think automation of any of it should come much later down the line when we have as many of the processes very well represented and documented.  Sure. But with the module development template up, I need for the module development to account for what I mentioned before.  How to Do you instantiate the different modules and update the different modules based on the planning specification without necessarily going in on a task-by-task basis to manually update everything, which would roughly correspond to the spreadsheet process that you had before if you manually updated everything, right?  Worth being very knowledgeable on how to do it, where to do it, but to have a more automated workflow.
+
+31:29 - Andrew Doig (Learning Design Solutions UK)
+  I mean, the key rules-based thing is, if we have a project that's live and there's delay that comes into it, if one of the deliverables week one is actually delivered two weeks later than anticipated, what impact does that have?  How does that cascade across the rest of the project? Yes. That's the key thing. But we kind of need to have captured the variance, like what was the original plan against what is the actual plan?  I don't like how much delay has been put into this. I tend to work in a margin of two weeks, and two weeks is managed delay.  Once we go beyond two weeks, it becomes at risk because it has an impact on resource allocation, particularly in large-scale projects where I need my resources to be ready for the next project, and they often need their SME resources to be ready for the next project as well.  Yes. Okay.
+
+32:26 - Vlad Tudorie (Serenichron)
+  I will have that noted, and most likely we will review when we review the instantiation of a given module, right?  Yeah.
+
+32:39 - Andrew Doig (Learning Design Solutions UK)
+  I think about that because, and I mentioned in my response to questions, so with current client, it doesn't make sense, you know, within the Walbrook project for us to initiate the use of Asana.  As I said, they've got Monday.com set up. That was their preferred. So they are managing it so they know where their resources are applied.  My team are updating it so that they know where delays and things like that are happening. It's a very manual process.  Like Monday doesn't cascade dates. Like if you change one line, it doesn't cascade through the rest of it. So they have to go in and manually change all the dates.  I don't want to go near any of that. So they will have no interest in interacting with an Asana board.  And actually, it doesn't make sense for me to take on workload that's been managed by the client. What we could do, though, with Nicole's support, Nicole will have another module starting in December.  We could ask Nicole, and obviously I'll pay Nicole for time that she puts into doing it, to help to support us in running a project in Asana to make sure that we've got it working right.
+
+33:47 - Vlad Tudorie (Serenichron)
+  That would be an excellent fit, especially with the current timeline, right? So we're expecting to have a very decent representation of a whole program represented in Asana by the end.  So that will transition, hopefully, quite seamlessly with Nicole's role as well. Yeah, yeah, absolutely. Okay. Oh, yes. So something else that I wanted to ask about, but I can track back, as you said, to the bigger list, to the bigger overview.
+
+34:24 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, and I'm, you know, today and tomorrow until 3, I'm at my desk with very few meetings. So if there's anything, you know, just WhatsApp me, if there's anything, if you're working through, if there's anything you're uncertain of, we can always just jump on another quick call or just ask me questions.
+
+34:39 - Vlad Tudorie (Serenichron)
+  Okay. I don't know if I will get to do so today, but since I know that anyway.
+
+34:46 - Andrew Doig (Learning Design Solutions UK)
+  I understand that as well, and we've got a meeting on Tuesday coming up. Yes.
+
+34:51 - Vlad Tudorie (Serenichron)
+  Awesome. Andrew, thank you a lot. I'm also yearning a lot about learning. So thank you. Yeah, no problem at all.
+
+35:03 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, thanks a lot, Vlad, for continuing to work very hard on this. It's very helpful. My pleasure.
+
+35:12 - Vlad Tudorie (Serenichron)
+  Okay, talk again, sir. Be well. Cheers.

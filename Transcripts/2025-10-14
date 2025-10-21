@@ -1,0 +1,475 @@
+Project Management Review Call - Vlad, Alex, Andrew - October 14
+VIEW RECORDING: https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka
+Meeting Purpose:
+
+Review and refine Asana project template for module development process, discuss Asana subscription, and address various project management aspects.
+
+Issues & Tickets:
+
+Asana Project Template Specification
+
+Context:
+
+Vlad has created a detailed specification document for the Asana module development template based on Andrew's existing project plan. The document includes proposed structure, custom fields, and task breakdowns for each phase of module development.
+
+Status:
+
+In progress - Vlad has created initial draft, seeking Andrew's feedback and clarifications.
+
+Concerns, Challenges, and Blockers
+
+  - Ensuring accurate representation of flexible elements (e.g., film shoots, review processes)
+  - Capturing nuances of timeline variations (e.g., holiday buffers, academic availability)
+  - Balancing granularity of tasks with usability
+  - Accurately representing dependencies between tasks and phases
+
+Ideas and Explanations
+
+  - Using custom fields in Asana for quick reference to project details (22 fields proposed)
+  - Structuring tasks with 4 levels of nesting: portfolio, project, section, task/subtask
+  - Implementing concurrent development and build processes
+  - Separating build tasks, reviews, and film shoots as top-level tasks
+  - Flexibility in film shoot scheduling based on academic availability and location
+  - Three options for video content: on-campus filming, self-recorded, or AI avatars
+  - Two-week buffer for projects spanning Christmas holiday
+
+Decisions and Next Steps
+
+  - Andrew to review custom fields and provide feedback
+  - Vlad to adjust template based on clarifications (e.g., film shoot flexibility, review dependencies)
+  - Andrew to answer remaining questions in the specification document before Thursday's call
+  - Implement holiday detection warnings in the project template
+  - Adjust task dependencies:
+      - Film shoot depends on storyboard completion, not build
+      - Proofreading doesn't depend on film shoot
+      - Week 3-8 review can happen on storyboard, doesn't depend on build completion
+
+Current Objective:
+
+Finalize Asana project template specification to accurately reflect module development process.
+
+Asana Subscription Plan
+
+Context:
+
+Andrew's Asana account is currently on a free trial for the Advanced plan with two seats.
+
+Status:
+
+Need to change to monthly billing before trial ends in about 10 days.
+
+Decisions and Next Steps
+
+  - Andrew to contact Asana support to change to monthly billing
+  - If unable to change, consider cancelling and resubscribing
+  - Proceed with caution when adding more seats due to cost implications
+
+Time Tracking Strategy
+
+Context:
+
+Vlad analyzed Asana's native time tracking capabilities.
+
+Decisions:
+
+  - Use Asana's native time tracking for contractors and collaborators
+  - Avoid inviting collaborators to separate Clockify workspace
+  - Consider API connection between Asana and Clockify for expense monitoring
+  - Manual pull of expenses into Clockify as an alternative
+
+Next Steps:
+
+  - Implement Asana time tracking for team members
+  - Investigate API connection or set up manual process for expense tracking in Clockify
+
+Module Development Timeline
+
+Context:
+
+Discussed the standard 16-week development cycle and potential variations.
+
+Decisions:
+
+  - Maintain 16-week schedule as standard
+  - Allow for flexibility in buffer time between development and launch
+  - Accommodate holiday periods (especially Christmas) with a two-week buffer
+  - Consider academic availability when planning timelines
+
+Next Steps:
+
+  - Implement flexible buffer time in Asana template
+  - Add holiday detection feature to project planning
+
+Film Shoot Process
+
+Context:
+
+Discussed various options for creating video content for modules.
+
+Decisions:
+
+  - Offer three options: on-campus filming, self-recorded videos, or AI avatars
+  - Schedule film shoots flexibly, depending on academic availability and location
+  - Aim for two batches of filming for on-campus shoots
+
+Next Steps:
+
+  - Incorporate film shoot options into project template
+  - Ensure film shoot tasks are not dependent on build completion in Asana
+
+Review Process
+
+Context:
+
+Discussed the timing and dependencies of various review stages.
+
+Decisions:
+
+  - Week 3-8 review can happen on storyboard, doesn't depend on build completion
+  - Proofreading doesn't depend on film shoot completion
+  - Academic review tends to be lighter touch than proofreading
+
+Next Steps:
+
+  - Adjust dependencies in Asana template to reflect these decisions
+
+Other & Incidental Topics
+
+Power Outages in Vlad's Location
+
+Frequent power outages expected this winter due to energy infrastructure challenges.
+
+Beard Maintenance
+
+Brief discussion on personal grooming habits and beard care.
+
+Action Items:
+
+1.  Andrew to contact Asana support about changing to monthly billing
+2.  Andrew to review custom fields in the specification document and provide feedback
+3.  Andrew to answer remaining questions in the specification document before Thursday's call
+4.  Vlad to adjust Asana template based on clarifications from this call
+5.  Vlad to implement holiday detection warnings in the project template
+6.  Vlad to adjust task dependencies in the Asana template as discussed
+7.  Vlad to incorporate film shoot options and flexibility into the project template
+8.  Investigate API connection between Asana and Clockify for expense tracking
+9.  Implement Asana native time tracking for team members and collaborators
+
+Decisions Made:
+
+1.  Use Asana's native time tracking for contractors and collaborators
+2.  Maintain 16-week schedule as standard for module development
+3.  Allow for flexibility in buffer time between development and launch
+4.  Accommodate holiday periods with a two-week buffer
+5.  Offer three options for video content: on-campus filming, self-recorded, or AI avatars
+6.  Schedule film shoots flexibly, aiming for two batches for on-campus shoots
+7.  Week 3-8 review can happen on storyboard, doesn't depend on build completion
+8.  Proofreading doesn't depend on film shoot completion
+9.  Implement flexible buffer time in Asana template
+10. Add holiday detection feature to project planning
+Action Items
+  - Contact Asana support to change billing plan from yearly to monthly  - WATCH (5 secs): https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka?timestamp=244.9999
+  - Review custom fields in Asana module dev template spec doc. Provide feedback on additions/removals  - WATCH (5 secs): https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka?timestamp=1544.9999
+  - Review "Questions for Andrew" section in Asana module dev template spec. Answer structure & review process Qs  - WATCH (5 secs): https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka?timestamp=2376.9999
+
+---
+
+0:00 - Vlad Tudorie (Serenichron)
+  Hello, Andrew, good morning. Let me see, do I have camera? There we go. The power is back up. Yeah, my UPS apparently is no longer UPSing.  The moment the power dropped, it just shut down completely, which is very annoying because I just purchased a new set of batteries.  So I'm going to have to go do that entire thing all over again. Yeah.
+
+0:33 - Andrew Doig (Learning Design Solutions UK)
+  Do you have a problem with power outages?
+
+0:35 - Vlad Tudorie (Serenichron)
+  It's actually quite frequent where I live, and especially the Ministry for Energy is warning that we are at great risk of blackouts and brownouts during this winter.  because the state authorities committed to getting us out of coal. For power generation, but they didn't actually execute on the infrastructure requirements and getting everything up to speed.  Which is especially frustrating because there have been studies over the last few months that showed that with somewhat minimal capital investments, we would have been able to purchase batteries, you know, like industrial level storage that would basically get us over all of the, you know, peaks.  Yeah, yeah, yeah, for sure.
+
+1:51 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, yeah, it's just drives you mad. And then the whole population has to deal with it. Uh, you, you, you, you.  You did have enough power to get your razor out, though, I see.
+
+2:03 - Vlad Tudorie (Serenichron)
+  I did so just this morning. I have a complicated relationship with my beard. I need to get moisturized a lot.  It's flaking, and when it starts to flake too much, I just shave everything just so I can clean up.
+
+2:22 - Andrew Doig (Learning Design Solutions UK)
+  I'm a pathetic beard grower. I can't really grow anything much, and it looks terrible, so I never do. I understand, like, my father, the whole time I knew him, he had a proper big, full beard, but I don't take his...  Yeah, I get a hairy neck. That's the only place I get really hairy. Same, same.
+
+2:46 - Vlad Tudorie (Serenichron)
+  I have lots of patches of just empty skin there. It doesn't look good, so. Asana. Asana, okay.
+
+2:58 - Andrew Doig (Learning Design Solutions UK)
+  So... Oh, let me just quickly show you what I'm seeing. Let's go. Okay, so Learning Design Solutions, Asana Advanced Organizations, two seats.  So that's what I've got, but I'm on a free trial. doesn't actually tell me how long the free trial lasts for.
+
+3:29 - Vlad Tudorie (Serenichron)
+  Okay, so what we would want to do is to change the plan so that instead of charging you yearly, it charges you monthly.  The free trial should still be going on for like the next 10 days.
+
+3:46 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, it's kind of great out of that option, which is a bit annoying.
+
+3:49 - Vlad Tudorie (Serenichron)
+  Okay, we should contact them directly then. Yeah, okay. It would be better not to stop the free trial just because I'm making active use of the...
+  ACTION ITEM: Contact Asana support to change billing plan from yearly to monthly
+ - WATCH: https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka?timestamp=244.9999  So... ... Of the capabilities, right? Mapping onto the portfolios. We've been doing some test imports. I'm working on getting the structure created into the Asana space.  Okay.
+
+4:15 - Andrew Doig (Learning Design Solutions UK)
+  So I'll do chat with us and I shall go through and see if I can get them to make sure it's been used as a monthly build plan.  Yes.
+
+4:24 - Vlad Tudorie (Serenichron)
+  And if they refuse to change it and we need to cancel the plan and then resubscribe, that's also fine.
+
+4:33 - Andrew Doig (Learning Design Solutions UK)
+  want me to leave it alone for the next nine days if we've got 10 days on the subscription?
+
+4:40 - Vlad Tudorie (Serenichron)
+  I wouldn't postpone it until the last possible moment, to be fair. Okay. Now it's also not super expensive. The entire principle is that you're investing a lot and especially you're going to be investing a lot of time.  I'm and energy over the coming months in order to get up to speed in this entire ecosystem. So 500 pounds in the world.  My concern is more as we add more seats.
+
+5:15 - Andrew Doig (Learning Design Solutions UK)
+  Well, you're not supposed to add more seats.
+
+5:18 - Vlad Tudorie (Serenichron)
+  Okay. Oh, yeah, that's why we did the .dev thing.
+
+5:20 - Andrew Doig (Learning Design Solutions UK)
+  That's why we set up the .dev. Yeah, Good point. Good point.
+
+5:23 - Vlad Tudorie (Serenichron)
+  So any person that you invite into the store?
+
+5:26 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, 500 is not too significant a number as long as we're making very good use of it.
+
+5:34 - Vlad Tudorie (Serenichron)
+  Yeah, we should be moving everything in there. Speaking of, so I've run an analysis on the Asana native time tracking.  And the way that I see it, based on its capabilities, is that I think my suggestion to you is going to be that for your contractors and collaborators and team.  is with for You get them to use the Asana tracking so that you don't invite them into a separate workspace, don't pay for separate seats inside of Clockify and the like.  You just put everything, like, they just use the one solution, they use Asana. And then the time tracking from within Asana will allow you to perform all of the reporting and visualization and logging of time.  And inside of Clockify, you can then do the expense monitoring and the tracking by, so we can do it in two ways.  Either an API connection between Asana and Clockify so that the entries for the time allotted are recorded in there.  Or just a straight manual pull of expenses into there, that also works, or forecasts as well. Because... Because, yeah, the native functionality is neat and clean and easy to use enough where it makes a lot more sense just to use the Asana one for collaborators.
+
+7:11 - Andrew Doig (Learning Design Solutions UK)
+  Yeah.
+
+7:13 - Vlad Tudorie (Serenichron)
+  Okay, so for today, where we are with the project is I have been beginning to import into a test Asana portfolio and the test Asana project.  Project plan for module development, as you shared it. It's not yet at the point where I want us to review it yet.  I'm expecting us to have that ready to review by Thursday.
+
+7:46 - Andrew Doig (Learning Design Solutions UK)
+  Okay, cool.
+
+7:49 - Vlad Tudorie (Serenichron)
+  I do have a set of questions that would help with some decision making and driving forward as far as  um you know making making uh the correct decisions for the project sure so let me open up the doc share it with you and basically show you what i'm working off of right now and this also presents a specification for you for specifically the module development project template um let me make sure that you're added yes you have uh capabilities to view this template so inside of the google drive show file location right inside the process templates folder that you created and uploaded yeah there is a new file called asana module development template specification
+
+9:05 - Andrew Doig (Learning Design Solutions UK)
+  Thank you. Okay. Asana, the module development template specification. Yeah. Perfect.
+
+9:39 - Vlad Tudorie (Serenichron)
+  Would you mind doing a share screen so we walk through together? Yeah, sure. Okay. So as we make decisions and I work on the spec, I will...  If to update this document, this is specific to the module development phase. So for other workflows and processes, we will create different docs.  It's based on an analysis of the project template. And it is a bit comprehensive. The idea is not necessarily that you read all of it.  It's mainly used for myself as a spec. But there are questions. So let's scroll down a little bit. For example, in the executive summary, we noticed that there's a small discrepancy in the template from the 16-week lifecycle, right?  Probably due to the 10-week buffer between development and go-live. But there's also a couple of changes. So storyboarding is given more time in week one.  Yeah. We just want to clarify. And my assumption here... Is that you probably need some flexibility and you and these depend on the negotiation that goes on with the client when you scope out a new program.
+
+11:10 - Andrew Doig (Learning Design Solutions UK)
+  Week one deliberately has doubled the amount of time because there's lots of decisions that are made at that point and lots of learning for usually for the SME who may not have worked in this way before.  We try and avoid flex, but inevitably comes into it, but that's kind of just managed delay because I track this as on schedule, behind schedule, which is managed delay and then at risk where we think that the delay is going to cause problems.  So we try and stick to that 16 week schedule and the 17 to 18 weeks from kickoff, that would only be where we've planned break in.  Like holidays and stuff like that. Yeah, like the Christmas break, like everything that runs over Christmas, we've put a two-week break in.  That's why there's 18 weeks. But otherwise, I'm fairly certain it's a 16-week schedule. Okay.
+
+12:09 - Vlad Tudorie (Serenichron)
+  The 10-week buffer, is that more of a standard or is it?
+
+12:13 - Andrew Doig (Learning Design Solutions UK)
+  It's not a standard. It just depends on where in the lifecycle of the program this particular development starts. I can show you.  Actually, let me show you if I've got a waterfall. Client development overview. So if we look at the modules that kicked off in, let's go to, well, not October.  The ones that kicked off in September, these are going live on a cascade. So there's a module going live every month.  Now, biological... Cognitive actually has 16 weeks and then it goes live in December. There is no buffer. Cognitive Psychology has a four-week buffer.  Cyber Psychology has an eight to nine-week buffer. So it just depends where on the lifestyle calendar program, the development is happening.  I tend to do them in tranches. It's just easier to manage batches of kickoffs at the same time. So we don't even always have a buffer.  But there's pros and cons of having a buffer. If you have a buffer, it tends to get used. So it goes from a 16-week schedule to an 18-week, 19-week, 20-week, which is what I try to avoid because I always have to reallocate resources.  If it's a 16-week with no buffer, then everyone's got to be on point to get it delivered on time.  And it often takes a little bit of extra action to get it completed on time. So the buffer is not a fixed schedule.  It's a changeable. Okay.
+
+14:04 - Vlad Tudorie (Serenichron)
+  In principle, let's scroll down. I've documented your feedback on this. Does the client ever, or has it been a situation where the client requested a buffer in between the actual development and the launch of their program for reasons that don't have to do with your development?
+
+14:27 - Andrew Doig (Learning Design Solutions UK)
+  Sometimes there is a preference for that. And that often people like, conceptually, like the idea that materials are ready to go well before launch date.  I will negotiate around that because, again, it's just about availability of resources, both on their side and my side, to get that in place.  But it does happen. Yeah. Okay.
+
+14:54 - Vlad Tudorie (Serenichron)
+  So the preference is that you would negotiate against that?
+
+14:58 - Andrew Doig (Learning Design Solutions UK)
+  I would negotiate. It's around, I wouldn't necessarily negotiate against it. I would just put in provisos. It creates a useful conversation about ownership and responsibility because for a module development to happen on time where we have a buffer and not just keep bleeding into that extra time, I need the management team to actually line manage the academic resources because if academic resources are left to their own devices, they see the launch date as six months away and you think, well, there's no pressure to get this done.  So they don't push themselves to get the work done in time, whereas I need it to be a very managed process.  And some clients are better at that than others. Okay.
+
+15:49 - Vlad Tudorie (Serenichron)
+  Have you had the situation where you needed to align to academic years?
+
+15:57 - Andrew Doig (Learning Design Solutions UK)
+  Well, so the mid... Well, mid... Well, I do align to academic years, but that's all in the pre-planning. So the development is always against monstates.  And now, for example, if I have a client that has a traditional academic year, then generally we're trying to get our first module complete in September so it's ready to start.  The thing about online programs is they very often don't follow the traditional academic year. So Walbrook, for example, launched their first module of their MBA in July, and then are launching a new module every month for 14 months.  So it really just depends on the operational decisions of the institution on how they actually want to deliver their programs.  Okay, that helps a lot.
+
+16:53 - Vlad Tudorie (Serenichron)
+  So you can scroll down. I have noticed... Sorry, just one thing I'll point out is...
+
+17:00 - Andrew Doig (Learning Design Solutions UK)
+  See the 10 days and five days, notice that that's a 10-day window. Just emphasize it's not 10 days of effort.  It's a 10-day window to get that work done. For the SME, it's approximately per week. It's an eight hour, you know, one day per week.  For the Learning Designer, that's more like 10 hours per week, 20 hours over that two-week first period. That's how they built my estimates anyway.  Mm-hmm.
+
+17:29 - Vlad Tudorie (Serenichron)
+  We will dive deeper specifically into the estimation part later when we move straight on to Asana. So once we have the full template up in Asana with all of the interdependencies, subtasks, and connections, then we need to estimate the time on the individual, at least on the individual master tasks, if not the individual subtasks.  Because then when people record their time, they will record it against the task. can compare how much you are under or over the estimate, which will also help you over time to improve those estimates.  Okay, so if you scroll down to Timeline Architecture, actually it doesn't help to click on that, but you do have that.  So just very briefly pull these into a sheet and put the notes of your feedback right underneath that table where it will say critical note clarifications for the 10-week buffer.  And then we were looking at what you mentioned, the 10-day allocation for the storyboarding, which happens in week one.  So this is a confirmation from you that this is deliberate and that you need more time for SMEs to understand the storyboard format.
+
+18:55 - Andrew Doig (Learning Design Solutions UK)
+  That's correct. Okay. Love. If a client was wanting to trim time out of the project, I would reduce that to a week.  And, you know, I'd probably reduce the initiation phase down to two weeks and probably our QA we could reduce by a week if someone really wanted to get closer to a 12 week, 13 week development schedule.  But generally, I set expectations like the client doesn't know how long these things take. Actually, 16 weeks is a pretty aggressive schedule.  But the reason I have confidence in it now is because of how actively we're using AI to get scripts written.
+
+19:36 - Vlad Tudorie (Serenichron)
+  Okay. Do you mind repeating that part about the other sections of the module development where you are?
+
+19:50 - Andrew Doig (Learning Design Solutions UK)
+  Yeah. If we were going to, if, because I presented 16 weeks and actually we've had to do this. So I had a module ECI that I ended up.  I'm doing part of the development for, and the academic pulled out at the last minute. It was on a tight, no-buffer schedule, and we had to reduce it down to a 13-week project.  So we took a week out of the week one development. We took a week out of the initiation. So that became two weeks rather than three.  And we took a week out of the sort of finalization, the QA and finalization, which is at the end.
+
+20:30 - Vlad Tudorie (Serenichron)
+  Okay. But in general, week 16-week schedule is already addressed.
+
+20:42 - Andrew Doig (Learning Design Solutions UK)
+  And just to clarify, I mean, it's in the spreadsheet, so it's probably obvious, but, you know, week one development, and then we have week one build.  But week one build overlaps with week two development. Right, so because the development team is a learning designer on the SME, they hand off.  The learning technologist for build. So the build is happening while week two is in development and so on as we go through the rest of the development.
+
+21:10 - Vlad Tudorie (Serenichron)
+  Ah, that's a great. So this actually doesn't lengthen the 16-week process. No. Which means it does not.
+
+21:22 - Andrew Doig (Learning Design Solutions UK)
+  So even when we get to the finalization phase, week eight will be getting built at the same time as final videos are being short and you know, there's as much as possible things happen concurrently to reduce the overall time frame.  Okay.
+
+21:44 - Vlad Tudorie (Serenichron)
+  Feel free to scroll down from that table as well. So this is where I put in the clarifications about the 10-week buffer and beneath that for the week one special structure, the clarifications for that.  Yeah. Okay. Okay. If. If you scroll further to the Asana hierarchy structure, this is just in a nutshell so that you could easily view, if you don't mind, I'm going to change the format here to pageless because there's no point having a paged format in this document.  If you want to do the same, it can be done from the format, switch to pageless format option. I see, so it just becomes a scroll through, yeah.  Yes, it's much more neat and fits better on screen. So we are assuming here that we will lay out this module development as a project inside of the portfolio and that the nesting, our overall hierarchy will be four levels of nesting deep.  So portfolio, project, section, task, subtask. With an example right there, you're seeing an example of what that might look like.  inside of the portfolio, inside of the project, and then inside of the sections. Yep.
+
+23:07 - Andrew Doig (Learning Design Solutions UK)
+  Okay.
+
+23:10 - Vlad Tudorie (Serenichron)
+  Build tasks are not sub-tasks. So those are separate top-level tasks inside of the section. As you said, build happens concurrent with development.
+
+23:22 - Andrew Doig (Learning Design Solutions UK)
+  Yep.
+
+23:24 - Vlad Tudorie (Serenichron)
+  Reviews are separate tasks, batch reviews.
+
+23:27 - Andrew Doig (Learning Design Solutions UK)
+  Yep. Because that's been carried out, and by a third party, we'd get another academic in to carry out the review.
+
+23:38 - Vlad Tudorie (Serenichron)
+  Okay. The film shoots are top-level separate tasks, so they're in the timeline, but not subject to any other sub-tasks.  Yeah. And the launch section, for now, we had that separated to emphasize the 10-week buffer, but we may revise that because you would actually, in an ideal situation, you would never...  Yeah, yeah.
+
+24:03 - Andrew Doig (Learning Design Solutions UK)
+  I mean, launch is not my task, right? So my job is to get everything to the point where it's ready for launch.  And then launch is a client task. But whenever once everything's ready for launch, the client takes ownership of it.  And then it's their responsibility to add the students and to, you know, prep the tutors and make it live.  Okay.
+
+24:28 - Vlad Tudorie (Serenichron)
+  Andrew's job is to get everything ready for launch. Launch is the client's responsibility. I'll take note of that so that we adjust its placement into the format.  Okay. Now, if you scroll down further beyond the structural key findings area, we enter the area of the custom fields.  And here, I've suggested a quite extensive... A library of recommended fields, not all of them would be used for every single task, but for the most part, they are so that when working outside of a given individual program, right, that you are able to have at a glance visibility.  If you randomly pull up a task, let's say you're monitoring your inbox, and there's a communication coming in on a given task inside of a given module, inside of a given client portfolio, task, at a glance, you see core information, what module is under development, what's the client that this is being developed for, inside of which program, all of the relative data relevant to to the given project.
+  ACTION ITEM: Review custom fields in Asana module dev template spec doc. Provide feedback on additions/removals
+ - WATCH: https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka?timestamp=1544.9999  Sure. Um, so in total, I believe we've recommended 22. If I'm not mistaken, please have a look over if you believe we are missing fields, if you believe that there are too many fields, there's just too much information, or some information is redundant and not worth keeping track of inside of this format, please let us know.  The final spec is subject to approval. And, of course, we may determine in the future as we continue to implement that, ah, we're missing a field, let's recommend that and add that in later.  We can do that, right? It's flexible. But, ah, as a starter, yes, please, ah, please review these when you have some time.  Sure. And all, you don't need to confirm every single thing, like just if, if something needs to change, then please let us know.  Okay. Okay. Um, do you think it necessary for us to go through the fields, right? No, no, no, I'll go put it in myself and I'll work it out.
+
+27:04 - Andrew Doig (Learning Design Solutions UK)
+  Okay.
+
+27:06 - Vlad Tudorie (Serenichron)
+  So then in section four, we are reviewing the initiation and planning section. So this is where we start to break down the individual sections inside of the module development project.  As of now, the number of tasks and subtasks, they're basically details here, right? So that there would be a kickoff meeting.  With two subtasks, then module planning with four subtasks and so on. This is also a good place to review and let us know if something might be missing or if there's a caveat or if it's redundant, if there's too much granularity.  The idea is also that anything that should be assigned to a person with the instructions that they need to have is included as a task.  Subtasks with the instructions that they need to have, right? So that when you instantiate the project, you basically go ahead and start assigning things.  Sure. So particularly valuable is if there's missing information, missing tasks, missing context that would need to be assigned to somebody.  That's where I would ask you to please put the document in suggestion mode and add those in where appropriate.  Okay. For the most part, I'm hoping, like, we should not have missed anything from the template, but just in case maybe there was something not explicitly written down in the template or you notice it as you go through, that is where you should suggest them.  We are going to get to be able to do that on the actual Asana project template once that's ready anyway, but it'll be just better if you just have to add in a line.  Yeah, sure. And the same applies to all of the subsequence sections. Now, one of the questions, I would say, is whether, and I'm assuming that we will have sections for every week of development, right?  So that once we move beyond week one, you have a section for week two, section for week two.
+
+29:22 - Andrew Doig (Learning Design Solutions UK)
+  Yes, that's basically what we're tracking against to check the health of the project. Okay.
+
+29:30 - Vlad Tudorie (Serenichron)
+  With a standard five-day pattern for each, what did I do here with the storyboarding? So, the same storyboarding plus build process applies where, okay, so this is correct as it's laid out.
+
+29:52 - Andrew Doig (Learning Design Solutions UK)
+  But, yeah, the only thing that, of course, week one and two review can't happen until week two is complete.  Yes.
+
+30:00 - Vlad Tudorie (Serenichron)
+  Okay. me take a note. Task appears in week one section, but does not start until week two build is complete.
+
+30:08 - Andrew Doig (Learning Design Solutions UK)
+  Yeah.
+
+30:11 - Vlad Tudorie (Serenichron)
+  Film shoots. Since we did take a note here about film shoots, what, how are these, first, they don't always happen, I'm assuming.
+
+30:26 - Andrew Doig (Learning Design Solutions UK)
+  So there's, there's three things that can happen. Okay. ideal is that if the academic is within catchment of London, then that's why we have two batches because they will come in to the campus with internal team who will sit and video record them presenting their microlectures and everything else.  And, and, you know, in four weeks, you'll probably have about anything up to about 20 videos to shoot, which is why we split it in two.  And then that gets handed off to my team to edit. The alternative is, there's two alternatives. One is that they can't come into campus, in which if they're outside of catchment, in which case they will record themselves at their desk, and we'll just use those in their microlectures.  So we'll get home-recorded videos. The third one is that we'll make use of AI avatars, but at a minimum, we will get the weekly introductions from the academics.  the, hi, welcome to week one, this week we're going to do this, that, and the other, either as a desktop or as a video shoot.  So it's just a negotiation with the academic about what their availability is, what their comfort levels are with being videoed, and build a plan around that.  The majority are doing two batches of filming on campus. And that's for this particular client. know, every, one of the big cost considerations for a client is  Video production against their internal capabilities. When I'm negotiating with a new client, one of the things I will be suggesting is that we can get a professional, like I have a very good friend who's a professional filmographer, and that we can bring in professional video production and do those shoots with them.  But that brings in quite a lot of extra cost.
+
+32:32 - Vlad Tudorie (Serenichron)
+  Okay, so in general, you propose the film shoots as these three options. The first being ideal, but the second and third being fallbacks.  And in regards to the batches, so in this example, there was a six-day batch in week five, and then a five-day batch in week eight.  But I'm assuming these are likely to be very flexible.
+
+32:57 - Andrew Doig (Learning Design Solutions UK)
+  Yes, they have to be flexible, because it's more They're dependent on availability of resources that are outside of my management.  So the client resources are needed to carry out the shoots and they negotiate with the academics about when they're going to come in.  So the window that's in my plan is nominal and I'm just trying to show that that thing has to happen around that time.
+
+33:25 - Vlad Tudorie (Serenichron)
+  Okay, these windows are nominal and recommended to the client around the suggested times. The only time they're not nominal is if there's no buffer.
+
+33:40 - Andrew Doig (Learning Design Solutions UK)
+  If a module goes live immediately at the end of that 16 week period, we have to get the film shoot done in that timeframe.  Otherwise there won't be time to edit the video and get it into the course.
+
+33:56 - Vlad Tudorie (Serenichron)
+  Okay, that's good, Schedule is non-negotiable. Okay. That moves us into the finalization section. Is it always around 20 days?  Yeah. Okay. Fairly consistently.
+
+34:22 - Andrew Doig (Learning Design Solutions UK)
+  Yeah.
+
+34:24 - Vlad Tudorie (Serenichron)
+  Grouped in the finalization area for organization, despite happening in week five development. I specifically mean the film shoot for the first batch.
+
+34:33 - Andrew Doig (Learning Design Solutions UK)
+  Yeah. Okay.
+
+34:35 - Vlad Tudorie (Serenichron)
+  Also, the second batch starts at the beginning of finalization. This is when you do proofreading, the review for weeks three to eight.  So you only batch these all in one go at finalization. Is that correct? The proofreading? The batch review for weeks three to eight.
+
+34:55 - Andrew Doig (Learning Design Solutions UK)
+  Oh, I see. The academic review has to happen at the end there. One thing I'm saying. Academic Review has been super inconsistent with this particular client.  Again, it's about getting resource commitment from the client, which is difficult with academic teams. But yeah, they do a batch review.  The academic review tends to be a lighter touch than the proofreading, which gets into the detail.
+
+35:20 - Vlad Tudorie (Serenichron)
+  Okay. And that also falls within Christmas for this specific example, correct? Was this for marketing?
+
+35:35 - Andrew Doig (Learning Design Solutions UK)
+  I can't recall. If it did fall within Christmas, I would have, should have put a two-week buffer across the Christmas period.
+
+35:44 - Vlad Tudorie (Serenichron)
+  I think this might be an omission by me because I worked off of the template. Yeah.
+
+35:51 - Andrew Doig (Learning Design Solutions UK)
+  As opposed to the template and stick a date on it, it will come up with dates that run straight through Christmas.  So I can show you an example for all the modules that kicked off recently. the on. hopefully... hopefully... So  I put a two-week buffer where there's no expectation of work in Christmas week and New Year's week, and then we start again back on the first week of January.  Got it.
+
+36:12 - Vlad Tudorie (Serenichron)
+  Let's maybe 18 weeks.
+
+36:14 - Andrew Doig (Learning Design Solutions UK)
+  That's the only time it becomes 18 weeks is when we run across the Christmas period. Yes.
+
+36:20 - Vlad Tudorie (Serenichron)
+  So here, because I had questions specifically about how to handle this. So I will say, answer, two-week buffer signaling, no work being done during these holidays.  Yeah. So yes, the answer is yes, we should build in holiday detection warnings.
+
+36:51 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, but only for Christmas or at the outset of a module development, like for example, in the summer we have to do a lot of this.  At the outset of a module development. The academic will say, oh, yeah, yeah, I'm available to do this work.  Apart from, I'm going to be away for two weeks in August. So we need to plan around that. However, if it's only two weeks, we tend to mitigate that by getting them ahead on the work that they're expected to do, or the learning designer can continue doing work, and then they batch a bit more of their work when they come back.
+
+37:22 - Vlad Tudorie (Serenichron)
+  Got it. The second break that we accommodate everybody for. Yeah. Would it be accurate to say here, so yes for Christmas, or if the academic signals out of office time during the program development schedule?
+
+37:36 - Andrew Doig (Learning Design Solutions UK)
+  Absolutely.
+
+37:38 - Vlad Tudorie (Serenichron)
+  All right. So this is not a typical schedule, but it will happen. Not typical, but will inevitably happen, and must be accounted for.  Okay, going back to number four. So we were in sections here. We detailed on the special notes. We spoke about finalization.  Now, finalization. Sorry, can I just pick up on something?
+
+38:11 - Andrew Doig (Learning Design Solutions UK)
+  So the film shoot isn't dependent on build. It's only dependent on storyboarding. Film shoot happens when we have a script.  We don't have to have a built course. So film shoot can happen any time after the storyboard completion. Any time after the storyboard has been written, we will have the video scripts ready.  And similarly, proofreading does not depend on the film shoot. We will proofread without the video in place.
+
+38:52 - Vlad Tudorie (Serenichron)
+  We will proofread without the video in place. Excellent. The review does depend on the completion. Corrections do depend on the review.  And ready for launch status does depend on corrections completion. Ready for launch depends on corrections completion.
+
+39:20 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, week three, actually no, week three to eight review doesn't depend on week build completion because they can review and storyboard as well.  Okay. Most of the review happens in build, but review can happen in storyboard.
+  ACTION ITEM: Review "Questions for Andrew" section in Asana module dev template spec. Answer structure & review process Qs
+ - WATCH: https://fathom.video/share/s2BW7yGTcUhVudju9xZD-qoRbA6PGbka?timestamp=2376.9999
+
+39:40 - Vlad Tudorie (Serenichron)
+  Excellent. Okay, so in...
+
+39:43 - Andrew Doig (Learning Design Solutions UK)
+  So I have two minutes, Vlad.
+
+39:47 - Vlad Tudorie (Serenichron)
+  Then I would say that at this point, I would ask you if you can make time prior to our call on Thursday, especially the first place to look is in...  ... ... ... The questions for Andrew area, I've already answered, so we've already answered the 10-week lunch buffer, but do please take a look at the structure questions, review process questions, whether they should remain batched always according to that schedule, does it ever change, right, the flexibility basically.  Yeah. Yeah. Anything that you answered above, you can skip. Yeah. Please get that to me when you can. Ooh, it's a big document.
+
+40:38 - Andrew Doig (Learning Design Solutions UK)
+  So where are questions for Andrew?
+
+40:40 - Vlad Tudorie (Serenichron)
+  Use the, ideally, you can use the here.
+
+40:46 - Andrew Doig (Learning Design Solutions UK)
+  Oh, Yeah, go ahead.
+
+40:46 - Vlad Tudorie (Serenichron)
+  Control F if necessary. It is a big document, but it's, I think it's important to be thorough.
+
+40:53 - Andrew Doig (Learning Design Solutions UK)
+  Yeah, for sure. For sure. No, no, better to be thorough at this stage, and then we can do it accurately when it comes to set.  don't imagine? Thank Cool. I will try my best to do that today. don't have too much on today, so it'll make sense for me to have a look there.
+
+41:07 - Vlad Tudorie (Serenichron)
+  Beautiful. Thank you. Cool.
+
+41:09 - Andrew Doig (Learning Design Solutions UK)
+  Okay. Thanks a lot, Vlad. Talk to you on Thursday. Talk to you on Thursday. Be well. Bye. Bye.
