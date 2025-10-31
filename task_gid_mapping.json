@@ -1,0 +1,76 @@
+{
+  "project_id": "1211626875246589",
+  "project_name": "Template TEST - Project Plan",
+  "task_mapping": {
+    "Kick off meeting": "1211627671084302",
+    "Module Planning Document": "1211627671084305",
+    "MPD Draft": "1211627678168600",
+    "MPD Finalised": "1211627678168601",
+    "MPD review": "1211627678168604",
+
+    "Week 1 - Storyboarding": "1211627678168607",
+    "Week 1 - Storyboard Initial LD Draft": "1211627678168608",
+    "Week 1 - Storyboard SME Scripts Draft": "1211627678168609",
+    "Week 1 - Edit": "1211627678168610",
+    "Week 1 - Storyboard Final draft agreed": "1211627678168611",
+    "Week 1 - Build": "1211627678168612",
+    "Week 1 and 2 review": "1211627678168613",
+
+    "Week 2 - Storyboarding": "1211627678168616",
+    "Week 2 - Storyboard Initial LD Draft": "1211627678168617",
+    "Week 2 - Storyboard SME Scripts Draft": "1211627678168618",
+    "Week 2 - Edit": "1211627678168619",
+    "Week 2 - Storyboard Final draft agreed": "1211627678168620",
+    "Week 2 - Build": "1211627678168621",
+
+    "Week 3 - Storyboarding": "1211627678168624",
+    "Week 3 - Storyboard Initial LD Draft": "1211627678168625",
+    "Week 3 - Storyboard SME Scripts Draft": "1211627678168626",
+    "Week 3 - Edit": "1211627678168627",
+    "Week 3 - Storyboard Final draft agreed": "1211627678168628",
+    "Week 3 - Build": "1211627678168629",
+
+    "Week 4 - Storyboarding": "1211627678168632",
+    "Week 4 - Storyboard Initial LD Draft": "1211627678168633",
+    "Week 4 - Storyboard SME Scripts Draft": "1211627678168634",
+    "Week 4 - Edit": "1211627678168635",
+    "Week 4 - Storyboard Final draft agreed": "1211627678168636",
+    "Week 4 - Build": "1211627678168637",
+
+    "Week 5 - Storyboarding": "1211627678168640",
+    "Week 5 - Storyboard Initial LD Draft": "1211627678168641",
+    "Week 5 - Storyboard SME Scripts Draft": "1211627678168642",
+    "Week 5 - Edit": "1211627678168643",
+    "Week 5 - Storyboard Final draft agreed": "1211627678168644",
+    "Week 5 - Build": "1211627678168645",
+
+    "Week 6 - Storyboarding": "1211627678168648",
+    "Week 6 - Storyboard Initial LD Draft": "1211627678168649",
+    "Week 6 - Storyboard SME Scripts Draft": "1211627678168650",
+    "Week 6 - Edit": "1211627678168651",
+    "Week 6 - Storyboard Final draft agreed": "1211627678168652",
+    "Week 6 - Build": "1211627678168653",
+
+    "Week 7 - Storyboarding": "1211627678168656",
+    "Week 7 - Storyboard Initial LD Draft": "1211627678168657",
+    "Week 7 - Storyboard SME Scripts Draft": "1211627678168658",
+    "Week 7 - Edit": "1211627678168659",
+    "Week 7 - Storyboard Final draft agreed": "1211627678168660",
+    "Week 7 - Build": "1211627678168661",
+
+    "Week 8 - Storyboarding": "1211627678168664",
+    "Week 8 - Storyboard Initial LD Draft": "1211627678168665",
+    "Week 8 - Storyboard SME Scripts Draft": "1211627678168666",
+    "Week 8 - Edit": "1211627678168667",
+    "Week 8 - Storyboard Final draft agreed": "1211627678168668",
+    "Week 8 - Build": "1211627678168669",
+
+    "Film shoot - first batch": "1211627678168672",
+    "Film shoot - second batch": "1211627678168673",
+    "Proofreading": "1211627678168674",
+    "Weeks 3 to 8 review": "1211627678168675",
+    "Corrections": "1211627678168676",
+    "Ready for launch": "1211627678168677",
+    "Go live": "1211627678168680"
+  }
+}

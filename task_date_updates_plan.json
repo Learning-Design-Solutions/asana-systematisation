@@ -1,0 +1,495 @@
+{
+  "launch_date_anchor": "2026-01-05",
+  "total_updates": 61,
+  "updates": [
+    {
+      "task_name": "Kick off meeting",
+      "task_gid": "1211627671084302",
+      "start_on": "2025-09-15",
+      "due_on": "2025-09-19",
+      "days_before_launch": 112,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Module Planning Document",
+      "task_gid": "1211627671084305",
+      "start_on": "2025-09-15",
+      "due_on": "2025-09-19",
+      "days_before_launch": 112,
+      "duration_days": 5
+    },
+    {
+      "task_name": "MPD Draft",
+      "task_gid": "1211627678168600",
+      "start_on": "2025-09-20",
+      "due_on": "2025-09-24",
+      "days_before_launch": 107,
+      "duration_days": 5
+    },
+    {
+      "task_name": "MPD Finalised",
+      "task_gid": "1211627678168601",
+      "start_on": "2025-09-25",
+      "due_on": "2025-09-29",
+      "days_before_launch": 102,
+      "duration_days": 5
+    },
+    {
+      "task_name": "MPD review",
+      "task_gid": "1211627678168604",
+      "start_on": "2025-09-27",
+      "due_on": "2025-10-01",
+      "days_before_launch": 100,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 1 - Storyboarding",
+      "task_gid": "1211627678168607",
+      "start_on": "2025-10-06",
+      "due_on": "2025-10-15",
+      "days_before_launch": 91,
+      "duration_days": 10
+    },
+    {
+      "task_name": "Week 1 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168608",
+      "start_on": "2025-10-06",
+      "due_on": "2025-10-10",
+      "days_before_launch": 91,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 1 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168609",
+      "start_on": "2025-10-11",
+      "due_on": "2025-10-13",
+      "days_before_launch": 86,
+      "duration_days": 3
+    },
+    {
+      "task_name": "Week 1 - Edit",
+      "task_gid": "1211627678168610",
+      "start_on": "2025-10-14",
+      "due_on": "2025-10-15",
+      "days_before_launch": 83,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 1 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168611",
+      "start_on": "2025-10-16",
+      "due_on": "2025-10-16",
+      "days_before_launch": 81,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 1 - Build",
+      "task_gid": "1211627678168612",
+      "start_on": "2025-10-21",
+      "due_on": "2025-10-25",
+      "days_before_launch": 76,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 1 and 2 review",
+      "task_gid": "1211627678168613",
+      "start_on": "2025-11-03",
+      "due_on": "2025-11-07",
+      "days_before_launch": 63,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 2 - Storyboarding",
+      "task_gid": "1211627678168616",
+      "start_on": "2025-10-26",
+      "due_on": "2025-10-30",
+      "days_before_launch": 71,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 2 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168617",
+      "start_on": "2025-10-26",
+      "due_on": "2025-10-27",
+      "days_before_launch": 71,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 2 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168618",
+      "start_on": "2025-10-28",
+      "due_on": "2025-10-29",
+      "days_before_launch": 69,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 2 - Edit",
+      "task_gid": "1211627678168619",
+      "start_on": "2025-10-30",
+      "due_on": "2025-10-30",
+      "days_before_launch": 67,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 2 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168620",
+      "start_on": "2025-10-31",
+      "due_on": "2025-10-31",
+      "days_before_launch": 66,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 2 - Build",
+      "task_gid": "1211627678168621",
+      "start_on": "2025-11-05",
+      "due_on": "2025-11-09",
+      "days_before_launch": 61,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 3 - Storyboarding",
+      "task_gid": "1211627678168624",
+      "start_on": "2025-11-02",
+      "due_on": "2025-11-06",
+      "days_before_launch": 64,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 3 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168625",
+      "start_on": "2025-11-02",
+      "due_on": "2025-11-03",
+      "days_before_launch": 64,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 3 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168626",
+      "start_on": "2025-11-04",
+      "due_on": "2025-11-05",
+      "days_before_launch": 62,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 3 - Edit",
+      "task_gid": "1211627678168627",
+      "start_on": "2025-11-06",
+      "due_on": "2025-11-06",
+      "days_before_launch": 60,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 3 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168628",
+      "start_on": "2025-11-07",
+      "due_on": "2025-11-07",
+      "days_before_launch": 59,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 3 - Build",
+      "task_gid": "1211627678168629",
+      "start_on": "2025-11-08",
+      "due_on": "2025-11-12",
+      "days_before_launch": 58,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 4 - Storyboarding",
+      "task_gid": "1211627678168632",
+      "start_on": "2025-11-08",
+      "due_on": "2025-11-12",
+      "days_before_launch": 58,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 4 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168633",
+      "start_on": "2025-11-08",
+      "due_on": "2025-11-09",
+      "days_before_launch": 58,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 4 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168634",
+      "start_on": "2025-11-10",
+      "due_on": "2025-11-11",
+      "days_before_launch": 56,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 4 - Edit",
+      "task_gid": "1211627678168635",
+      "start_on": "2025-11-12",
+      "due_on": "2025-11-12",
+      "days_before_launch": 54,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 4 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168636",
+      "start_on": "2025-11-13",
+      "due_on": "2025-11-13",
+      "days_before_launch": 53,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 4 - Build",
+      "task_gid": "1211627678168637",
+      "start_on": "2025-11-15",
+      "due_on": "2025-11-19",
+      "days_before_launch": 51,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 5 - Storyboarding",
+      "task_gid": "1211627678168640",
+      "start_on": "2025-11-15",
+      "due_on": "2025-11-19",
+      "days_before_launch": 51,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 5 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168641",
+      "start_on": "2025-11-15",
+      "due_on": "2025-11-16",
+      "days_before_launch": 51,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 5 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168642",
+      "start_on": "2025-11-17",
+      "due_on": "2025-11-18",
+      "days_before_launch": 49,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 5 - Edit",
+      "task_gid": "1211627678168643",
+      "start_on": "2025-11-19",
+      "due_on": "2025-11-19",
+      "days_before_launch": 47,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 5 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168644",
+      "start_on": "2025-11-20",
+      "due_on": "2025-11-20",
+      "days_before_launch": 46,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 5 - Build",
+      "task_gid": "1211627678168645",
+      "start_on": "2025-11-22",
+      "due_on": "2025-11-26",
+      "days_before_launch": 44,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 6 - Storyboarding",
+      "task_gid": "1211627678168648",
+      "start_on": "2025-11-22",
+      "due_on": "2025-11-26",
+      "days_before_launch": 44,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 6 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168649",
+      "start_on": "2025-11-22",
+      "due_on": "2025-11-23",
+      "days_before_launch": 44,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 6 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168650",
+      "start_on": "2025-11-24",
+      "due_on": "2025-11-25",
+      "days_before_launch": 42,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 6 - Edit",
+      "task_gid": "1211627678168651",
+      "start_on": "2025-11-26",
+      "due_on": "2025-11-26",
+      "days_before_launch": 40,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 6 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168652",
+      "start_on": "2025-11-27",
+      "due_on": "2025-11-27",
+      "days_before_launch": 39,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 6 - Build",
+      "task_gid": "1211627678168653",
+      "start_on": "2025-11-29",
+      "due_on": "2025-12-03",
+      "days_before_launch": 37,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 7 - Storyboarding",
+      "task_gid": "1211627678168656",
+      "start_on": "2025-11-29",
+      "due_on": "2025-12-03",
+      "days_before_launch": 37,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 7 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168657",
+      "start_on": "2025-11-29",
+      "due_on": "2025-11-30",
+      "days_before_launch": 37,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 7 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168658",
+      "start_on": "2025-12-01",
+      "due_on": "2025-12-02",
+      "days_before_launch": 35,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 7 - Edit",
+      "task_gid": "1211627678168659",
+      "start_on": "2025-12-03",
+      "due_on": "2025-12-03",
+      "days_before_launch": 33,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 7 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168660",
+      "start_on": "2025-12-04",
+      "due_on": "2025-12-04",
+      "days_before_launch": 32,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 7 - Build",
+      "task_gid": "1211627678168661",
+      "start_on": "2025-12-06",
+      "due_on": "2025-12-10",
+      "days_before_launch": 30,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 8 - Storyboarding",
+      "task_gid": "1211627678168664",
+      "start_on": "2025-12-06",
+      "due_on": "2025-12-10",
+      "days_before_launch": 30,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Week 8 - Storyboard Initial LD Draft",
+      "task_gid": "1211627678168665",
+      "start_on": "2025-12-06",
+      "due_on": "2025-12-07",
+      "days_before_launch": 30,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 8 - Storyboard SME Scripts Draft",
+      "task_gid": "1211627678168666",
+      "start_on": "2025-12-08",
+      "due_on": "2025-12-09",
+      "days_before_launch": 28,
+      "duration_days": 2
+    },
+    {
+      "task_name": "Week 8 - Edit",
+      "task_gid": "1211627678168667",
+      "start_on": "2025-12-10",
+      "due_on": "2025-12-10",
+      "days_before_launch": 26,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Week 8 - Storyboard Final draft agreed",
+      "task_gid": "1211627678168668",
+      "start_on": "2025-12-11",
+      "due_on": "2025-12-11",
+      "days_before_launch": 25,
+      "duration_days": 0
+    },
+    {
+      "task_name": "Week 8 - Build",
+      "task_gid": "1211627678168669",
+      "start_on": "2025-12-13",
+      "due_on": "2025-12-17",
+      "days_before_launch": 23,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Film shoot - first batch",
+      "task_gid": "1211627678168672",
+      "start_on": "2025-11-10",
+      "due_on": "2025-11-15",
+      "days_before_launch": 56,
+      "duration_days": 6
+    },
+    {
+      "task_name": "Film shoot - second batch",
+      "task_gid": "1211627678168673",
+      "start_on": "2025-12-08",
+      "due_on": "2025-12-12",
+      "days_before_launch": 28,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Proofreading",
+      "task_gid": "1211627678168674",
+      "start_on": "2025-12-15",
+      "due_on": "2025-12-19",
+      "days_before_launch": 21,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Weeks 3 to 8 review",
+      "task_gid": "1211627678168675",
+      "start_on": "2025-12-22",
+      "due_on": "2025-12-26",
+      "days_before_launch": 14,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Corrections",
+      "task_gid": "1211627678168676",
+      "start_on": "2025-12-29",
+      "due_on": "2026-01-02",
+      "days_before_launch": 7,
+      "duration_days": 5
+    },
+    {
+      "task_name": "Ready for launch",
+      "task_gid": "1211627678168677",
+      "start_on": "2026-01-05",
+      "due_on": "2026-01-05",
+      "days_before_launch": 0,
+      "duration_days": 1
+    },
+    {
+      "task_name": "Go live",
+      "task_gid": "1211627678168680",
+      "start_on": "2026-03-12",
+      "due_on": "2026-03-12",
+      "days_before_launch": -66,
+      "duration_days": 0
+    }
+  ],
+  "missing_date_info": []
+}
